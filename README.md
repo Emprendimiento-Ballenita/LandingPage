@@ -3244,3 +3244,7 @@ Conclusiones TB1:
 - Anexo 5: Landing Page desplegada
 
 > [<u>https://emprendimiento-ballenita.github.io/LandingPage/</u>](https://emprendimiento-ballenita.github.io/LandingPage/)
+
+- Anexo 6: Repositorio de Landing Page con el archivo md del reporte
+
+> [<u>https://github.com/Emprendimiento-Ballenita/LandingPage</u>](https://github.com/Emprendimiento-Ballenita/LandingPage)
