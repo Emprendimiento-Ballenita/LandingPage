@@ -927,24 +927,14 @@ Ciclo de Vida del Software: Etapas por las que pasa el desarrollo.
 
 | Epic/Story ID      | Titulo                | Descripcion                         | Criterios de Aceptacion                                     | Relacionado con (Epic ID)
 |--------------------|-----------------------|-------------------------------------|-------------------------------------------------------------|----------------------   |
-| US01               | Registrar turista     | **Como turista quiero poder         | ESCENARIO: Registro exitoso como turista                    |  01
-                                               registrarme en la plataforma para   
-                                               acceder a todas las funcionalidades   Dado que el turista desea registrarse en la plataforma web
-                                               y servicios disponibles**           
-                                                                                     Cuando el turista ingrese sus datos correctamente en la 
-                                                                                     sección de registro para turistas
+| US01               | Registrar turista     | Como turista, quiero poder registrarme en la plataforma para acceder a todas las funcionalidades y servicios disponibles         | ESCENARIO: Registro exitoso como turista | ESCENARIO: Registro exitoso como turista                        Dado que el turista desea registrarse en la plataforma web                       Cuando el turista ingrese sus datos correctamente en la sección de registro para turistas    Y de clic en “registrar”                                              Entonces el turista se registrará de forma exitosa
 
-                                                                                    
- |  US01               | Registrar turista     | **Como turista quiero poder         | ESCENARIO: Registro exitoso como turista                    |  01
-                                               registrarme en la plataforma para   
-                                               acceder a todas las funcionalidades   Dado que el turista desea registrarse en la plataforma web
-                                               y servicios disponibles**           
-                                                                                     Cuando el turista ingrese sus datos correctamente en la 
-                                                                                     sección de registro para turistas
 
-                                                                                     Y de click en registrar 
 
-                                                                                     Entonces el turista se registrará de forma exitosa
+
+                                                 
+                                                 
+ 
 
 
 ## 3.3. Impact Mapping. 
