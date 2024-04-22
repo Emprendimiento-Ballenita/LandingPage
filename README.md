@@ -2322,7 +2322,7 @@ de nuestro proyecto. Para esto, creamos una organización llamada
 nuestras soluciones implementadas. A continuación, se proporcionan los
 enlaces a estos repositorios:
 
-Landing Page:
+Landing Page: <https://emprendimiento-ballenita.github.io/LandingPage/>
 
 ### 5.1.3. Source Code Style Guide & Conventions. 
 
