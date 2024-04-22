@@ -1,121 +1,81 @@
-# Emprendimiento Ballenita
-## Turisteando
-### Informe del TB1
+![Logo Upc](https://hackmd.io/_uploads/BJgbioEeC.png)
 
-### Carrera: Ingeniería de Software
-### Fecha: 10/04/2022
-### Profesor: Juan Antonio Flores Moroco
-### Sección: WS53
-### Ciclo: 2023-02
+# Universidad Peruana de Ciencias Aplicadas
 
-Tabla de contenidos
+## Ingeniería de Software
 
-## Registro de versiones 
-| Versión | Fecha      | Autor    | Descripción de modificación                                                                                           |
-|---------|------------|----------|-----------------------------------------------------------------------------------------------------------------------|
-| 1.0     | 10/04/2024 | Grupo 03 | - Capítulo 1, Capítulo 2, Capítulo 3,  Capítulo 4, Avance del 5.1. y 5.2.                                             |
-| 2       |            | Grupo 03 |                                                                                                                       |
-| 3       |            | Grupo 03 |                                                                                                                       |
-| 4       |            | Grupo 03 |                                                                                                                       |
+### APLICACIONES WEB
+
+#### TB1 REPORT
+
+**Nombre del Startup**
+Emprendimiento ballenita
+
+**Docente:** Juan Antonio Flores Moroco 
+
+**Grupo 3**
+
+**Team Members:**
+- Acuña Tomas, Diego Rolin **U202221436**
+- Cantoral Sedamano, Alexander Alberto		**U20181B152**
+- De la Cruz Villareal, Carlos Alejandro 	**U20211C036**
+- Gomez Hurtado, Miguel Angel	**U202220294**
+- Paitan Pumacahua, Max Anthony **U201314454**
+
+<br>
+Ciclo 2024-01 | Sección WS53
+<br>
+<br>
+
+## REGISTRO DE VERSIONES DEL INFORME
+| Versión | Fecha | Autor | Descripcion y modificación |
+| ------- | ----- | ----- | -------------------------- |
+| 1.0 | 30/03/2023 | Cantoral Sedamano, Alexander Alberto | Capítulo 1 |
+|  |  | Paitan Pumacahua, Max Anthony | Capítulo 2 |
+|  |  | Acuña Tomas, Diego Rolin | Capítulo 3 |
+|  |  | De la Cruz Villareal, Carlos Alejandro | Capítulo 4 |
+|  |  | Gomez Hurtado, Miguel Angel | Capítulo 5.1 |
+|  |  |  | Capítulo 5.2 |
+
+## STUDENT OUTCOME
 
 
-## Student outcome
-| Criterio Específico                                                                                                                                                              | Acciones realizadas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | Conclusiones                                                                                                                                          |
-|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería.  | Cantoral Sedamano, Alexander Alberto TB1: Realización de la Landing Page, aporte a los capítulos 1, 2, 4 y 5 Paitan Pumacahua, Max Anthony TB1:Realización de los segmentos objetivo, competidores, estrategias y tácticas frente a competidores, user stories, wireframes y mockups del landing page y el Landing Page, Services & Applications Implementation De La Cruz Villarreal, Carlos Alejandro TB1: Realización de los Lean ux hypothesis statements y Lean ux canvas, as-is scenary map y to-be scenary map, impact map y product backlog. Acuña Tomas, Diego Rolin TB1: Realización de los Lean Ux, hypothesis. Miguel Angel Gomez Hurtado TB1: | En conclusión, en este primer entregable hemos iniciado con nuestra investigación para apoyar a las comunidades rurales y los guías locales a poder contactar con potenciales clientes como pueden ser los turistas. A su vez, ya tenemos el primer prototipo de nuestra landing page, como a su vez hemos iniciado con las descripciones de funcionalidades de nuestra aplicación web.                                                                                                                                                 |                                                                                                                                                       |
-| Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería. | Acuña Tomas, Diego Rolin TB1: Identificar segmentos objetivos, y grabar las entrevistas. Por último, reunirnos para repartir partes. Cantoral Sedamano, Alexander Alberto TB1: Realización de entrevistas y organización del equipo para la entrega De La Cruz Villarreal, Carlos Alejandro TB1: Realización de entrevistas y reuniones para acordar las responsabilidades de cada integrante. Miguel Angel Gomez Hurtado TB1: Realización de los LeanUx, creación de los diagramas 4c (DDD). Paitan Pumacahua, Max Anthony TB1: Realización de entrevista y comunicación constante con los integrantes del grupo Es fundamental que se realicen en conjunto los puntos establecidos en el documento del final statement, así mismo el cumplimiento de tareas en las reuniones. | En conclusión, en este primer entregable hemos iniciado con nuestra investigación para apoyar a las comunidades rurales y los guías locales a poder contactar con potenciales clientes como pueden ser los turistas. A su vez, ya tenemos el primer prototipo de nuestra landing page, como a su vez hemos iniciado con las descripciones de funcionalidades de nuestra aplicación web. |
+| Criterio Específico | Acciones Realizadas | Conclusiones |
+| --- | --- | --- |
+| Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería | **Cantoral Sedamano, Alexander Alberto** <br> TB1: Realización de entrevistas y organización del equipo para la entrega. <br> **Paitan Pumacahua, Max Anthony** <br> TB1: Realización de entrevista y comunicación constante con los integrantes del grupo. <br> **De la Cruz Villareal, Carlos Alejandro** <br> TB1: Realización de entrevistas y reuniones para acordar las responsabilidades de cada integrante. <br> **Acuña Tomas, Diego Rolin** <br> TB1: Identificar segmentos objetivos, y grabar las entrevistas. Por último, reunirnos para repartir partes. <br> **Miguel Angel Gomez Hurtado** <br> TB1: Realización de los LeanUx, creación de los diagramas 4C (DDD) <br> <br> Es fundamental que se realicen en conjunto los puntos establecidos en el documento del final statement, así mismo el cumplimiento de tareas en las reuniones | TB1: En conclusión, en este primer entregable hemos iniciado con nuestra investigación para apoyar a las comunidades rurales y los guías locales a poder contactar con potenciales clientes como pueden ser los turistas. A su vez, ya tenemos el primer prototipo de nuestra landing page, como también hemos iniciado con las descripciones de funcionalidades de nuestra aplicación web. |
+| Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto de ingeniería | **Cantoral Sedamano, Alexander Alberto** <br> TB1: Realización de la Landing Page, aporte a los capítulos 1,2,4 y 5. <br> **Paitan Pumacahua, Max Anthony** <br> TB1: Realización de los segmentos objetivo, competidores, estrategias y tácticas frente a competidores, user stories, wireframes y mockups del Landing Page, así como el mismo landing page y Services &  Applications Implementation. <br> **De la Cruz Villareal, Carlos Alejandro** <br> TB1: Realización de los Lean Ux hypothesis statements y Lean Ux canvas, as-is scenary map y to.be scenary map, impact map y product backlog. <br> **Acuña Tomas, Diego Rolin** <br> TB1: Realización de los Lean Ux, hypothesis. <br> **Miguel Angel Gomez Hurtado** <br> TB1: Realización de los Lean Ux <br> <br> Es fundamental que se realicen en conjunto los puntos establecidos en el documento del final statement, así mismo el cumplimiento de tareas en las reuniones | TB1: En conclusión, para este entregable terminamos de realizar toda la documentación necesaria respecto del problema planteado a resolver, indagando en las soluciones posibles con la recabación de información a través de los Lean Ux, Competidores, User Stories, entre otros; estos nos llevarán al desarrollo del aplicativo web que será muy útil frente a las necesidades específicas de nuestros clientes. |
 
-# Capítulo 1:
+# CONTENIDO
+# TABLA DE CONTENIDOS
 
+# CAPÍTULO I: Introducción
 ## 1.1. Startup Profile
-
-Nuestra Startup como empresa emergente, busca ofrecer un producto o
-servicio innovador en el mercado con los conocimientos tecnológicos de
-los integrantes.
-
 ### 1.1.1. Descripción de la Startup
 
-**Descripción de la empresa:**
+### Descripción de la empresa:
+Emprendimiento Ballenita es una Startup con el objetivo de facilitar la adquisición de la cultura e historia que permite la visita a los lugares más hermosos del mundo. Países como el Perú, con sus construcciones antiguas, selvas y montañas, es fácil olvidar que cada paisaje o construcción histórica tiene muchas historias y curiosidades. Los que pueden contarnos esas historias son los guías, sin embargo, es difícil contactar con uno sin la probabilidad de ser estafados. Nosotros enfrentaremos esta problemática en el turismo, ofreciendo una solución tecnológica que permita la comunicación directa y confiable entre los turistas y los guías turísticos.
 
-Emprendimiento Ballenita es una Startup con el objetivo de facilitar la
-adquisición de la cultura e historia que permite la visita a los lugares
-más hermosos del mundo. Países como el Perú, con sus construcciones
-antiguas, selvas y montañas, es fácil olvidar que cada paisaje o
-construcción histórica tiene muchas historias y curiosidades. Los que
-pueden contarnos esas historias son los guías, sin embargo, es difícil
-contactar con uno sin la probabilidad de ser estafados. Nosotros
-enfrentaremos esta problemática en el turismo, ofreciendo una solución
-tecnológica que permita la comunicación directa y confiable entre los
-turistas y los guías turísticos.
+### Visión:
+Nuestra visión es ser líderes en la promoción del turismo vivencial en áreas remotas de los pueblos remotos andinos, proporcionando a los viajeros aventureros acceso fácil y seguro a experiencias auténticas y memorables. Nos esforzamos por crear un puente entre las comunidades locales y los visitantes, promoviendo el respeto por la cultura y el medio ambiente, y contribuyendo al desarrollo sostenible de las regiones que servimos.
 
-**Visión:**
+### Misión:
+Nuestra misión es facilitar conexiones significativas entre viajeros y culturas locales, promoviendo experiencias turísticas auténticas que enriquezcan la vida de nuestros usuarios y contribuyan al bienestar de las comunidades anfitrionas. Nos comprometemos a ofrecer un servicio excepcional, impulsado por la innovación y la pasión por el turismo responsable.
 
-Nuestra visión es ser líderes en la promoción del turismo vivencial en
-áreas remotas de los pueblos remotos andinos, proporcionando a los
-viajeros aventureros acceso fácil y seguro a experiencias auténticas y
-memorables. Nos esforzamos por crear un puente entre las comunidades
-locales y los visitantes, promoviendo el respeto por la cultura y el
-medio ambiente, y contribuyendo al desarrollo sostenible de las regiones
-que servimos.
+### Descripción del producto:
+Turisteando, nuestra solución, se perfila como una plataforma digital innovadora dedicada a conectar a viajeros aventureros con guías locales y proveedores de servicios turísticos en áreas remotas de los pueblos remotos andinos. Su enfoque en el turismo vivencial busca satisfacer la creciente demanda de experiencias auténticas y significativas en entornos naturales únicos, ofreciendo una solución integral para aquellos que buscan explorar destinos fuera de lo común al facilitar la comunicación con mapas interactivos que permitan conocer los caminos, lugares que serán visitados, horas de salida y horas de llegada a lugares específicos del recorrido, información de perfil donde se encuentra información como sus estudios, información sobre su licencia o información personal, y por último las opiniones de los usuarios que pidieron sus servicios.
 
-**Misión:**
+![Logo Turisteando](https://media.discordapp.net/attachments/1226580112670064641/1227827883607719946/1.png?ex=66330d53&is=66209853&hm=d882457f2eb1cdb07a04fa3cef4b3d6771dfda6ae1e2fe0acbdf7aca3711131f&=&format=webp&quality=lossless&width=597&height=597)
+<br>
+**Logotipo del equipo**
 
-Nuestra misión es facilitar conexiones significativas entre viajeros y
-culturas locales, promoviendo experiencias turísticas auténticas que
-enriquezcan la vida de nuestros usuarios y contribuyan al bienestar de
-las comunidades anfitrionas. Nos comprometemos a ofrecer un servicio
-excepcional, impulsado por la innovación y la pasión por el turismo
-responsable.
+### Características:
+- Mapas detallados e interactivos: Turisteando ofrece mapas interactivos donde estará señalado el camino que se recorra en la guía, resaltando puntos importantes donde se podrá ver el nombre del lugar con su hora de llegada. 
 
-**Descripción del producto:**
+- Búsqueda avanzada: Los usuarios podrán poner sus preferencias a la hora de buscar un servicio, como, por ejemplo: País, distrito, lugar de interés, horario, precios, entre otros. La aplicación mostrará a los guías que puedan darle un servicio según sus preferencias.
 
-Turisteando, nuestra solución, se perfila como una plataforma digital
-innovadora dedicada a conectar a viajeros aventureros con guías locales
-y proveedores de servicios turísticos en áreas remotas de los pueblos
-remotos andinos. Su enfoque en el turismo vivencial busca satisfacer la
-creciente demanda de experiencias auténticas y significativas en
-entornos naturales únicos, ofreciendo una solución integral para
-aquellos que buscan explorar destinos fuera de lo común al facilitar la
-comunicación con mapas interactivos que permitan conocer los caminos,
-lugares que serán visitados, horas de salida y horas de llegada a
-lugares específicos del recorrido, información de perfil donde se
-encuentra información como sus estudios, información sobre su licencia o
-información personal, y por último las opiniones de los usuarios que
-pidieron sus servicios.
+- Confirmación de identidad: Cada usuario que quiera ofrecer sus servicios de guía en nuestra aplicación deberá autenticar, tanto sus datos personales como su licencia. Los usuarios que buscan un servicio de guías no tendrán miedo de ser engañados o estafados.
 
-<img src="https://media.discordapp.net/attachments/1226580112670064641/1227827883607719946/1.png?ex=6629d2d3&is=66175dd3&hm=77f9a72f2babde2fcb4bb5855167483666d8ac964e132330743df73ae6b0a481&=&format=webp&quality=lossless&width=597&height=597"
-style="width:3.94792in;height:1.00574in" />
-
-Logotipo del producto
-
-**Características:**
-
-- Mapas detallados e interactivos: Turisteando ofrece mapas interactivos
-  donde estará señalado el camino que se recorra en la guía, resaltando
-  puntos importantes donde se podrá ver el nombre del lugar con su hora
-  de llegada.
-
-<!-- -->
-
-- Búsqueda avanzada: Los usuarios podrán poner sus preferencias a la
-  hora de buscar un servicio, como, por ejemplo: País, distrito, lugar
-  de interés, horario, precios, entre otros. La aplicación mostrará a
-  los guías que puedan darle un servicio según sus preferencias.
-
-<!-- -->
-
-- Confirmación de identidad: Cada usuario que quiera ofrecer sus
-  servicios de guía en nuestra aplicación deberá autenticar, tanto sus
-  datos personales como su licencia. Los usuarios que buscan un servicio
-  de guías no tendrán miedo de ser engañados o estafados.
-
-<!-- -->
-
-- Comunidad y Comentarios: Los usuarios pueden dejar comentarios y
-  puntuaciones al servicio de guía, también pueden poner consejos y
-  sugerencias. Esto permite a la comunidad conocer aspectos de los
-  servicios que no son mencionados en la información del servicio o
-  guía.
+- Comunidad y Comentarios: Los usuarios pueden dejar comentarios y puntuaciones al servicio de guía, también pueden poner consejos y sugerencias. Esto permite a la comunidad conocer aspectos de los servicios que no son mencionados en la información del servicio o guía.
 
 ### 1.1.2. Perfiles de integrantes del equipo
 
@@ -125,461 +85,268 @@ Logotipo del producto
 
 **Carrera:** Ingeniería de Software
 
-<img src="https://media.discordapp.net/attachments/1226580112670064641/1227827908501049481/2.png?ex=6629d2d9&is=66175dd9&hm=efff458cd2d57425e8d0e0c2be46793c34c94944d37070f25c7617dde254950e&=&format=webp&quality=lossless"
-style="width:1.97917in;height:2.59375in" />
+![Alexander](https://media.discordapp.net/attachments/1226580112670064641/1227827908501049481/2.png?ex=66330d59&is=66209859&hm=28f04267aa9aca94a0ea1dfa58bdb506935e3b4b64782b786095982cf2faee9a&=&format=webp&quality=lossless)
 
-Acerca de mí: Conocimientos técnicos de programación en C++, PHP,
-Python. Conocimientos intermedios de frontend en HTML. Usuario frecuente
-tanto de Visual Studio como Visual Studio Code. Habilidades mixtas en
-otros programas usuales para el desarrollo de trabajos universitarios.
-Además, mis habilidades blandas van desde saber trabajar en equipo,
-tener una tendencia a ser ordenado y ser comprometido con todas las
-entregas.
+**Acerca de mí**: Conocimientos técnicos de programación en C++, PHP, Python. Conocimientos intermedios de frontend en HTML. Usuario frecuente tanto de Visual Studio como Visual Studio Code. Habilidades mixtas en otros programas usuales para el desarrollo de trabajos universitarios. Además, mis habilidades blandas van desde saber trabajar en equipo, tener una tendencia a ser ordenado y ser comprometido con todas las entregas.
 
-**Nombre**: Carlos Alejandro De La Cruz Villarreal
+**Nombre:** Carlos Alejandro de la Cruz Villareal
 
-**Código**:U20211C036
+**Código:** U20211C036
 
-**Carrera**: Ingeniería de Software
+**Carrera:** Ingeniería de Software
 
-<img src="https://media.discordapp.net/attachments/1226580112670064641/1227827927803105330/3.png?ex=6629d2dd&is=66175ddd&hm=dccf5fc4fb915ae995492c7bd6d3b34a437445a7dc22210dd501185239d7183d&=&format=webp&quality=lossless" style="width:2.54167in;height:2.5625in" />
+![Carlos](https://media.discordapp.net/attachments/1226580112670064641/1227827927803105330/3.png?ex=66330d5d&is=6620985d&hm=e41def947fa9a4030e7f2bc801b2e6af24eab8c6f6bbe733d265f87a50a77d94&=&format=webp&quality=lossless)
 
-Soy un estudiante de Ingeniería de Software, tengo 21 años y vivo en
-Lima. Mis pasatiempos son hacer deporte, jugar videojuegos y escuchar
-música. Me gusta trabajar en equipo porque de esta manera todos los
-integrantes podemos dar nuestro punto de vista e ideas para poder lograr
-el objetivo del curso. Además, para este curso me comprometo a ayudar en
-todo lo posible para la elaboración y desarrollo del trabajo.
+**Acerca de mí**: Soy un estudiante de Ingeniería de Software, tengo 21 años y vivo en Lima. Mis pasatiempos son hacer deporte, jugar videojuegos y escuchar música. Me gusta trabajar en equipo porque de esta manera todos los integrantes podemos dar nuestro punto de vista e ideas para poder lograr el objetivo del curso. Además, para este curso me comprometo a ayudar en todo lo posible para la elaboración y desarrollo del trabajo.
 
-**Nombre**: Diego Rolin Acuña Tomas
+**Nombre:** Diego Rolin Acuña Tomas
 
-**Código**: u202221436
+**Código:** U202221436
 
-**Carrera**: Ingeniería de Software
+**Carrera:** Ingeniería de Software
 
-<img src="https://media.discordapp.net/attachments/1226580112670064641/1227827969758855220/4.png?ex=6629d2e7&is=66175de7&hm=7f5c3678d791767faa062c94082e9dd876dec1aaedd575e6ffb7c7b21810b8e5&=&format=webp&quality=lossless"
-style="width:3.38021in;height:3.06148in" />
+![Diego](https://media.discordapp.net/attachments/1226580112670064641/1227827969758855220/4.png?ex=66268727&is=662535a7&hm=44a94767acef6a6ceb3503681d6f1a5526b8e391d7499ae858e46dce50daa4ae&=&format=webp&quality=lossless)
 
-Mi nombre es Diego Acuña y soy estudiante de la carrera de ingeniería de
-software, soy un entusiasta de la programación, y muy curioso al
-aprender nuevos lenguajes de programación y cursos. Se codear en Python
-y C++, pero espero aprender más lenguajes este año. Quisiera
-especializarme en data science y tener mi propia empresa en el futuro.
+**Acerca de mí**: Mi nombre es Diego Acuña y soy estudiante de la carrera de ingeniería de software, soy un entusiasta de la programación, y muy curioso al aprender nuevos lenguajes de programación y cursos. Se codear en Python y C++, pero espero aprender más lenguajes este año. Quisiera especializarme en data science y tener mi propia empresa en el futuro.
 
-**Nombre**: Miguel Angel Gomez Hurtado
 
-**Código**: u202220294
+**Nombre:** Miguel Angel Gomez Hurtado
 
-**Carrera**: Ingeniería de Software
+**Código:** U202220294
 
-<img src="https://media.discordapp.net/attachments/1226580112670064641/1227827991392817183/5.png?ex=6629d2ed&is=66175ded&hm=4b4303a0fc952a7957e9e1a80f88190b9d465c372b8c5283673010926cafac52&=&format=webp&quality=lossless"
-style="width:1.93229in;height:2.91667in" />
+**Carrera:** Ingeniería de Software
 
-Tengo 21 años y estoy estudiando la carrera de Ingeniería Informática.
-Me encuentro en mi segundo ciclo en la UPC Sede San Miguel. Soy una
-persona académica y siempre estoy abierto al diálogo. Me apasiona mi
-carrera y siempre estoy dispuesto a aprender sobre este curso para
-brindar a mis futuros usuarios un buen producto acorde a sus
-necesidades.
+![Miguel](https://media.discordapp.net/attachments/1226580112670064641/1227827991392817183/5.png?ex=66330d6d&is=6620986d&hm=339eb1c5c2a87c8e3dd5c133223f90d32c686cf475f019bf19ea64e54672c177&=&format=webp&quality=lossless)
 
-**Nombre**: Max Anthony Paitan Pumacahua
+**Acerca de mí**: Tengo 21 años y estoy estudiando la carrera de Ingeniería Informática. Me encuentro en mi segundo ciclo en la UPC Sede San Miguel. Soy una persona académica y siempre estoy abierto al diálogo. Me apasiona mi carrera y siempre estoy dispuesto a aprender sobre este curso para brindar a mis futuros usuarios un buen producto acorde a sus necesidades.
 
-**Código**: u201314454
+**Nombre:** Max Anthony Paitan Pumacahua
 
-**Carrera**: Ingeniería de Software
+**Código:** U201314454
 
-<img src="https://media.discordapp.net/attachments/1226580112670064641/1227828012939083796/6.png?ex=6629d2f2&is=66175df2&hm=b1eace91007f69ee9ca8c008c32ed5e436b9093abf07358d6a583761b58b2e68&=&format=webp&quality=lossless"
-style="width:2.37959in;height:3.22396in" />
+**Carrera:** Ingeniería de Software
 
-Descripción: Soy Max Anthony y tengo 27 años. Estoy retomando Ingeniería
-de Software como segunda carrera, ya que siempre tuvo ello como
-objetivo.
+![Max](https://media.discordapp.net/attachments/1226580112670064641/1227828012939083796/6.png?ex=66330d72&is=66209872&hm=bc9978c9f01ef7a8760b156f023d08e3434e857649ae03c3148d1cc55f093541&=&format=webp&quality=lossless)
 
-Mis habilidades son: Ágil capacidad de análisis -tanto individual como
-también en colectivo-, empático en un contexto determinado -tomando
-decisiones de manera sensata-, y puedo ser tanto gestor como un
-participante activo dentro de un grupo de trabajo.
+**Acerca de mí**: Soy Max Anthony y tengo 27 años. Estoy retomando Ingeniería de Software como segunda carrera, ya que siempre tuvo ello como objetivo.  
+Mis habilidades son: Ágil capacidad de análisis -tanto individual como también en colectivo-, empático en un contexto determinado -tomando decisiones de manera sensata-, y puedo ser tanto gestor como un participante activo dentro de un grupo de trabajo. 
 
 ## 1.2. Solution Profile
 
-**Descripción del producto:** Turisteando
+**Descripción del producto**: Turisteando
 
-### 1.2.1 Antecedentes y problemática:
+### 1.2.1. Antecedentes y Problemática
 
-En esta parte utilizamos el 5w 2h para conocer los puntos importantes
-del problema al cual nos enfrentamos:
+En esta parte utilizamos el 5w 2h para conocer los puntos importantes del problema al cual nos enfrentamos:
 
-Who (Quién): Los usuarios a los que se dirige la plataforma son los
-viajeros aventureros y amantes de la naturaleza que buscan experiencias
-auténticas. Los clientes potenciales son los guías locales y los
-proveedores de servicios turísticos en áreas remotas de los pueblos
-remotos andinos.
+**Who (Quién)**: Los usuarios a los que se dirige la plataforma son los viajeros aventureros y amantes de la naturaleza que buscan experiencias auténticas. Los clientes potenciales son los guías locales y los proveedores de servicios turísticos en áreas remotas de los pueblos remotos andinos.
 
-What (Qué): El proyecto implica el desarrollo de una plataforma digital
-que conecte a los usuarios con guías locales y proveedores de servicios
-turísticos en áreas remotas de los pueblos lejanos. Esta plataforma
-facilitará la reserva de experiencias auténticas y memorables en
-entornos naturales únicos.
+**What (Qué)**: El proyecto implica el desarrollo de una plataforma digital que conecte a los usuarios con guías locales y proveedores de servicios turísticos en áreas remotas de los pueblos lejanos. Esta plataforma facilitará la reserva de experiencias auténticas y memorables en entornos naturales únicos.
 
-Where (Dónde): Inicialmente, la plataforma se centrará en áreas remotas
-de los pueblos distantes. Sin embargo, existe la posibilidad de una
-expansión futura hacia otras regiones que compartan características
-similares.
+**Where (Dónde)**: Inicialmente, la plataforma se centrará en áreas remotas de los pueblos distantes. Sin embargo, existe la posibilidad de una expansión futura hacia otras regiones que compartan características similares.
 
-When (Cuando): La problemática tiene un tiempo debido a que el turismo
-no está bien gestionado del todo en el Perú. El desarrollo y lanzamiento
-de la plataforma probablemente se llevará a cabo en un período de tiempo
-determinado.
+**When (Cuando)**: La problemática tiene un tiempo debido a que el turismo no está bien gestionado del todo en el Perú. El desarrollo y lanzamiento de la plataforma probablemente se llevará a cabo en un período de tiempo determinado.
 
-Why (Por qué): El objetivo principal del proyecto es abordar la falta de
-acceso a experiencias turísticas auténticas en áreas remotas de los
-pueblos andinos. Además, se busca satisfacer la creciente demanda de
-turismo vivencial entre los viajeros aventureros y amantes de la
-naturaleza.
+**Why (Por qué)**: El objetivo principal del proyecto es abordar la falta de acceso a experiencias turísticas auténticas en áreas remotas de los pueblos andinos. Además, se busca satisfacer la creciente demanda de turismo vivencial entre los viajeros aventureros y amantes de la naturaleza.
 
-How (Cómo): El desarrollo de la plataforma se llevará a cabo mediante la
-creación de una aplicación web que facilite la conexión entre usuarios,
-guías locales y proveedores de servicios turísticos en áreas remotas.
-Esta aplicación permitirá la reserva de experiencias y la comunicación
-durante el viaje.
+**How (Cómo)**: El desarrollo de la plataforma se llevará a cabo mediante la creación de una aplicación web que facilite la conexión entre usuarios, guías locales y proveedores de servicios turísticos en áreas remotas. Esta aplicación permitirá la reserva de experiencias y la comunicación durante el viaje.
 
-How much (Cuánto): Los costos podrían variar dependiendo de factores
-como el desarrollo de la aplicación, los gastos de marketing y las
-tarifas de membresía para los proveedores de servicios turísticos.
+**How much (Cuánto)**: Los costos podrían variar dependiendo de factores como el desarrollo de la aplicación, los gastos de marketing y las tarifas de membresía para los proveedores de servicios turísticos.
 
-### 1.2.2 Lean UX Process.
+### 1.2.2. Lean UX Process
 
-#### 1.2.2.1. Lean UX Problem Statements.
+#### 1.2.2.1. Lean UX Problem Statements
 
-Nuestra aplicación se encargará de brindar a los guías turísticos
-(clientes) una alternativa a la forma con la que contactan con los
-turistas (usuarios) con la finalidad de ayudar a los mismos a poder
-realizar sus viajes de turismo vivencial, mientras que nos esforzamos en
-brindarles promoción a los guías, otorgarles seguridad y confianza a los
-clientes.
+Nuestra aplicación se encargará de brindar a los guías turísticos (clientes) una alternativa a la forma con la que contactan con los turistas (usuarios) con la finalidad de ayudar a los mismos a poder realizar sus viajes de turismo vivencial, mientras que nos esforzamos en brindarles promoción a los guías, otorgarles seguridad y confianza a los clientes.
 
-Entre algunos factores que logramos observar que podrían ser
-perjudiciales para la app son que para los turistas es difícil
-experimentar la autenticidad y la belleza de los pueblos andinos. Por
-otro lado, para los guías locales, esta situación significa la falta de
-oportunidades para promocionar sus servicios y compartir su conocimiento
-especializado.
+Entre algunos factores que logramos observar que podrían ser perjudiciales para la app son que para los turistas es difícil experimentar la autenticidad y la belleza de los pueblos andinos. Por otro lado, para los guías locales, esta situación significa la falta de oportunidades para promocionar sus servicios y compartir su conocimiento especializado.
 
-Con el objetivo de abordar este problema, nuestra visión es desarrollar
-una plataforma digital que conecte a los viajeros aventureros con guías
-locales expertos en pueblos andinos, proporcionando un acceso fácil y
-seguro a experiencias turísticas auténticas y memorables.
+Con el objetivo de abordar este problema, nuestra visión es desarrollar una plataforma digital que conecte a los viajeros aventureros con guías locales expertos en pueblos andinos, proporcionando un acceso fácil y seguro a experiencias turísticas auténticas y memorables.
+Teniendo preguntas como, ¿cómo podríamos elevar la confianza de nuestros clientes con nuestra plataforma? ¿Qué tan importante es una plataforma centrada en el turismo vivencial?
 
-Teniendo preguntas como, ¿cómo podríamos elevar la confianza de nuestros
-clientes con nuestra plataforma? ¿Qué tan importante es una plataforma
-centrada en el turismo vivencial?
+#### 1.2.2.2. Lean UX Assumptions
 
-#### 1.2.2.2. Lean UX Assumptions.
+**Business outcomes**
 
-Business outcomes
+Nuestra iniciativa en el campo del turismo vivencial tiene como objetivo atender la creciente demanda de experiencias auténticas y en contacto directo con la naturaleza en áreas remotas y poco accesibles. Esperamos generar ingresos mediante la oferta de paquetes turísticos personalizados que incluyen actividades exclusivas y significativas en entornos naturales únicos.
 
-Nuestra iniciativa en el campo del turismo vivencial tiene como objetivo
-atender la creciente demanda de experiencias auténticas y en contacto
-directo con la naturaleza en áreas remotas y poco accesibles. Esperamos
-generar ingresos mediante la oferta de paquetes turísticos
-personalizados que incluyen actividades exclusivas y significativas en
-entornos naturales únicos.
+**User benefits**
 
-User benefits
+Nuestra plataforma ofrecerá a los usuarios la oportunidad de sumergirse en la cultura local y en la belleza natural de lugares remotos a través de experiencias auténticas de turismo vivencial. Podrán participar en actividades interactivas y enriquecedoras, como caminatas guiadas por expertos locales, talleres de artesanía tradicional y encuentros con comunidades indígenas.
 
-Nuestra plataforma ofrecerá a los usuarios la oportunidad de sumergirse
-en la cultura local y en la belleza natural de lugares remotos a través
-de experiencias auténticas de turismo vivencial. Podrán participar en
-actividades interactivas y enriquecedoras, como caminatas guiadas por
-expertos locales, talleres de artesanía tradicional y encuentros con
-comunidades indígenas.
+**User & Costumers**
 
-User & Costumers
+Nuestros usuarios principales serán viajeros aventureros y amantes de la naturaleza que buscan experiencias únicas y significativas en sus viajes. Nuestros clientes serán los guías locales y los proveedores de servicios turísticos en áreas remotas, quienes se beneficiarán al llegar a una audiencia más amplia y diversa a través de nuestra plataforma.
 
-Nuestros usuarios principales serán viajeros aventureros y amantes de la
-naturaleza que buscan experiencias únicas y significativas en sus
-viajes. Nuestros clientes serán los guías locales y los proveedores de
-servicios turísticos en áreas remotas, quienes se beneficiarán al llegar
-a una audiencia más amplia y diversa a través de nuestra plataforma.
+1. **¿Quién(es) es el Usuario?**
 
-1\. ¿Quién(es) es el Usuario?
+Los usuarios de nuestra plataforma son personas que valoran las experiencias auténticas y desean explorar destinos fuera de lo común en contacto directo con la naturaleza y la cultura local.
 
-Los usuarios de nuestra plataforma son personas que valoran las
-experiencias auténticas y desean explorar destinos fuera de lo común en
-contacto directo con la naturaleza y la cultura local.
+2. **¿Dónde Encaja Nuestro Producto en su Trabajo o Vida?**
 
-2\. ¿Dónde Encaja Nuestro Producto en su Trabajo o Vida?
+Nuestro producto se integra en la planificación y ejecución de viajes de turismo vivencial, ofreciendo a los usuarios acceso a una variedad de experiencias y actividades en entornos naturales remotos.
 
-Nuestro producto se integra en la planificación y ejecución de viajes de
-turismo vivencial, ofreciendo a los usuarios acceso a una variedad de
-experiencias y actividades en entornos naturales remotos.
+3. **¿Qué Problemas tiene nuestro producto? ¿Qué Resuelve?**
 
-3\. ¿Qué Problemas tiene nuestro producto? ¿Qué Resuelve?
+Uno de los desafíos clave es garantizar la calidad y seguridad de las experiencias ofrecidas por los guías turísticos en nuestra plataforma. Además de facilitar la interacción con ellos mediante una interfaz web.
 
-Uno de los desafíos clave es garantizar la calidad y seguridad de las
-experiencias ofrecidas por los guías turísticos en nuestra plataforma.
-Además de facilitar la interacción con ellos mediante una interfaz web.
+4. **¿Cuándo y Cómo se usa nuestro Producto?**
 
-4\. ¿Cuándo y Cómo se usa nuestro Producto?
+Nuestro producto se utiliza durante la fase de planificación y reserva del viaje. En otras palabras, desde que el cliente turista quiere planificar su viaje y quiere adquirir el equipamiento, así como los conocimientos e información pertinente para su estadía.
 
-Nuestro producto se utiliza durante la fase de planificación y reserva
-del viaje. En otras palabras, desde que el cliente turista quiere
-planificar su viaje y quiere adquirir el equipamiento, así como los
-conocimientos e información pertinente para su estadía.
+5. **¿Qué características son importantes?**
 
-5\. ¿Qué características son importantes?
+Es crucial que nuestro producto ofrezca información detallada sobre las experiencias ofrecidas, incluyendo ubicación, itinerario y requisitos previos. También es importante facilitar la comunicación entre los usuarios y los proveedores de servicios turísticos locales.
 
-Es crucial que nuestro producto ofrezca información detallada sobre las
-experiencias ofrecidas, incluyendo ubicación, itinerario y requisitos
-previos. También es importante facilitar la comunicación entre los
-usuarios y los proveedores de servicios turísticos locales.
+6. **¿Cómo Debe Verse Nuestro Producto y Cómo Debe Comportarse?**
 
-6\. ¿Cómo Debe Verse Nuestro Producto y Cómo Debe Comportarse?
+Nuestro producto debe tener una interfaz intuitiva y atractiva que refleje la naturaleza aventurera y emocionante del turismo vivencial. Debe ser fácil de navegar y permitir a los usuarios encontrar y reservar experiencias de manera rápida y sencilla.
 
-Nuestro producto debe tener una interfaz intuitiva y atractiva que
-refleje la naturaleza aventurera y emocionante del turismo vivencial.
-Debe ser fácil de navegar y permitir a los usuarios encontrar y reservar
-experiencias de manera rápida y sencilla.
+**¿Qué Ofrece Nuestro Producto?**
 
-¿Qué Ofrece Nuestro Producto?
+1. **Creemos que Nuestros Clientes Necesitan:**
 
-1\. Creemos que Nuestros Clientes Necesitan:
+Una plataforma que les brinde acceso a experiencias auténticas de turismo vivencial en áreas remotas y de difícil acceso.
 
-Una plataforma que les brinde acceso a experiencias auténticas de
-turismo vivencial en áreas remotas y de difícil acceso.
+2. **Estas Necesidades se Pueden Resolver con:**
 
-2\. Estas Necesidades se Pueden Resolver con:
+Una aplicación móvil que conecte a los usuarios con guías locales y proveedores de servicios turísticos en áreas remotas, facilitando la reserva de experiencias y la comunicación durante el viaje.
 
-Una aplicación móvil que conecte a los usuarios con guías locales y
-proveedores de servicios turísticos en áreas remotas, facilitando la
-reserva de experiencias y la comunicación durante el viaje.
+3. **Nuestros Clientes Son o Serán:**
 
-3\. Nuestros Clientes Son o Serán:
+Viajeros aventureros y amantes de la naturaleza que buscan experiencias únicas y significativas en destinos fuera de lo común.
 
-Viajeros aventureros y amantes de la naturaleza que buscan experiencias
-únicas y significativas en destinos fuera de lo común.
+4. **El Valor Principal que un Cliente Quiere de Nuestro Servicio es:**
 
-4\. El Valor Principal que un Cliente Quiere de Nuestro Servicio es:
+Acceso a experiencias auténticas y significativas en entornos naturales remotos.
 
-Acceso a experiencias auténticas y significativas en entornos naturales
-remotos.
-
-5\. El Cliente También Puede Obtener Estos Beneficios Adicionales:
+5. **El Cliente También Puede Obtener Estos Beneficios Adicionales:**
 
 Interacción con guías locales y comunidades indígenas.
-
 Seguridad y confianza en la calidad de las experiencias ofrecidas.
+Apoyo en la planificación y ejecución de viajes a áreas de difícil acceso.
 
-Apoyo en la planificación y ejecución de viajes a áreas de difícil
-acceso.
+6. **Adquiriremos la Mayoría de Nuestros Clientes a través de:**
 
-6\. Adquiriremos la Mayoría de Nuestros Clientes a través de:
+Una estrategia de marketing digital centrada en destacar la autenticidad y exclusividad de nuestras experiencias de turismo vivencial, dirigida a viajeros aventureros y amantes de la naturaleza.
 
-Una estrategia de marketing digital centrada en destacar la autenticidad
-y exclusividad de nuestras experiencias de turismo vivencial, dirigida a
-viajeros aventureros y amantes de la naturaleza.
+7. **Generaremos Ingresos a través de:**
 
-7\. Generaremos Ingresos a través de:
+Comisiones por reservas realizadas a través de nuestra plataforma y tarifas de membresía para proveedores de servicios turísticos locales.
 
-Comisiones por reservas realizadas a través de nuestra plataforma y
-tarifas de membresía para proveedores de servicios turísticos locales.
+8. **Nuestra Competencia Principal en el Mercado Será:**
 
-8\. Nuestra Competencia Principal en el Mercado Será:
+Otras plataformas de reserva de experiencias y operadores turísticos tradicionales que ofrecen viajes a destinos convencionales.
 
-Otras plataformas de reserva de experiencias y operadores turísticos
-tradicionales que ofrecen viajes a destinos convencionales.
+9. **Los Venceremos Debido a:**
 
-9\. Los Venceremos Debido a:
+Nuestra especialización en turismo vivencial y nuestra amplia red de guías locales y proveedores de servicios turísticos en áreas remotas.
 
-Nuestra especialización en turismo vivencial y nuestra amplia red de
-guías locales y proveedores de servicios turísticos en áreas remotas.
+10. **Nuestro Mayor Riesgo de Producto es...**
 
-10\. Nuestro Mayor Riesgo de Producto es...
+La falta de disponibilidad de servicios básicos en áreas de difícil acceso, como alojamiento y transporte.
 
-La falta de disponibilidad de servicios básicos en áreas de difícil
-acceso, como alojamiento y transporte.
+11. **Resolveremos esto a través de…**
 
-11\. Resolveremos esto a través de…
+Asociaciones estratégicas con proveedores de servicios turísticos locales y el desarrollo de soluciones innovadoras para abordar estas necesidades específicas.
 
-Asociaciones estratégicas con proveedores de servicios turísticos
-locales y el desarrollo de soluciones innovadoras para abordar estas
-necesidades específicas.
+#### 1.2.2.3. Lean UX Hypothesis Statements
 
-#### 1.2.2.3. Lean UX Hypothesis Statements.
+- **Usuario cliente:**
 
-> · **Usuario cliente:**
->
-> **Hypothetical Statement: Comentarios de los usuarios**
+**Hypothetical Statement: Comentarios de los usuarios**
 
-**Creemos que**, al desarrollar una función donde las personas puedan
-dar su opinión y leer los comentarios de otros usuarios sobre los guías
-turísticos que contactaron en nuestra página web.
+Creemos que, al desarrollar una función donde las personas puedan dar su opinión y leer los comentarios de otros usuarios sobre los guías turísticos que contactaron en nuestra página web.
 
-**Lograremos** que los clientes sean muy activos en la página y podrán
-informarse mejor sobre los comportamientos y actitud de los guías que
-contratan
+Lograremos que los clientes sean muy activos en la página y podrán informarse mejor sobre los comportamientos y actitud de los guías que contratan
 
-**Sabremos que hemos tenido éxito**, cuando la demanda de guías
-turísticos haya aumentado en un 50% en comparación con los 4 primeros
-meses.
+Sabremos que hemos tenido éxito, cuando la demanda de guías turísticos haya aumentado en un 50% en comparación con los 4 primeros meses.
 
 **Hypothetical Statement: Detalle en el recorrido**
 
-**Creemos que**, al mostrar en un mapa interactivo el recorrido que el
-guía ofrece donde se pueda ver los lugares más importantes del recorrido
-y el horario para llegar a cada lugar en específico.
+Creemos que, al mostrar en un mapa interactivo el recorrido que el guía ofrece donde se pueda ver los lugares más importantes del recorrido y el horario para llegar a cada lugar en específico.
 
-**Lograremos** que los clientes no necesiten preguntar al guía sobre su
-recorrido y los tiempos que maneja.
+Lograremos que los clientes no necesiten preguntar al guía sobre su recorrido y los tiempos que maneja.
 
-**Sabremos que hemos tenido éxito**, observemos que en la sección de
-comentarios disminuyan las preguntas relacionadas con el contenido en un
-80% en relación con los 4 primeros meses.
+Sabremos que hemos tenido éxito, observemos que en la sección de comentarios disminuyan las preguntas relacionadas con el contenido en un 80% en relación con los 4 primeros meses.
 
 **Hypothetical Statement: Búsqueda de recorridos**
 
-**Creemos que**, al hacer una página intuitiva que permite buscar
-recorridos por guía turístico, lugares turísticos o zona, al mismo
-tiempo que puedas ordenar tus resultados por recomendación, precio y
-hora del recorrido.
+Creemos que, al hacer una página intuitiva que permite buscar recorridos por guía turístico, lugares turísticos o zona, al mismo tiempo que puedas ordenar tus resultados por recomendación, precio y hora del recorrido.
 
-**Lograremos** que los clientes puedan encontrar fácilmente el recorrido
-que mejor cumpla sus requisitos.
+Lograremos que los clientes puedan encontrar fácilmente el recorrido que mejor cumpla sus requisitos.
 
-**Sabremos que hemos tenido éxito**, cuando los clientes recomienden
-usar nuestra página web por su facilidad de uso.
+Sabremos que hemos tenido éxito, cuando los clientes recomienden usar nuestra página web por su facilidad de uso.
 
-> · **Usuario guía:**
+
+- **Usuario guía:**
 
 **Hypothetical Statement: Confirmar la licencia de guía**
 
-**Creemos que**, al permitir que solo guías con licencia puedan
-promocionar sus servicios en nuestra página web.
+Creemos que, al permitir que solo guías con licencia puedan promocionar sus servicios en nuestra página web.
 
-**Lograremos** que los turistas confíen en nuestra página web.
+Lograremos que los turistas confíen en nuestra página web.
 
-**Sabremos que hemos tenido éxito**, cuando hayan disminuido las quejas
-de fraude en un 90% en comparación con el primer mes.
+Sabremos que hemos tenido éxito, cuando hayan disminuido las quejas de fraude en un 90% en comparación con el primer mes.
 
 **Hypothetical Statement: Creación de perfil**
 
-**Creemos que**, al hacer una página web intuitiva que permite a los
-guías escribir una descripción de su persona, también poner el recorrido
-y los lugares que visitará, dar información sobre servicios extra como
-llevar comida entre otros.
+Creemos que, al hacer una página web intuitiva que permite a los guías escribir una descripción de su persona, también poner el recorrido y los lugares que visitará, dar información sobre servicios extra como llevar comida entre otros.
 
-**Lograremos** que muchos guías se sientan atraídos a la página web por
-su facilidad de promocionarse.
+Lograremos que muchos guías se sientan atraídos a la página web por su facilidad de promocionarse.
 
-**Sabremos que hemos tenido éxito**, cuando aumente la cantidad de guías
-que quieran ofrecer sus servicios en un 50% respecto a los 2 primeros
-meses.
+Sabremos que hemos tenido éxito, cuando aumente la cantidad de guías que quieran ofrecer sus servicios en un 50% respecto a los 2 primeros meses.
 
-#### 1.2.2.4. Lean UX Canvas.
+#### 1.2.2.4. Lean UX Canvas
 
-<img src="https://media.discordapp.net/attachments/1226580112670064641/1227828039212208221/7.png?ex=6629d2f8&is=66175df8&hm=ef6e64fcc4744c4f0e92db63cad06557d418f17376f04431285a5f59d1de7a97&=&format=webp&quality=lossless&width=550&height=311"
-style="width:6.26772in;height:3.54167in" />
+![Canvas](https://media.discordapp.net/attachments/1226580112670064641/1227828039212208221/7.png?ex=66330d78&is=66209878&hm=a83288bfa9d3cfa08328c42cb0112bfd39d8d6412a72435db0498c684f62177c&=&format=webp&quality=lossless)
 
-Ver a detalle en el anexo 1
+## 1.3. Segmentos Objetivo
 
-## 1.3. Segmentos objetivo
+- **Segmento Objetivo #1: Viajeros (18+ años)**
 
-> Segmento Objetivo \#1: **Viajeros (18+ años)**
->
-> Nuestro primer segmento objetivo abarca a las personas que,
-> independientemente de la edad que tengan, necesitan un guía
-> especializado en zonas turísticas, ya sea en la costa, sierra o selva
-> peruana.
->
-> Segmento Objetivo \#2: **Guías turísticos experimentados (18+ años)**
->
-> Nuestro segundo segmento objetivo abarca a guías turísticos
-> experimentados, quienes necesitan una herramienta que funcione como
-> intermediario, ayudándoles a conseguir más clientes en la zona
-> turística donde trabajan.
+Nuestro primer segmento objetivo abarca a las personas que, independientemente de la edad que tengan, necesitan un guía especializado en zonas turísticas, ya sea en la costa, sierra o selva peruana.
+ 
+- **Segmento Objetivo #2: Guías turísticos experimentados (18+ años)**
 
-# Capítulo 2:
+Nuestro segundo segmento objetivo abarca a guías turísticos experimentados, quienes necesitan una herramienta que funcione como intermediario, ayudándoles a conseguir más clientes en la zona turística donde trabajan.
 
-## 2.1. Competidores.
+# CAPÍTULO II: Requirements Elicitation & Analysis
 
-> Nuestros competidores son aquellos que se relacionan con el sector
-> turístico, siendo –en específico– aquellos negocios que conectan a los
-> turistas con los guías turísticos.
->
-> A continuación, mencionaremos algunos de los competidores de nuestro
-> rubro:
->
-> ⮚ **Get Your Guide:**
-> [**<u>https://www.getyourguide.es/</u>**](https://www.getyourguide.es/)
+## 2.1. Competidores
 
-<img src="https://media.discordapp.net/attachments/1226580112670064641/1227828092777529385/8.png?ex=6629d305&is=66175e05&hm=883169426c9a65a400afa8fe7d7a1931f5ede8afb458e6acc963a685823332ee&=&format=webp&quality=lossless"
-style="width:5.58489in;height:2.67755in" />
+Nuestros competidores son aquellos que se relacionan con el sector turístico, siendo –en específico– aquellos negocios que conectan a los turistas con los guías turísticos.
+A continuación, mencionaremos algunos de los competidores de nuestro rubro:
 
-> ⮚ **Tours By Locals:**
-> [**<u>https://www.toursbylocals.com/</u>**](https://www.toursbylocals.com/)
+- Get Your Guide: [Pagina web de Get Your Guide](https://www.getyourguide.com/)
 
-<img src="https://media.discordapp.net/attachments/1226580112670064641/1227828121840123945/9.png?ex=6629d30c&is=66175e0c&hm=247cd6ff8f76690a8a1987c8fb83d2a59abc8a6c1f599086a92517d636a5b3f0&=&format=webp&quality=lossless"
-style="width:5.72396in;height:2.76608in" />
+![GetYourGuide](https://media.discordapp.net/attachments/1226580112670064641/1227828092777529385/8.png?ex=66268745&is=662535c5&hm=4f9a26c759968cc00bd1a421e61a5fa8c30db1688b0001c2c3053fe1d007ff79&=&format=webp&quality=lossless&width=550&height=264)
 
-> ⮚ **Viator:**
-> [**<u>https://www.viator.com/es-PE/</u>**](https://www.viator.com/es-PE/)
+- Tours by Locals: [Pagina web de Tours by Locals](https://www.toursbylocals.com/)
 
-<img src="https://media.discordapp.net/attachments/1226580112670064641/1227828197924671549/10.png?ex=6629d31e&is=66175e1e&hm=14a0f7635df9e53667e8272e7e5b7e540719fbe26d36c18307985316833d1af3&=&format=webp&quality=lossless"
-style="width:6.02604in;height:2.91292in" />
+![ToursByLocals](https://media.discordapp.net/attachments/1226580112670064641/1227828121840123945/9.png?ex=66330d8c&is=6620988c&hm=8fa680788741ef954f498f86fc907b4b0fc723d9161836982732911345537259&=&format=webp&quality=lossless&width=550&height=266)
 
-### 2.1.1. Análisis competitivo.
+- Viator: [Pagina web de Viator](https://www.viator.com/)
 
-A continuación, se realiza una descripción breve de nuestros
-competidores.
+![Viator](https://media.discordapp.net/attachments/1226580112670064641/1227828197924671549/10.png?ex=66330d9e&is=6620989e&hm=172ce9670b5b239560f710015d11ae479ea510398f607bd3dd4e5be37fbde361&=&format=webp&quality=lossless&width=550&height=266)
 
-**→Get Your Guide:**
+### 2.1.1. Análisis Competitivo
 
-> GetYourGuide es una plataforma en línea que ofrece
-> reservas de actividades turísticas y experiencias en todo el mundo.
-> Fundada en 2009, GetYourGuide conecta a viajeros con proveedores
-> locales de tours, excursiones, entradas a atracciones, actividades al
-> aire libre y mucho más. La plataforma permite a los usuarios buscar y
-> reservar una amplia variedad de experiencias turísticas, desde visitas
-> guiadas a monumentos históricos hasta actividades de aventura y
-> excursiones culinarias. GetYourGuide opera en múltiples idiomas y
-> ofrece opciones de reserva flexibles, lo que la convierte en una
-> herramienta popular para viajeros que desean explorar nuevos destinos
-> y descubrir experiencias únicas en todo el mundo.</span>
+A continuación, se realiza una descripción breve de nuestros competidores.
 
-**Tours By Locals:</span>**
+- **Get Your Guide:**
 
-> ToursByLocals es una plataforma en línea que
-> conecta a viajeros con guías turísticos locales en destinos de todo el
-> mundo. Fundada en 2008, ToursByLocals ofrece una amplia gama de tours
-> personalizados y experiencias auténticas diseñadas y dirigidas por
-> guías locales. La plataforma permite a los usuarios buscar y reservar
-> tours privados en una variedad de destinos, lo que les brinda la
-> oportunidad de explorar lugares de interés turístico de una manera más
-> íntima y personalizada. Los guías turísticos de ToursByLocals son
-> residentes locales que ofrecen conocimientos especializados, historias
-> locales y recomendaciones personalizadas para mejorar la experiencia
-> de viaje de los visitantes. La plataforma también ofrece opciones de
-> reserva flexibles y atención al cliente para garantizar una
-> experiencia de viaje sin problemas para los usuarios.</span>
+GetYourGuide es una plataforma en línea que ofrece reservas de actividades turísticas y experiencias en todo el mundo. Fundada en 2009, GetYourGuide conecta a viajeros con proveedores locales de tours, excursiones, entradas a atracciones, actividades al aire libre y mucho más. La plataforma permite a los usuarios buscar y reservar una amplia variedad de experiencias turísticas, desde visitas guiadas a monumentos históricos hasta actividades de aventura y excursiones culinarias. GetYourGuide opera en múltiples idiomas y ofrece opciones de reserva flexibles, lo que la convierte en una herramienta popular para viajeros que desean explorar nuevos destinos y descubrir experiencias únicas en todo el mundo.
 
-**Viator:</span>**
+- **Tours By Locals:**
 
-> Viator –perteneciente al grupo Booking Holdings– es
-> una empresa de reservas en línea de actividades turísticas,
-> excursiones y experiencias en destinos de todo el mundo. Fundada en
-> 1999, Viator se ha convertido en una de las principales plataformas
-> para reservar tours y actividades tanto populares como únicas en una
-> amplia gama de destinos turísticos. La plataforma ofrece una variedad
-> de opciones, que incluyen tours guiados, entradas a atracciones,
-> excursiones de un día, paseos en barco, actividades al aire libre,
-> experiencias gastronómicas y mucho más.</span>
->
-> Viator conecta a viajeros con proveedores locales
-> de actividades turísticas, garantizando una amplia selección de
-> opciones y una experiencia de reserva segura y conveniente. Los
-> usuarios pueden explorar las opciones disponibles en el sitio web,
-> leer reseñas y opiniones de otros viajeros, y reservar fácilmente las
-> actividades que deseen realizar durante su viaje.</span>
+ToursByLocals es una plataforma en línea que conecta a viajeros con guías turísticos locales en destinos de todo el mundo. Fundada en 2008, ToursByLocals ofrece una amplia gama de tours personalizados y experiencias auténticas diseñadas y dirigidas por guías locales. La plataforma permite a los usuarios buscar y reservar tours privados en una variedad de destinos, lo que les brinda la oportunidad de explorar lugares de interés turístico de una manera más íntima y personalizada. Los guías turísticos de ToursByLocals son residentes locales que ofrecen conocimientos especializados, historias locales y recomendaciones personalizadas para mejorar la experiencia de viaje de los visitantes. La plataforma también ofrece opciones de reserva flexibles y atención al cliente para garantizar una experiencia de viaje sin problemas para los usuarios.
+
+- **Viator:**
+
+Viator –perteneciente al grupo Booking Holdings– es una empresa de reservas en línea de actividades turísticas, excursiones y experiencias en destinos de todo el mundo. Fundada en 1999, Viator se ha convertido en una de las principales plataformas para reservar tours y actividades tanto populares como únicas en una amplia gama de destinos turísticos. La plataforma ofrece una variedad de opciones, que incluyen tours guiados, entradas a atracciones, excursiones de un día, paseos en barco, actividades al aire libre, experiencias gastronómicas y mucho más.
+Viator conecta a viajeros con proveedores locales de actividades turísticas, garantizando una amplia selección de opciones y una experiencia de reserva segura y conveniente. Los usuarios pueden explorar las opciones disponibles en el sitio web, leer reseñas y opiniones de otros viajeros, y reservar fácilmente las actividades que deseen realizar durante su viaje.
+
 
 | Competitve Analysis Landscape |              |             |                        |                      |                    |
 |------------------------------|--------------|-------------|------------------------|----------------------|--------------------|
