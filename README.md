@@ -899,7 +899,7 @@ Ciclo de Vida del Software: Etapas por las que pasa el desarrollo.
 || **Épica 1: Registrar usuario**                             |                                                              |                                             |
 | **US01** - Registrar **turista**                            |                                                              | **US02** - Autenticar cuenta de **turista** |
 | **US03 -** Registrar guía                                  |                                                              | **US04 -** Autenticar cuenta de guía        |
-| **Épica 2: Logear usuario**                                 |                                                              |                                             |
+|| **Épica 2: Logear usuario**                                 |                                                              |                                             |
 | **US05** - Iniciar sesión                                   |                                                              | **US06** - Restablecer contraseña           |
 || **Épica 3: Gestionar datos de usuario**                    |                                                              |                                             |
 | **US07** - Gestionar certificación de guía                  |                                                              | **US08** - Configurar datos de usuario      |
