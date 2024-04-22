@@ -701,77 +701,14 @@ competidores.
 > Vamos a aplicar diferentes estrategias y tácticas para poder hacerle
 > frente a nuestros competidores.
 
-<table>
-<colgroup>
-<col style="width: 32%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td rowspan="2"></td>
-<td><strong>Oportunidades</strong></td>
-<td><strong>Amenazas</strong></td>
-</tr>
-<tr class="even">
-<td><p><strong>O1:</strong> Expansión al mercado peruano</p>
-<p><strong>O2:</strong> Puede sobresalir gracias al objetivo específico
-de conseguir guías turísticos</p>
-<p><strong>O3:</strong> Colaboraciones con empresas relacionadas al
-sector turismo</p></td>
-<td><p><strong>A1:</strong> Cambios en la regulación gubernamental en el
-sector turismo</p>
-<p><strong>A2:</strong> Impacto negativo en el usuario ante problemas de
-seguridad o calidad del servicio</p>
-<p><strong>A3:</strong> Riesgos en la protección de datos</p></td>
-</tr>
-<tr class="odd">
-<td><strong>Fortalezas</strong></td>
-<td><strong>Estrategias FO (Ofensivas)</strong></td>
-<td><strong>Estrategias FA (Defensivas)</strong></td>
-</tr>
-<tr class="even">
-<td><p><strong>F1:</strong> Facilidad de uso de la aplicación</p>
-<p><strong>F2:</strong> Función de registro de guías turísticos</p>
-<p><strong>F3:</strong> Verificación de guías turísticos</p>
-<p><strong>F4:</strong> Conexión directa entre viajeros y guías
-turísticos experimentados</p>
-<p><strong>F5:</strong> Uso de herramientas digitales adicionales para
-una mejor experiencia de usuario</p></td>
-<td><p><strong>FO1:</strong> Selección de guías turísticos de acuerdo
-con el conocimiento de cada zona en el país, para ampliar así la cartera
-de clientes (O1, F2, F3)</p>
-<p><strong>FO2:</strong> Uso de herramientas digitales para conseguir
-una mayor cantidad de colaboraciones con empresas (F1, F5, O3)</p></td>
-<td><p><strong>FA1:</strong> Interfaz de uso sencillo en el rubro,
-incluyendo aspectos adicionales como la regulación legal en el rubro,
-actualizada y completa, así como un reglamento de conducta entre
-viajeros-guías (F1, F4, A1)</p>
-<p><strong>FA2:</strong> Mejorar la seguridad de la plataforma –registro
-de usuarios y guías turísticos– para que los usuarios puedan utilizarla
-con confianza (F2, F3, A2, A3)</p></td>
-</tr>
-<tr class="odd">
-<td><strong>Debilidades</strong></td>
-<td><strong>Estrategias DO (Reorientación)</strong></td>
-<td><strong>Estrategias DA (Supervivencia)</strong></td>
-</tr>
-<tr class="even">
-<td><p><strong>D1:</strong> Empresa nueva</p>
-<p><strong>D2:</strong> Dependencia de la cantidad de usuarios</p>
-<p><strong>D3:</strong> Falta de colaboradores</p>
-<p><strong>D4:</strong> Competencia en el mercado</p></td>
-<td><p><strong>DO1:</strong> Empezar el desarrollo de la empresa
-adaptada al mercado peruano (D1, O1)</p>
-<p><strong>DO2:</strong> Aumentar la cantidad de usuarios gracias a los
-colaboradores, relacionados al sector turismo, que puedan unirse al
-proyecto (D2, D3, D4, O3)</p></td>
-<td><strong>DA1:</strong> Generar confianza en los usuarios y
-colaboradores mejorando el sistema de seguridad, para así atraer mayor
-cantidad de usuarios gracias a las recomendaciones (D2, D3, D4, A2)</td>
-</tr>
-</tbody>
-</table>
+|                         | Oportunidades                                                                               | Amenazas                                                                                     |
+|-------------------------|----------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|
+|                         | **O1:** Expansión al mercado peruano<br>**O2:** Puede sobresalir gracias al objetivo específico de conseguir guías turísticos<br>**O3:** Colaboraciones con empresas relacionadas al sector turismo | **A1:** Cambios en la regulación gubernamental en el sector turismo<br>**A2:** Impacto negativo en el usuario ante problemas de seguridad o calidad del servicio<br>**A3:** Riesgos en la protección de datos |
+| **Fortalezas**          | **Estrategias FO (Ofensivas)**                                                              | **Estrategias FA (Defensivas)**                                                              |
+| **F1:** Facilidad de uso de la aplicación<br>**F2:** Función de registro de guías turísticos<br>**F3:** Verificación de guías turísticos<br>**F4:** Conexión directa entre viajeros y guías turísticos experimentados<br>**F5:** Uso de herramientas digitales adicionales para una mejor experiencia de usuario | **FO1:** Selección de guías turísticos de acuerdo con el conocimiento de cada zona en el país, para ampliar así la cartera de clientes (O1, F2, F3)<br>**FO2:** Uso de herramientas digitales para conseguir una mayor cantidad de colaboraciones con empresas (F1, F5, O3) | **FA1:** Interfaz de uso sencillo en el rubro, incluyendo aspectos adicionales como la regulación legal en el rubro, actualizada y completa, así como un reglamento de conducta entre viajeros-guías (F1, F4, A1)<br>**FA2:** Mejorar la seguridad de la plataforma –registro de usuarios y guías turísticos– para que los usuarios puedan utilizarla con confianza (F2, F3, A2, A3) |
+| **Debilidades**         | **Estrategias DO (Reorientación)**                                                          | **Estrategias DA (Supervivencia)**                                                           |
+| **D1:** Empresa nueva<br>**D2:** Dependencia de la cantidad de usuarios<br>**D3:** Falta de colaboradores<br>**D4:** Competencia en el mercado | **DO1:** Empezar el desarrollo de la empresa adaptada al mercado peruano (D1, O1)<br>**DO2:** Aumentar la cantidad de usuarios gracias a los colaboradores, relacionados al sector turismo, que puedan unirse al proyecto (D2, D3, D4, O3) | **DA1:** Generar confianza en los usuarios y colaboradores mejorando el sistema de seguridad, para así atraer mayor cantidad de usuarios gracias a las recomendaciones (D2, D3, D4, A2) |
+
 
 ## 2.2. Entrevistas. 
 
