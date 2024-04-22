@@ -960,19 +960,18 @@ Ciclo de Vida del Software: Etapas por las que pasa el desarrollo.
 
 ## 3.3. Impact Mapping. 
 
-Los story points se colocarán según el esfuerzo que se necesita para
-realizar esta acción
 
-Segmento 1:
 
-<img src="https://media.discordapp.net/attachments/1226580112670064641/1227828421464297583/20.png?ex=6629d353&is=66175e53&hm=207f2301816820f15685f1de87bcdcf14980cdfbb4da82115af9af8763b578da&=&format=webp&quality=lossless"
-style="width:6.26772in;height:2.95833in" />
+Segmento 1: Turistas
+
+![Miro-turista](https://media.discordapp.net/attachments/1226580112670064641/1227828421464297583/20.png?ex=66330dd3&is=662098d3&hm=59ec6e0fbeb58f63925b656c428a9f002d3d88affef03a698239b6ec1095be1e&=&format=webp&quality=lossless)
+
 
 Ver a detalle en el anexo 2 - segmento 1
 
-Segmento 2:
+Segmento 2: Guías
 
-<img src="https://media.discordapp.net/attachments/1226580112670064641/1227828438363017226/21.png?ex=6629d357&is=66175e57&hm=bc51dfd0ee6814b8cf1003974bd3b6580086b8a94ed9bd92820b8093b50a80c9&=&format=webp&quality=lossless" style="width:6.26772in;height:3.15278in" />
+![Miro-guia](https://media.discordapp.net/attachments/1226580112670064641/1227828438363017226/21.png?ex=66330dd7&is=662098d7&hm=43e2f887aba8bcbc24960dba532fc94421269725af8f592b1bec35e34bfaf878&=&format=webp&quality=lossless&width=941&height=473)
 
 Ver a detalle en el anexo 2 - segmento 2
 
