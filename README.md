@@ -13,7 +13,12 @@ Tabla de contenidos
 ## Registro de versiones 
 | Versión | Fecha      | Autor    | Descripción de modificación                                                                                           |
 |---------|------------|----------|-----------------------------------------------------------------------------------------------------------------------|
-| 1.0     | 10/04/2024 | Grupo 03 | - Capítulo 1 - Capítulo 2 - Capítulo 3 - Capítulo 4 - 5.1. - 5.2.                                                     |
+| 1.0     | 10/04/2024 | Grupo 03 | - Capítulo 1 
+- Capítulo 2
+- - Capítulo 3
+  - - Capítulo 4
+    - - 5.1.
+      - - 5.2.                                                     |
 | 2       |            | Grupo 03 |                                                                                                                       |
 | 3       |            | Grupo 03 |                                                                                                                       |
 | 4       |            | Grupo 03 |                                                                                                                       |
