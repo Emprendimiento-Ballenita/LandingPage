@@ -2324,6 +2324,8 @@ enlaces a estos repositorios:
 
 Landing Page: <https://emprendimiento-ballenita.github.io/LandingPage/>
 
+Repositorio GitHub: <https://github.com/Emprendimiento-Ballenita/LandingPage>
+
 ### 5.1.3. Source Code Style Guide & Conventions. 
 
 Para mantener la coherencia en nuestro proyecto desarrollado en IntelliJ
