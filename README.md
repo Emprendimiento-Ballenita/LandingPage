@@ -2027,228 +2027,128 @@ o solicitar asistencia adicional cuando sea necesario</td>
 </tbody>
 </table>
 
-# Capítulo 4:
+# CAPÍTULO IV: 
+## 4.1. Style Guidelines.
+### 4.1.1. General Style Guidelines.
+En esta sección, se describen las directrices generales de estilo que se aplican al diseño del sitio web de Turisteando, asegurando coherencia visual en toda la plataforma.
+
+
+- **Tipografía**: Se ha importado la fuente "Poppins" desde Google Fonts con pesos de 300, 400, 600 y 700 para garantizar una amplia variedad de estilos tipográficos. Esta elección se hizo para mejorar la legibilidad y la estética del texto en el sitio web.
+
+- **Contenedor Principal**: El diseño del sitio web se basa en un contenedor principal con un ancho del 90% y un máximo de 1200px para mantener una apariencia consistente en diferentes dispositivos. Se ha definido un margen automático para centrar el contenido y se ha establecido un relleno interno para mejorar la distribución del contenido.
+
+- **Hero Section**: La sección hero ocupa el 100% del ancho de la pantalla y tiene una altura mínima de 600px y máxima de 800px para asegurar una visualización adecuada en diferentes dispositivos. Se utiliza una imagen de fondo con una capa de superposición semi-transparente que se desplaza suavemente para agregar dinamismo a la sección.
+
+- **Menú de Navegación**: Se ha diseñado un menú de navegación fijo en la parte superior de la página que se muestra como una barra horizontal en pantallas anchas y se convierte en un menú desplegable en dispositivos móviles. Se utiliza un icono de hamburguesa para indicar la disponibilidad del menú en dispositivos móviles.
+
+- **Colores y Contrastes**: Se han definido colores primarios y secundarios consistentes con la identidad visual de Turisteando. Se presta especial atención al contraste de los elementos para garantizar la accesibilidad y la legibilidad del contenido para todos los usuarios.
+
+- **Elementos Interactivos**: Los elementos interactivos, como botones y enlaces, tienen estilos uniformes en todo el sitio web para mantener la cohesión visual. Se han definido estados de interacción, como hover, para mejorar la experiencia del usuario.
+
+- **Responsividad**: Se han implementado media queries para garantizar que el sitio web sea completamente receptivo y se vea bien en una variedad de dispositivos, desde pantallas de escritorio hasta teléfonos móviles.
+
+### 4.1.1. General Style Guidelines.
+En esta sección se centra en las pautas de estilo para el Landing Page del proyecto Turisteando.
+
+- **Colores**: Los colores del sitio web escogidos son #e2725b (Terracota) y #f5f5dc (Beige). Para los botones se usarán el negro o blanco.
+
+- **Diseño responsivo**: El sitio web será responsivo para su adaptación tanto para computadoras como dispositivos móviles.
+
+- **Navegación**: Se implementará una navegación intuitiva para el usuario para que su fácil exploración de la página.
+
+- **Usabilidad**: Se realizarán pruebas para garantizar la eficiencia de la página.
+
+- **Imágenes y gráficos**: Las imágenes que usarán en la web se comprimieron para una carga más rápida.
+
+- **Fuentes y tamaño de texto**: El tamaño del texto para la página será de 16px en la mayor parte de la misma. Se mantendrá un contraste con el fondo.
 
 ## 4.1. Style Guidelines.
-
-### 4.1.1. General Style Guidelines. 
-
-En esta sección, se describen las directrices generales de estilo que se
-aplican al diseño del sitio web de Turisteando, asegurando coherencia
-visual en toda la plataforma.
-
-- **Tipografía:** Se ha importado la fuente "Poppins" desde Google Fonts
-  con pesos de 300, 400, 600 y 700 para garantizar una amplia variedad
-  de estilos tipográficos. Esta elección se hizo para mejorar la
-  legibilidad y la estética del texto en el sitio web.
-
-- **Contenedor Principal:** El diseño del sitio web se basa en un
-  contenedor principal con un ancho del 90% y un máximo de 1200px para
-  mantener una apariencia consistente en diferentes dispositivos. Se ha
-  definido un margen automático para centrar el contenido y se ha
-  establecido un relleno interno para mejorar la distribución del
-  contenido.
-
-- **Hero Section:** La sección hero ocupa el 100% del ancho de la
-  pantalla y tiene una altura mínima de 600px y máxima de 800px para
-  asegurar una visualización adecuada en diferentes dispositivos. Se
-  utiliza una imagen de fondo con una capa de superposición
-  semi-transparente que se desplaza suavemente para agregar dinamismo a
-  la sección.
-
-- **Menú de Navegación:** Se ha diseñado un menú de navegación fijo en
-  la parte superior de la página que se muestra como una barra
-  horizontal en pantallas anchas y se convierte en un menú desplegable
-  en dispositivos móviles. Se utiliza un icono de hamburguesa para
-  indicar la disponibilidad del menú en dispositivos móviles.
-
-- **Colores y Contrastes:** Se han definido colores primarios y
-  secundarios consistentes con la identidad visual de Turisteando. Se
-  presta especial atención al contraste de los elementos para garantizar
-  la accesibilidad y la legibilidad del contenido para todos los
-  usuarios.
-
-- **Elementos Interactivos:** Los elementos interactivos, como botones y
-  enlaces, tienen estilos uniformes en todo el sitio web para mantener
-  la cohesión visual. Se han definido estados de interacción, como
-  hover, para mejorar la experiencia del usuario.
-
-- **Responsividad:** Se han implementado media queries para garantizar
-  que el sitio web sea completamente receptivo y se vea bien en una
-  variedad de dispositivos, desde pantallas de escritorio hasta
-  teléfonos móviles.
-
-### 4.1.2. Web Style Guidelines. 
-
-En esta sección se centra en las pautas de estilo para el Landing Page
-del proyecto Turisteando.
-
-- **Colores:** Los colores del sitio web escogidos son \#e2725b
-  (Terracota) y \#f5f5dc (Beige). Para los botones se usarán el negro o
-  blanco.
-
-- **Diseño responsivo:** El sitio web será responsivo para su adaptación
-  tanto para computadoras como dispositivos móviles.
-
-- **Navegación:** Se implementará una navegación intuitiva para el
-  usuario para que su fácil exploración de la página.
-
-- **Usabilidad:** Se realizarán pruebas para garantizar la eficiencia de
-  la página.
-
-- Imágenes y gráficos: Las imágenes que usarán en la web se comprimirán
-  para una carga más rápida.
-
-- **Fuentes y tamaño de texto:** El tamaño del texto para la página será
-  de 16px en la mayor parte de esta. Se mantendrá un contraste con el
-  fondo.
-
-## 4.2. Information Architecture. 
-
 ### 4.2.1. Organization Systems. 
+En esta sección, estableceremos los sistemas de organización para el proyecto Turisteando, una plataforma que conecta viajeros con experiencias auténticas en pueblos remotos andinos. Implementaremos:
 
-En esta sección, estableceremos los sistemas de organización para el
-proyecto Turisteando, una plataforma que conecta viajeros con
-experiencias auténticas en pueblos remotos andinos. Implementaremos:
+- **Jerarquía de Contenido**: Secciones principales y subsecciones sobre destinos, experiencias y servicios turísticos. Subsecciones específicas sobre turismo.
 
-- **Jerarquía de Contenido:** Secciones principales y subsecciones sobre
-  destinos, experiencias y servicios turísticos. Subsecciones
-  específicas sobre turismo.
+- **Categorización**: Agruparemos el contenido en categorías lógicas basadas en destinos, tipos de experiencias, servicios turísticos y temas de sostenibilidad.
 
-- **Categorización:** Agruparemos el contenido en categorías lógicas
-  basadas en destinos, tipos de experiencias, servicios turísticos y
-  temas de sostenibilidad.
-
-- **Taxonomía:** Etiquetamos el contenido para una búsqueda efectiva,
-  incluyendo destinos, tipos de experiencias, servicios turísticos y
-  temas de sostenibilidad
+- **Taxonomía**: Etiquetamos el contenido para una búsqueda efectiva, incluyendo destinos, tipos de experiencias, servicios turísticos y temas de sostenibilidad
 
 ### 4.2.2. Labeling Systems. 
+En esta sección, describiremos los sistemas de etiquetado que se utilizarán para la landing page de Turisteando.
 
-En esta sección, describiremos los sistemas de etiquetado que se
-utilizarán para la landing page de Turisteando.
+- **Nombre de página**: Cada página de la página web tendrá su nombre lo suficientemente detallado para ser reconocida fácilmente.
 
-- **Nombre de página:** Cada página de la página web tendrá su nombre lo
-  suficientemente detallado para ser reconocida fácilmente.
+- **Etiquetas de menú**: Las etiquetas serán representadas con precisión con el contenido de Turisteando.
 
-- **Etiquetas de menú:** Las etiquetas serán representadas con precisión
-  con el contenido de Turisteando.
-
-- **Etiquetas de contenido:** Los elementos de contenido tendrán una
-  breve descripción para que el usuario entienda el contenido.
+- **Etiquetas de contenido**: Los elementos de contenido tendrán una breve descripción para que el usuario entienda el contenido.
 
 ### 4.2.3. SEO Tags and Meta Tags 
+En dicha sección se detalla las etiquetas de Seo y metaetiquetas que se usará para la visibilidad del proyecto Turisteando en los motores de búsqueda por los usuarios.
 
-En dicha sección se detalla las etiquetas de Seo y metaetiquetas que se
-usará para la visibilidad del proyecto Turisteando en los motores de
-búsqueda por los usuarios.
+- **Etiquetas de título**: Cada página tendrá un título único y descriptivo que tendrá palabras clave referentes al proyecto Turisteando.
 
-- **Etiquetas de título:** Cada página tendrá un título único y
-  descriptivo que tendrá palabras clave referentes al proyecto
-  Turisteando.
+- **Metadescripciones**: Se crearán a fines de que se llame la atención de los usuarios para que den click en nuestra página al buscar temas relacionados a la aplicación.
 
-- **Metadescripciones:** Se crearán a fines de que se llame la atención
-  de los usuarios para que den clic en nuestra página al buscar temas
-  relacionados a la aplicación.
+- **Etiquetas de encabezado**: Se crearán etiquetas de acorde (H1, H2, H3) para mantener un orden en el código html.
 
-- **Etiquetas de encabezado:** Se crearán etiquetas de acorde (H1, H2,
-  H3) para mantener un orden en el código html.
 
 ### 4.2.4. Searching Systems. 
+En esta sección se detalla como los motores de búsqueda permitirán a los usuarios encontrar a la página de Turisteando.
 
-En esta sección se detalla como los motores de búsqueda permitirán a los
-usuarios encontrar a la página de Turisteando.
+- **Motores de búsqueda interna**: Se implementará un motor de búsqueda para el sitio web que permitirá a los usuarios buscar guías turísticos de forma más sencilla.
 
-- **Motores de búsqueda interna:** Se implementará un motor de búsqueda
-  para el sitio web que permitirá a los usuarios buscar guías turísticos
-  de forma más sencilla.
+- **Filtros de búsqueda**: Se ofrecerá filtros de búsqueda para una mayor precisión a la hora de buscar un guía turísticos por zona, nombre o puntuación.
 
-- **Filtros de búsqueda:** Se ofrecerá filtros de búsqueda para una
-  mayor precisión a la hora de buscar un guía turísticos por zona,
-  nombre o puntuación.
+### 4.2.5. Navigation Systems.
+En esta sección se detallan los sistemas de navegación que los usuarios emplearán al momento de transitar por la página.
 
-### 4.2.5. Navigation Systems. 
+- **Menú de navegación**: Se diseñará un menú claro y sencillo de usar para el usuario, y que este pueda acceder fácilmente a los servicios de la app.
 
-En esta sección se detallan los sistemas de navegación que los usuarios
-emplearán al momento de transitar por la página.
+- **Breadcrumbs**: Se añadirá esta funcionalidad para facilitar la navegación de ida y vuelta al usuario.
 
-- **Menú de navegación:** Se diseñará un menú claro y sencillo de usar
-  para el usuario, y que este pueda acceder fácilmente a los servicios
-  de la aplicación.
-
-- **Breadcrumbs:** Se añadirá esta funcionalidad para facilitar la
-  navegación de ida y vuelta al usuario.
 
 ## 4.3. Landing Page UI Design. 
-
 ### 4.3.1. Landing Page Wireframe. 
 
-<img src="https://media.discordapp.net/attachments/1226580112670064641/1227828460202885220/22.png?ex=6629d35c&is=66175e5c&hm=81c63813be5b42c846ee0c62be1223d5a26468299773782dd48bf0821ea6edba&=&format=webp&quality=lossless&width=1255&height=597"
-style="width:6.26772in;height:2.98611in" />
+![Wireframe](https://media.discordapp.net/attachments/1226580112670064641/1227828460202885220/22.png?ex=66330ddc&is=662098dc&hm=7c22aa5578ea08598ebf1bab84ed09368034cf73950f243dbc5f87a6342ab418&=&format=webp&quality=lossless&width=1246&height=593)
 
 ### 4.3.2. Landing Page Mock-up. 
 
-<img src="https://media.discordapp.net/attachments/1226580112670064641/1227828487969177630/23.png?ex=6629d363&is=66175e63&hm=48b0104ac6a6ec46c701997a0080c343afc7fae9033cc365607e12eec54867f3&=&format=webp&quality=lossless&width=1253&height=597"
-style="width:6.26772in;height:2.98611in" />
+![Mock-up](https://media.discordapp.net/attachments/1226580112670064641/1227828487969177630/23.png?ex=66330de3&is=662098e3&hm=634fcb9f4c6afae18f3abbe22f84e68a63abf200e49ff270dfb284c0672796dd&=&format=webp&quality=lossless&width=1246&height=593)
 
 ## 4.4. Web Applications UX/UI Design. 
-
 ### 4.4.1. Web Applications Wireframes. 
-
-Aún están en desarrollo, ya que el grupo ha priorizado la documentación
-en general, así como el desarrollo del landing page.
-
+Aún están en desarrollo, ya que el grupo ha priorizado la documentación en general, así como el desarrollo del landing page.
 ### 4.4.2. Web Applications Wireflow Diagrams. 
-
-Aún están en desarrollo, ya que el grupo ha priorizado la documentación
-en general, así como el desarrollo del landing page.
-
+Aún están en desarrollo, ya que el grupo ha priorizado la documentación en general, así como el desarrollo del landing page.
 ### 4.4.3. Web Applications Mock-ups. 
-
-Aún están en desarrollo, ya que el grupo ha priorizado la documentación
-en general, así como el desarrollo del landing page.
-
+Aún están en desarrollo, ya que el grupo ha priorizado la documentación en general, así como el desarrollo del landing page.
 ### 4.4.4. Web Applications User Flow Diagrams. 
+Aún están en desarrollo, ya que el grupo ha priorizado la documentación en general, así como el desarrollo del landing page.
 
-Aún están en desarrollo, ya que el grupo ha priorizado la documentación
-en general, así como el desarrollo del landing page.
 
 ## 4.5. Web Applications Prototyping. 
-
 ## 4.6. Domain-Driven Software Architecture.
 
 ### 4.6.1. Software Architecture Context Diagram. 
-
-<img src="https://media.discordapp.net/attachments/1226580112670064641/1227828533783433246/24.png?ex=6629d36e&is=66175e6e&hm=fccb59120da056ef86836e876b08936036303cb948472c06629a7c2cc6352d24&=&format=webp&quality=lossless&width=975&height=597"
-style="width:6.26772in;height:3.84722in" />
+![ContextDiagram](https://media.discordapp.net/attachments/1226580112670064641/1227828533783433246/24.png?ex=66330dee&is=662098ee&hm=25b2999a734bc4cad4eba1490215d925d1b9c10563277dc86c9375ed2979c631&=&format=webp&quality=lossless&width=968&height=593)
 
 ### 4.6.2. Software Architecture Container Diagrams. 
-
-<img src="https://media.discordapp.net/attachments/1226580112670064641/1227828553819750460/25.png?ex=6629d373&is=66175e73&hm=ff432346f1f32b594e40645c7e5726f9e8c23fe0ef2dadaa67fc152e3f0ac2f2&=&format=webp&quality=lossless&width=731&height=597" style="width:6.26772in;height:5.125in" />
+![ContainerDiagram](https://media.discordapp.net/attachments/1226580112670064641/1227828553819750460/25.png?ex=66330df3&is=662098f3&hm=bf0f192bd001b4da4867b774b839a02db9bdbcd9d13cc61af5d28f63f7e1ffc9&=&format=webp&quality=lossless&width=727&height=593)
 
 ### 4.6.3. Software Architecture Components Diagrams. 
+![CommponentsDiagram](https://media.discordapp.net/attachments/1226580112670064641/1227828572731740231/26.png?ex=66273077&is=6625def7&hm=206ca6c5fba55421ec209ce92f331a5cdf5374d6a2de0be596d9d7b566f17827&=&format=webp&quality=lossless&width=981&height=593)
 
-<img src="https://media.discordapp.net/attachments/1226580112670064641/1227828572731740231/26.png?ex=6629d377&is=66175e77&hm=ba726ec0d8ac02f6ed1d001a886c27ba633193a30347a2954208c0e576a3277f&=&format=webp&quality=lossless&width=987&height=597"
-style="width:6.26772in;height:3.79167in" />
 
 ## 4.7. Software Object-Oriented Design. 
-
 ### 4.7.1. Class Diagrams.
-
-Aún están en desarrollo, ya que el grupo ha priorizado la documentación
-en general, así como el desarrollo del landing page.
+Aún están en desarrollo, ya que el grupo ha priorizado la documentación en general, así como el desarrollo del landing page. 
 
 ### 4.7.2. Class Dictionary. 
-
-Aún están en desarrollo, ya que el grupo ha priorizado la documentación
-en general, así como el desarrollo del landing page.
+Aún están en desarrollo, ya que el grupo ha priorizado la documentación en general, así como el desarrollo del landing page.
 
 ## 4.8. Database Design. 
-
 ### 4.8.1. Database Diagram.
-
-Aún están en desarrollo, ya que el grupo ha priorizado la documentación
-en general, así como el desarrollo del landing page.
+Aún están en desarrollo, ya que el grupo ha priorizado la documentación en general, así como el desarrollo del landing page.
 
 # Capitulo 5:
 
