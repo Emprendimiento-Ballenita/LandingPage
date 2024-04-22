@@ -984,8 +984,7 @@ realizar las acciones.
 |---------|-----------------|------------------------|------------------------------------------------|----------------------   |
 | 1       | US01   | Usuario quiere registrarse en la aplicación.   | Como turista, quiero poder registrarme en la plataforma para acceder a todas las funcionalidades y servicios disponibles | 3 |
 | 2      | US03 | Registrar guía | **Como** guía, **quiero** poder registrarme en la plataforma proporcionando la información necesaria **para** crear un perfil completo y ofrecer mis servicios como guía turístico | 3 |
-| 3 | US02| Autenticar cuenta de turista | **Como** turista, **quiero** poder autenticar mi cuenta utilizando mis credenciales 
-**para** acceder a mi perfil y realizar acciones en la plataforma web de manera segura | 2 |
+| 3 | US02| Autenticar cuenta de turista | **Como** turista, **quiero** poder autenticar mi cuenta utilizando mis credenciales **para** acceder a mi perfil y realizar acciones en la plataforma web de manera segura | 2 |
 | 4 | US04 |Autenticar cuenta de guía | **Como** guía, **quiero** poder autenticar mi cuenta utilizando mis credenciales **para** acceder a mi perfil y gestionar mi información como guía turístico. | 2 |
 | 5 | US05 | Iniciar sesión | Como guía/turista, quiero poder iniciar sesión en la plataforma con mis credenciales para acceder a mi cuenta y utilizar todas las funcionalidades disponibles. | 3 |
 | 6 | US06 | Restablecer contraseña | Como guía/turista, quiero tener la opción de restablecer mi contraseña para poder ingresar a mi cuenta cuando tenga problemas. | 5 |
