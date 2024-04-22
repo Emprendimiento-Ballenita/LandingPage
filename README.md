@@ -787,104 +787,18 @@ además de guía?
 medio, ya conocen todos los detalles de tus recorridos?
 
 ### 2.2.2. Registro de entrevistas.
+| Cliente o Turista | Descripción                                                                                                                                                            |
+|-------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Entrevista #1     | **Nombre del entrevistado:** Lizbeth Olivera Álvarez<br>**Link del video evidenciando la entrevista :** [Link de la entrevista](https://drive.google.com/file/d/1nTkm4sO2U1nq2i-vFnWVnu-L5zuo4nmJ/view?usp=drive_link)<br>**Edad:** 25 años<br>**Ciudad:** Lima<br>**Profesión:** Estudiante de Ciencias de la computación |
+| Entrevista #2     | **Nombre del entrevistado:** Javier Francisco Orellana Pérez<br>**Link del video evidenciando la entrevista :** [Link de la entrevista](https://drive.google.com/file/d/1LXyRAs1fXEObiug3tRdK0ZP2e2DeZGW5/view?usp=drive_link)<br>**Edad:** 21 años<br>**Ciudad:** Lima<br>**Profesión:** Ingeniero de Software             |
+| Entrevista #3     | **Nombre del entrevistado:** Franco Ernesto De La Cruz Delgado<br>**Link del video evidenciando la entrevista :** [Link de la Entrevista](https://drive.google.com/file/d/1w3EgYezBSTRnM6X2BL9EHVpnZeylz7co/view?usp=sharing)<br>**Edad:** 21 años<br>**Ciudad:** Lima<br>**Profesión:** Estudiante de Ingeniería de sistemas |
+| Entrevista #4     | **Nombre del entrevistado:** Genaro Jeanpier Ledesma Pumacahua<br>**Link del video evidenciando la entrevista :** [Link de la entrevista](https://youtu.be/XJjxEI7jeQY)<br>**Edad:** 21 años<br>**Ciudad:** Lima<br>**Profesión:** Estudiante de Ingeniería Civil                      |
 
-<table>
-<colgroup>
-<col style="width: 36%" />
-<col style="width: 63%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td>Cliente o Turista</td>
-<td><strong>Descripción</strong></td>
-</tr>
-<tr class="even">
-<td><p><strong>Entrevista #1</strong></p>
-<p><strong>Nombre del entrevistado:</strong></p>
-<p>Lizbeth Olivera Álvarez</p>
-<p><strong>Link del video evidenciando la entrevista : <a
-href="https://drive.google.com/file/d/1nTkm4sO2U1nq2i-vFnWVnu-L5zuo4nmJ/view?usp=drive_link"><u>Link
-de la entrevista</u></a></strong></p></td>
-<td><p><strong>Edad</strong>: 25 años</p>
-<p><strong>Ciudad</strong>: Lima</p>
-<p><strong>Profesión</strong>: Estudiante de Ciencias de la
-computación</p></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Entrevista #2</strong></p>
-<p><strong>Nombre del entrevistado:</strong></p>
-<p>Javier Francisco Orellana Pérez</p>
-<p><strong>Link del video evidenciando la entrevista : <a
-href="https://drive.google.com/file/d/1LXyRAs1fXEObiug3tRdK0ZP2e2DeZGW5/view?usp=drive_link"><u>Link
-de la entrevista</u></a></strong></p>
-<p></p></td>
-<td><p><strong>Edad</strong>: 21 años</p>
-<p><strong>Ciudad</strong>: Lima</p>
-<p><strong>Profesión</strong>: Ingeniero de Software</p>
-<p></p></td>
-</tr>
-<tr class="even">
-<td><p><strong>Entrevista #3</strong></p>
-<p><strong>Nombre del entrevistado:</strong></p>
-<p>Franco Ernesto De La Cruz Delgado</p>
-<p><strong>Link del video evidenciando la entrevista : <a
-href="https://drive.google.com/file/d/1w3EgYezBSTRnM6X2BL9EHVpnZeylz7co/view?usp=sharing"><u>Link
-de la Entrevista</u></a></strong></p></td>
-<td><p><strong>Edad</strong>: 21 años</p>
-<p><strong>Ciudad</strong>: Lima</p>
-<p><strong>Profesión</strong>: Estudiante de Ingeniería de
-sistemas</p></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Entrevista #4</strong></p>
-<p><strong>Nombre del entrevistado:</strong></p>
-<p>Genaro Jeanpier Ledesma Pumacahua</p>
-<p><strong>Link del video evidenciando la entrevista : <a
-href="https://youtu.be/XJjxEI7jeQY"><u>Link de la
-entrevista</u></a></strong></p></td>
-<td><p><strong>Edad</strong>: 21 años</p>
-<p><strong>Ciudad</strong>: Lima</p>
-<p><strong>Profesión</strong>: Estudiante de Ingeniería
-Civil</p></td>
-</tr>
-</tbody>
-</table>
+| Guía turístico    | Descripción                                                                                      |
+|-------------------|--------------------------------------------------------------------------------------------------|
+| Entrevista #1     | **Nombre del entrevistado:** Aldo Pastrana Leon<br>**Link del video evidenciando la entrevista :** [https://www.youtube.com/watch?v=Zw5uVPyu938](https://www.youtube.com/watch?v=Zw5uVPyu938)<br>**Edad:** 22<br>**Ciudad:** Canta<br>**Profesión:** Estudiante de Guía oficial del turismo |
+| Entrevista #2     | **Nombre del entrevistado:**<br>**Link del video evidenciando la entrevista :**                                                                               |
 
-<table>
-<colgroup>
-<col style="width: 44%" />
-<col style="width: 2%" />
-<col style="width: 52%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td><strong>Guía turístico</strong></td>
-<td></td>
-<td><strong>Descripción</strong></td>
-</tr>
-<tr class="even">
-<td><p><strong>Entrevista #1</strong></p>
-<p><strong>Nombre del entrevistado:</strong></p>
-<p>Aldo Pastrana Leon</p>
-<p><strong>Link del video evidenciando la entrevista :</strong></p>
-<p><strong><a
-href="https://www.youtube.com/watch?v=Zw5uVPyu938"><u>https://www.youtube.com/watch?v=Zw5uVPyu938</u></a></strong></p></td>
-<td></td>
-<td><p><strong>Edad:</strong> 22</p>
-<p><strong>Ciudad:</strong> Canta</p>
-<p><strong>Profesión</strong>: Estudiante de Guía oficial del
-turismo</p></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Entrevista #2</strong></p>
-<p><strong>Nombre del entrevistado:</strong></p>
-<p><strong>Link del video evidenciando la entrevista :</strong></p>
-<p></p></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
 
 ### 2.2.3. Análisis de entrevistas.
 
