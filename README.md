@@ -2700,46 +2700,24 @@ Conclusiones TB1:
 
 ## Bibliografía:
 
-- Stevens, E. (2023, 29 octubre). Problem statement in UX: Definition
-  and examples. *UX Design Institute*.
-  [<u>https://www.uxdesigninstitute.com/blog/problem-statement-in-ux-examples/#:~:text=A%20problem%20statement%20is%20a,that%20this%20problem%20be%20solved</u>](https://www.uxdesigninstitute.com/blog/problem-statement-in-ux-examples/#:~:text=A%20problem%20statement%20is%20a,that%20this%20problem%20be%20solved).
+- Stevens, E. (2023, 29 octubre). Problem statement in UX: Definition and examples. *UX Design Institute*. [Link](https://www.uxdesigninstitute.com/blog/problem-statement-in-ux-examples/#:~:text=A%20problem%20statement%20is%20a,that%20this%20problem%20be%20solved)
 
-- Vivanco, J. (2021, 10 diciembre). El modelo C4 de documentación para
-  la Arquitectura de Software. *Medium*.
-  [<u>https://medium.com/@javiervivanco/el-modelo-c4-de-documentaci%C3%B3n-para-la-arquitectura-de-software-424704528390</u>](https://medium.com/@javiervivanco/el-modelo-c4-de-documentaci%C3%B3n-para-la-arquitectura-de-software-424704528390)
+- Vivanco, J. (2021, 10 diciembre). El modelo C4 de documentación para la Arquitectura de Software. *Medium*. [Link](https://medium.com/@javiervivanco/el-modelo-c4-de-documentaci%C3%B3n-para-la-arquitectura-de-software-424704528390)
 
-- Vilímková, O. (2015). Turismo vivencial – presentación de actividades
-  y su impacto en la vida de algunas comunidades andinas en Perú.
-  *Elohi*, *7*, 75-100.
-  [<u>https://doi.org/10.4000/elohi.479</u>](https://doi.org/10.4000/elohi.479)
-
-- 
+- Vilímková, O. (2015). Turismo vivencial – presentación de actividades y su impacto en la vida de algunas comunidades andinas en Perú. *Elohi*, *7*, 75-100. [Link](https://doi.org/10.4000/elohi.479)
 
 ## Anexos:
 
-- Anexo 1: Enlace del Lean Ux Canvas:
-  [<u>https://www.figma.com/file/cEkXa2WVXX7lYrXnML56ym/Lean-UX-Canvas?type=whiteboard&node-id=0%3A1&t=vBBLdI3dsFatb4bv-1</u>](https://www.figma.com/file/cEkXa2WVXX7lYrXnML56ym/Lean-UX-Canvas?type=whiteboard&node-id=0%3A1&t=vBBLdI3dsFatb4bv-1)
+- Anexo 1: Enlace del Lean Ux Canvas: [Link](https://www.figma.com/file/cEkXa2WVXX7lYrXnML56ym/Lean-UX-Canvas?type=whiteboard&node-id=0%3A1&t=vBBLdI3dsFatb4bv-1)
 
 - Anexo 2: Enlace de los Impact Mapping
+  - Segmento 1: [Link](https://miro.com/welcomeonboard/VkxTWTlGOGZ0MHFHVFNWbWhzYWJwWnhMdHY4ZlNVV3FXS1ZSZnZmam54aU81dTFvOTlzcDBVVzVWOVpBRFlFYXwzNDU4NzY0NTI0NTkxOTgzNjc0fDI=?share_link_id=977101722686)
+  - Segmento 2: [Link](https://miro.com/welcomeonboard/MFFrQ3NnWEpBZlU4aG1oY01iSGZIQ1hQblNHaVBvSEJLMVhmZ3RTTWJqNVJXRnVzM2lSbW5EYmpud3MwVVhDMnwzNDU4NzY0NTI0NTkxOTgzNjc0fDI=?share_link_id=643634161227)
 
-  - Segmento 1:
-    [<u>https://miro.com/welcomeonboard/VkxTWTlGOGZ0MHFHVFNWbWhzYWJwWnhMdHY4ZlNVV3FXS1ZSZnZmam54aU81dTFvOTlzcDBVVzVWOVpBRFlFYXwzNDU4NzY0NTI0NTkxOTgzNjc0fDI=?share_link_id=977101722686</u>](https://miro.com/welcomeonboard/VkxTWTlGOGZ0MHFHVFNWbWhzYWJwWnhMdHY4ZlNVV3FXS1ZSZnZmam54aU81dTFvOTlzcDBVVzVWOVpBRFlFYXwzNDU4NzY0NTI0NTkxOTgzNjc0fDI=?share_link_id=977101722686)
+- Anexo 3: Landing Page Wireframe [Link](https://www.figma.com/file/pZbQY6wUszkbiX5JPzonuB/Open-Source?type=design&node-id=6-14&mode=design&t=FEZVYXKpIbxEu972-0)
 
-  - Segmento 2:
-    [<u>https://miro.com/welcomeonboard/MFFrQ3NnWEpBZlU4aG1oY01iSGZIQ1hQblNHaVBvSEJLMVhmZ3RTTWJqNVJXRnVzM2lSbW5EYmpud3MwVVhDMnwzNDU4NzY0NTI0NTkxOTgzNjc0fDI=?share_link_id=643634161227</u>](https://miro.com/welcomeonboard/MFFrQ3NnWEpBZlU4aG1oY01iSGZIQ1hQblNHaVBvSEJLMVhmZ3RTTWJqNVJXRnVzM2lSbW5EYmpud3MwVVhDMnwzNDU4NzY0NTI0NTkxOTgzNjc0fDI=?share_link_id=643634161227)
+- Anexo 4: Landing Page Mockup [Link](https://www.figma.com/file/pZbQY6wUszkbiX5JPzonuB/Open-Source?type=design&node-id=7-1062&mode=design&t=FEZVYXKpIbxEu972-0)
 
-- Anexo 3: Landing Page Wireframe
+- Anexo 5: Landing Page desplegada [Link](https://emprendimiento-ballenita.github.io/LandingPage/)
 
-> [<u>https://www.figma.com/file/pZbQY6wUszkbiX5JPzonuB/Open-Source?type=design&node-id=6-14&mode=design&t=FEZVYXKpIbxEu972-0</u>](https://www.figma.com/file/pZbQY6wUszkbiX5JPzonuB/Open-Source?type=design&node-id=6-14&mode=design&t=FEZVYXKpIbxEu972-0)
-
-- Anexo 4: Landing Page Mockup
-
-> [<u>https://www.figma.com/file/pZbQY6wUszkbiX5JPzonuB/Open-Source?type=design&node-id=7-1062&mode=design&t=FEZVYXKpIbxEu972-0</u>](https://www.figma.com/file/pZbQY6wUszkbiX5JPzonuB/Open-Source?type=design&node-id=7-1062&mode=design&t=FEZVYXKpIbxEu972-0)
-
-- Anexo 5: Landing Page desplegada
-
-> [<u>https://emprendimiento-ballenita.github.io/LandingPage/</u>](https://emprendimiento-ballenita.github.io/LandingPage/)
-
-- Anexo 6: Repositorio de Landing Page con el archivo md del reporte
-
-> [<u>https://github.com/Emprendimiento-Ballenita/LandingPage</u>](https://github.com/Emprendimiento-Ballenita/LandingPage)
+- Anexo 6: Repositorio de Landing Page con el archivo md del reporte [Link](https://github.com/Emprendimiento-Ballenita/LandingPage)
