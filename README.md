@@ -2047,7 +2047,7 @@ En esta sección, se describen las directrices generales de estilo que se aplica
 
 - **Responsividad**: Se han implementado media queries para garantizar que el sitio web sea completamente receptivo y se vea bien en una variedad de dispositivos, desde pantallas de escritorio hasta teléfonos móviles.
 
-### 4.1.1. General Style Guidelines.
+### 4.1.2. Web Style Guidelines. 
 En esta sección se centra en las pautas de estilo para el Landing Page del proyecto Turisteando.
 
 - **Colores**: Los colores del sitio web escogidos son #e2725b (Terracota) y #f5f5dc (Beige). Para los botones se usarán el negro o blanco.
@@ -2062,7 +2062,7 @@ En esta sección se centra en las pautas de estilo para el Landing Page del proy
 
 - **Fuentes y tamaño de texto**: El tamaño del texto para la página será de 16px en la mayor parte de la misma. Se mantendrá un contraste con el fondo.
 
-## 4.1. Style Guidelines.
+## 4.2 Information Architecture.
 ### 4.2.1. Organization Systems. 
 En esta sección, estableceremos los sistemas de organización para el proyecto Turisteando, una plataforma que conecta viajeros con experiencias auténticas en pueblos remotos andinos. Implementaremos:
 
