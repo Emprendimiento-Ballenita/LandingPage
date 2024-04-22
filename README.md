@@ -13,115 +13,18 @@ Tabla de contenidos
 ## Registro de versiones 
 | Versión | Fecha      | Autor    | Descripción de modificación                                                                                           |
 |---------|------------|----------|-----------------------------------------------------------------------------------------------------------------------|
-| 1.0     | 10/04/2024 | Grupo 03 | - Creación del documento para la primera versión del informe.<br>- Implementación de Carátula, Contenido, Student Outcome.<br>- Apertura Capítulo 1: Introducción.<br>- Redacción Startup Profile: Descripción de la Startup, Perfiles de integrantes del equipo.<br>- Redacción Solution Profile: Antecedentes y problemática, Lean UX Process.<br>- Redacción Segmentos objetivo.<br>- Apertura Capítulo 2: Requirements Elicitation & Analysis.<br>- Redacción Competidores: Análisis competitivo, Estrategias y tácticas frente a competidores.<br>- Redacción Entrevistas: Diseño de entrevistas, Registro de entrevistas y Análisis de entrevistas.<br>- Redacción Needfinding: User Personas, User Task Matrix, User Journey Mapping, Empathy Mapping y As-is Scenario Mapping.<br>- Avance en la redacción de conclusiones.<br>- Incorporación de Bibliografía en base a las citas del documento de reporte. |
+| 1.0     | 10/04/2024 | Grupo 03 | - Capítulo 1 - Capítulo 2 - Capítulo 3 - Capítulo 4 - 5.1. - 5.2.                                                     |
 | 2       |            | Grupo 03 |                                                                                                                       |
 | 3       |            | Grupo 03 |                                                                                                                       |
 | 4       |            | Grupo 03 |                                                                                                                       |
 
-<table style="width:100%;">
-<colgroup>
-<col style="width: 25%" />
-<col style="width: 24%" />
-<col style="width: 24%" />
-<col style="width: 24%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td>Versión</td>
-<td>Fecha</td>
-<td>Autor</td>
-<td>Descripción y modificación</td>
-</tr>
-<tr class="even">
-<td>1.0</td>
-<td>30/03/2023</td>
-<td><p>Cantoral Sedamano, Alexander Alberto</p>
-<p>Paitan Pumacahua, Max Anthony</p>
-<p>Acuña Tomas, Diego Rolin</p>
-<p>De La Cruz Villarreal, Carlos Alejandro</p>
-<p>Miguel Angel Gomez Hurtado</p></td>
-<td><p>Capítulo 1</p>
-<p>Capítulo 2</p>
-<p>Capítulo 3</p>
-<p>Capítulo 4</p>
-<p>5.1.</p>
-<p>5.2.</p></td>
-</tr>
-</tbody>
-</table>
 
 ## Student outcome
+| Criterio Específico                                                                                                                                                              | Acciones realizadas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | Conclusiones                                                                                                                                          |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería. | Cantoral Sedamano, Alexander Alberto TB1: Realización de entrevistas y organización del equipo para la entrega Paitan Pumacahua, Max Anthony TB1: Realización de entrevista y comunicación constante con los integrantes del grupo De La Cruz Villarreal, Carlos Alejandro TB1: Realización de entrevistas y reuniones para acordar las responsabilidades de cada integrante. Acuña Tomas, Diego Rolin TB1: Identificar segmentos objetivos, y grabar las entrevistas. Por último, reunirnos para repartir partes. Miguel Angel Gomez Hurtado TB1: Realización de los LeanUx, creación de los diagramas 4c (DDD). Es fundamental que se realicen en conjunto los puntos establecidos en el documento del final statement, así mismo el cumplimiento de tareas en las reuniones. | TB1: En conclusión, en este primer entregable hemos iniciado con nuestra investigación para apoyar a las comunidades rurales y los guías locales a poder contactar con potenciales clientes como pueden ser los turistas. A su vez, ya tenemos el primer prototipo de nuestra landing page, como a su vez hemos iniciado con las descripciones de funcionalidades de nuestra aplicación web. |
+| Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería.  | Cantoral Sedamano, Alexander Alberto TB1: Realización de la Landing Page, aporte a los capítulos 1, 2, 4 y 5 Paitan Pumacahua, Max Anthony TB1:Realización de los segmentos objetivo, competidores, estrategias y tácticas frente a competidores, user stories, wireframes y mockups del landing page y el Landing Page, Services & Applications Implementation De La Cruz Villarreal, Carlos Alejandro TB1: Realización de los Lean ux hypothesis statements y Lean ux canvas, as-is scenary map y to-be scenary map, impact map y product backlog. Acuña Tomas, Diego Rolin TB1: Realización de los Lean Ux, hypothesis. Miguel Angel Gomez Hurtado TB1:                                                                                                                                                 |                                                                                                                                                       |
 
-<table>
-<colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td>Criterio Específico</td>
-<td>Acciones realizadas</td>
-<td>Conclusiones</td>
-</tr>
-<tr class="even">
-<td>Comunica oralmente sus ideas y/o resultados con objetividad a
-público de diferentes especialidades y niveles jerárquicos, en el marco
-del desarrollo de un proyecto en ingeniería.</td>
-<td><p>Cantoral Sedamano, Alexander Alberto</p>
-<p>TB1:</p>
-<p>Realización de entrevistas y organización del equipo para la
-entrega</p>
-<p>Paitan Pumacahua, Max Anthony</p>
-<p>TB1:</p>
-<p>Realización de entrevista y comunicación constante con los
-integrantes del grupo</p>
-<p>De La Cruz Villarreal, Carlos Alejandro</p>
-<p>TB1: Realización de entrevistas y reuniones para acordar las
-responsabilidades de cada integrante.</p>
-<p>Acuña Tomas, Diego Rolin</p>
-<p>TB1:</p>
-<p>Identificar segmentos objetivos, y grabar las entrevistas. Por
-último, reunirnos para repartir partes.</p>
-<p>Miguel Angel Gomez Hurtado</p>
-<p>TB1: Realización de los LeanUx, creación de los diagramas 4c
-(DDD).</p>
-<p>Es fundamental que se realicen en conjunto los puntos establecidos en
-el documento del final statement, así mismo el cumplimiento de tareas en
-las reuniones.</p></td>
-<td><p>TB1:</p>
-<p>En conclusión, en este primer entregable hemos iniciado con nuestra
-investigación para apoyar a las comunidades rurales y los guías locales
-a poder contactar con potenciales clientes como pueden ser los turistas.
-A su vez, ya tenemos el primer prototipo de nuestra landing page, como a
-su vez hemos iniciado con las descripciones de funcionalidades de
-nuestra aplicación web.</p></td>
-</tr>
-<tr class="odd">
-<td>Comunica en forma escrita ideas y/o resultados con objetividad a
-público de diferentes especialidades y niveles jerárquicos, en el marco
-del desarrollo de un proyecto en ingeniería.</td>
-<td><p>Cantoral Sedamano, Alexander Alberto</p>
-<p>TB1: Realización de la Landing Page, aporte a los capítulos 1, 2, 4 y
-5</p>
-<p>Paitan Pumacahua, Max Anthony</p>
-<p>TB1:Realización de los segmentos objetivo, competidores, estrategias
-y tácticas frente a competidores, user stories, wireframes y mockups del
-landing page y el Landing Page, Services &amp; Applications
-Implementation</p>
-<p>De La Cruz Villarreal, Carlos Alejandro</p>
-<p>TB1: Realización de los Lean ux hypothesis statements y Lean ux
-canvas, as-is scenary map y to-be scenary map, impact map y product
-backlog.</p>
-<p>Acuña Tomas, Diego Rolin</p>
-<p>TB1:</p>
-<p>Realización de los Lean Ux, hypothesis.</p>
-<p>Miguel Angel Gomez Hurtado</p>
-<p>TB1:</p></td>
-<td></td>
-</tr>
-</tbody>
-</table>
 
 # Capítulo 1:
 
