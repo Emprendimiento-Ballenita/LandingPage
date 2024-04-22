@@ -2357,12 +2357,20 @@ estos pasos.
 
 2.  Ubicar la sección "Build and deployment" dentro de "Pages"
 
+![Imagen de Build](https://cdn.discordapp.com/attachments/1226580112670064641/1231846188010176552/image.png?ex=66387129&is=6625fc29&hm=46e22160805e68e430bad04122bb694acb00aa08b747ed5706e25b3c3a26d9f8&)
+
 3.  Seleccionar "Deploy from a branch"
+
+![Imagen de Deploy](https://cdn.discordapp.com/attachments/1226580112670064641/1231846547633733653/image.png?ex=66274dff&is=6625fc7f&hm=1a560e5eefb77b1860bd5a5eb5048dbcd83de82b74819ef4bd9f1c3c711eb2d0&)
 
 4.  Elegir la rama "main" para el despliegue
 
+![Imagen de main](https://cdn.discordapp.com/attachments/1226580112670064641/1231846647739449384/image.png?ex=66387197&is=6625fc97&hm=6fa9ee93b8b365f4f7196a3e0b4e5a1c0d1c180999515a737b3aeb4abb0ee284&)
+
 5.  Una vez completado el proceso de despliegue, se generará un enlace
     para acceder al Landing Page automáticamente.
+
+![Imagen de URL](https://cdn.discordapp.com/attachments/1226580112670064641/1231846744355115058/image.png?ex=663871ae&is=6625fcae&hm=ca4e543044202c5330742f8f53e413acd3ee6835b876f1827b82557ed4118f6d&)
 
 ## 5.2. Landing Page, Services & Applications Implementation. 
 
