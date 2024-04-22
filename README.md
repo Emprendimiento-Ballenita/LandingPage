@@ -873,134 +873,25 @@ Ciclo de Vida del Software: Etapas por las que pasa el desarrollo.
 
 - Luis desea visitar un lugar turístico con un guía
 
-<table>
-<colgroup>
-<col style="width: 11%" />
-<col style="width: 29%" />
-<col style="width: 30%" />
-<col style="width: 28%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td><strong>Phases</strong></td>
-<td>Antes de contratar al guía</td>
-<td>Durante la contratación del guía</td>
-<td>Al terminar de contratar el guía</td>
-</tr>
-<tr class="even">
-<td><strong>Doing</strong></td>
-<td><p>[Luis revisa la cantidad de dinero que posee en su tarjeta]</p>
-<p>[Luis abre la aplicación para buscar la lista de guías]</p></td>
-<td><p>[Busca el lugar al que desea ir]</p>
-<p>[Visualiza la lista de guías que pueden llevarlo al lugar que
-quiere]</p>
-<p>[Selecciona el guía que cree conveniente]</p>
-<p>[Manda un mensaje al guía para que acepte llevarlo a conocer el
-lugar]</p>
-<p>[Visualiza los métodos de pago que hay ]</p>
-<p>[Realiza el pago]</p></td>
-<td><p>[Espera la respuesta del guía]</p>
-<p>[Recibe la respuesta de aceptación del guía]</p>
-<p>[Visita el lugar turístico con el guía]</p>
-<p>[Califica al guía sobre la experiencia que tuvo]</p></td>
-</tr>
-<tr class="odd">
-<td><strong>Thinking</strong></td>
-<td><p>[Ojalá el precio del guiado no sea tan alto]</p>
-<p>[Piensa en cuán seguro es contratar un guía]</p>
-<p>[Piensa si los guías tienen su licencia en información
-personal]</p></td>
-<td><p>[Hay varios guías que me pueden llevar al destino turístico que
-quiero]</p>
-<p>[Los precios del guiado no son tan elevados como pensé]</p>
-<p>[Que bueno que ofrece recojo desde el terminal al que llegaré]</p>
-<p>[Elegiré este guía porque tiene mejor calificación por los clientes
-]</p>
-<p>[Hay varios métodos de pago]</p></td>
-<td><p>[Ojalá cuando baje del terminal el guía esté esperándome y no se
-haya retrasado]</p>
-<p>[La visita al lugar fue muy buena, volveré otra vez para
-repetirlo]</p>
-<p>[Creo que le daré una buena calificación al guía]</p></td>
-</tr>
-<tr class="even">
-<td><strong>Feeling</strong></td>
-<td><p>[Siente preocupación al pensar que el guiado puede ser muy
-costoso]</p>
-<p>[No está seguro de cómo funciona la aplicación ya que es
-nueva]</p></td>
-<td><p>[Gratamente sorprendido al ver que hay muchos guías que pueden
-llevarlo al destino turístico]</p>
-<p>[Feliz porque el precio del guiado no es tan alto como pensaba]</p>
-<p>[Tranquilo porque la aplicación permite varios métodos de pagos]</p>
-<p>[Asombrado porque el aplicativo es sencillo de usar y muy
-intuitivo]</p></td>
-<td><p>[Preocupación de cuánto tardará en responder el guía]</p>
-<p>[Fascinado por la rápida respuesta del guía]</p>
-<p>[Satisfecho con la visita turística por parte del guía]</p></td>
-</tr>
-</tbody>
-</table>
+| Phases            | Antes de contratar al guía                                    | Durante la contratación del guía                                | Al terminar de contratar el guía                          |
+|-------------------|----------------------------------------------------------------|-----------------------------------------------------------------|----------------------------------------------------------|
+| Doing             | [Luis revisa la cantidad de dinero que posee en su tarjeta] | [Busca el lugar al que desea ir]                    | [Espera la respuesta del guía]                 |
+|                   | [Luis abre la aplicación para buscar la lista de guías]             | [Visualiza la lista de guías que pueden llevarlo al lugar que quiere]                                 | [Va al destino turístico con el guía ]                    |
+| Thinking          | [Ojalá el precio del guiado no sea tan alto]          | [Hay varios guías que me pueden llevar al destino turístico que quiero]| [Ojalá cuando baje del terminal el guía esté esperándome y no se haya retrasado]                          |
+|                   | [Piensa en cuán seguro es contratar un guía] | [Los precios del guiado no son tan elevados como pensé] | [La visita al lugar fue muy buena, volveré otra vez para repetirlo] |
+| Feeling           | [Siente preocupación al pensar que el guiado puede ser muy costoso] | [Gratamente sorprendido al ver que hay muchos guías que pueden llevarlo al destino turístico] | [Preocupación de cuánto tardará en responder el guía] |
+|                   | [No está seguro de cómo funciona la aplicación ya que es nueva]                           | [Feliz porque el precio del guiado no es tan alto como pensaba] | [Fascinado por la rápida respuesta del guía] |
 
 - Frank desea hacerle guiado a un cliente
 
-<table>
-<colgroup>
-<col style="width: 11%" />
-<col style="width: 29%" />
-<col style="width: 30%" />
-<col style="width: 28%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td><strong>Phases</strong></td>
-<td>Antes de ser contratado como guía</td>
-<td>Durante su contratación como guía</td>
-<td>Al terminar su contratación como guía</td>
-</tr>
-<tr class="even">
-<td><strong>Doing</strong></td>
-<td><p>[Abre la aplicación y se registra como guía turístico]</p>
-<p>[Ingresa sus datos como personas y como guía en la
-aplicación]</p></td>
-<td><p>[Establece los lugares turísticos a donde puede llevar a sus
-clientes]</p>
-<p>[Fija un precio regular para sus servicios como guía turístico]</p>
-<p>[Manda un mensaje al cliente aceptando llevarlo al destino turístico
-que ofrece]</p>
-<p>[Le comunica los métodos de pagos que hay ]</p></td>
-<td><p>[Verifica el dinero que obtuvo por la visita turística]</p>
-<p>[Revisa la evaluación del cliente sobre su servicio como
-guía]</p></td>
-</tr>
-<tr class="odd">
-<td><strong>Thinking</strong></td>
-<td><p>[Podré tener clientes lo más antes posible ]</p>
-<p>[Espero que mi cliente no sea una persona problemática ]</p></td>
-<td><p>[Ojalá alguien vea mi información personal y laboral en la
-aplicación]</p>
-<p>[El dinero por mis servicios ojalá sea bueno para los 2]</p>
-<p>[Espero que el cliente se sienta satisfecho cuando lo lleve a visitar
-el lugar ]</p></td>
-<td><p>[Ojalá haber cumplido sus expectativas como guía]</p>
-<p>[Espero que me califique con un buen puntaje en la
-aplicación]</p></td>
-</tr>
-<tr class="even">
-<td><strong>Feeling</strong></td>
-<td><p>[Se siente angustiado porque todavía no consigue clientes]</p>
-<p>[Siente temor debido a que es nuevo en la aplicación]</p></td>
-<td><p>[Se siente desalentado porque quizás tarde más en conseguir un
-cliente de lo que esperaba]</p>
-<p>[Se siente aliviado al ver que un cliente solicita sus servicios]</p>
-<p>[Se siente feliz porque llegó a un acuerdo con el cliente]</p></td>
-<td><p>[Se siente aliviado al saber que tuvo su primer cliente]</p>
-<p>[Se siente bien al poder dar sus servicios a un buen precio]</p>
-<p>[Se siente optimista sobre su calificación en la aplicación]</p></td>
-</tr>
-</tbody>
-</table>
-
+| Phases            | Antes de ser contratado como guía                                   | Durante su contratación como guía                              | Al terminar su contratación como guía                         |
+|-------------------|----------------------------------------------------------------|-----------------------------------------------------------------|----------------------------------------------------------|
+| Doing             | [Abre la aplicación y se registra como guía turístico] | [Establece los lugares turísticos a donde puede llevar a sus clientes]                    | [Verifica el dinero que obtuvo por la visita turística]                |
+|                   | [Ingresa sus datos como personas y como guía en la aplicación]            | [Fija un precio regular para sus servicios como guía turístico]                                 | [Revisa la evaluación del cliente sobre su servicio como guíal]                    |
+| Thinking          | [Podré tener clientes lo más antes posible ]          | [Ojalá alguien vea mi información personal y laboral en la aplicación]| [Ojalá haber cumplido sus expectativas como guia]                         |
+|                   | [Espero que mi cliente no sea una persona problemática ] | [El dinero por mis servicios ojalá sea bueno para los 2] | [Espero que me califique con un buen puntaje en la aplicación] |
+| Feeling           | [Se siente angustiado porque todavía no consigue clientes] | [Se siente desalentado porque quizás tarde más en conseguir un cliente de lo que esperaba] | [Se siente aliviado al saber que tuvo su primer cliente] |
+|                   | [Siente temor debido a que es nuevo en la aplicación]                           | [Se siente aliviado al ver que un cliente solicita sus servicios] | [Se siente bien al poder dar sus servicios a un buen precio] |
 ## 3.2. User Stories. 
 
 |                                                             |                                                              |                                             |
