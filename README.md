@@ -897,17 +897,15 @@ muchas veces les ha dado mal de altura, vómitos, náuseas, etc.
 
 ## 2.3. Needfinding. 
 
-### 2.3.1. User Personas. 
+### 2.3.1. User Personas.
 
 Segmento 1 (Turista):
 
-<img src="https://media.discordapp.net/attachments/1226580112670064641/1227828275490066473/14.png?ex=6629d330&is=66175e30&hm=c148d38d48214410c553f6bab2110245a91f25548a3807408727d84540e0b93d&=&format=webp&quality=lossless&width=385&height=597"
-style="width:6.26772in;height:9.70833in" />
+![Segmento 1 (Turista)](https://media.discordapp.net/attachments/1226580112670064641/1227828275490066473/14.png?ex=6629d330&is=66175e30&hm=c148d38d48214410c553f6bab2110245a91f25548a3807408727d84540e0b93d&=&format=webp&quality=lossless&width=385&height=597)
 
 Segmento 2 (Guía turístico):
 
-<img src="https://media.discordapp.net/attachments/1226580112670064641/1227828297891578007/15.png?ex=6629d336&is=66175e36&hm=33e782335db31f4f089545840fc0463544facf4fb1b8f4543f3421695ef72f47&=&format=webp&quality=lossless&width=418&height=597"
-style="width:6.26772in;height:8.94444in" />
+![Segmento 2 (Guía turístico)](https://media.discordapp.net/attachments/1226580112670064641/1227828297891578007/15.png?ex=6629d336&is=66175e36&hm=33e782335db31f4f089545840fc0463544facf4fb1b8f4543f3421695ef72f47&=&format=webp&quality=lossless&width=418&height=597)
 
 ### 2.3.2. User Task Matrix. 
 
@@ -945,28 +943,24 @@ style="width:6.26772in;height:8.94444in" />
 | Revisar valoraciones        | Alta       | Media       |
 
 ### 2.3.3. User Journey Mapping. 
-
 Segmento 1 (Turista):
 
-<img src="https://media.discordapp.net/attachments/1226580112670064641/1227828322348830770/16.png?ex=6629d33b&is=66175e3b&hm=a7f15e3ff123e62d8680bf9276341a759fd7d5d15db9633f4a8fd6a34a1b392d&=&format=webp&quality=lossless&width=530&height=350"
-style="width:5.54167in;height:4.13542in" />
+![Segmento 1 (Turista)](https://media.discordapp.net/attachments/1226580112670064641/1227828322348830770/16.png?ex=6629d33b&is=66175e3b&hm=a7f15e3ff123e62d8680bf9276341a759fd7d5d15db9633f4a8fd6a34a1b392d&=&format=webp&quality=lossless&width=530&height=350)
 
 Segmento 2 (Guía turístico):
 
-<img src="https://media.discordapp.net/attachments/1226580112670064641/1227828346226872350/17.png?ex=6629d341&is=66175e41&hm=079a0b71de79278c89f31639b33c84a73d6080c3f13791d233bd9afaf7d5b3c1&=&format=webp&quality=lossless&width=544&height=350"
-style="width:6.26772in;height:4.02778in" />
+![Segmento 2 (Guía turístico)](https://media.discordapp.net/attachments/1226580112670064641/1227828346226872350/17.png?ex=6629d341&is=66175e41&hm=079a0b71de79278c89f31639b33c84a73d6080c3f13791d233bd9afaf7d5b3c1&=&format=webp&quality=lossless&width=544&height=350)
 
-### 2.3.4. Empathy Mapping. 
+### 2.3.4. Empathy Mapping.
 
 Segmento 1 (Turista):
 
-<img src="https://media.discordapp.net/attachments/1226580112670064641/1227828377944199189/18.png?ex=6629d349&is=66175e49&hm=94376a56d12220a31d63e89e12160b2d85e79beb996061d30ebc53578526e11e&=&format=webp&quality=lossless&width=486&height=597"
-style="width:6.26772in;height:7.69444in" />
+![Segmento 1 (Turista)](https://media.discordapp.net/attachments/1226580112670064641/1227828377944199189/18.png?ex=6629d349&is=66175e49&hm=94376a56d12220a31d63e89e12160b2d85e79beb996061d30ebc53578526e11e&=&format=webp&quality=lossless&width=486&height=597)
 
 Segmento 2 (Guía turístico):
 
-<img src="https://media.discordapp.net/attachments/1226580112670064641/1227828400505225358/19.png?ex=6629d34e&is=66175e4e&hm=51b1e6d56fc1d799776409f1a9a6d455801a6624620ea39fb52725782b3010c1&=&format=webp&quality=lossless&width=454&height=597"
-style="width:6.26772in;height:8.23611in" />
+![Segmento 2 (Guía turístico)](https://media.discordapp.net/attachments/1226580112670064641/1227828400505225358/19.png?ex=6629d34e&is=66175e4e&hm=51b1e6d56fc1d799776409f1a9a6d455801a6624620ea39fb52725782b3010c1&=&format=webp&quality=lossless&width=454&height=597)
+
 
 ### 2.3.5. As-is Scenario Mapping. 
 
