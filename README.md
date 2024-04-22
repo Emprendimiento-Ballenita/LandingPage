@@ -920,7 +920,7 @@ Ciclo de Vida del Software: Etapas por las que pasa el desarrollo.
 || **Épica 7: Landing Page**                                  |                                                              |                                             |
 | **US26 –** Ver detalles generales del servicio              |                                                              |  **US27 -** Actualizar producto             |
 | **US28 -** Buscar producto                                  |                                                              |  **US29 -** Generar historial de inventario |
-|                                                             |                                                              |                                             |
+|                                                             |                                                              |                                             
 
 
 
@@ -992,6 +992,11 @@ realizar las acciones.
 | 8 | US08 | Configurar datos de usuario | **Como** guía/turista, **quiero** poder configurar y actualizar mi información personal en mi perfil **para** mantenerla actualizada y precisa | 3 | 
 | 9 | US09 | Eliminar cuenta | **Como** guía/turista, **quiero** tener la opción de eliminar permanentemente mi cuenta de la plataforma **para** cuando deje de usar la plataforma web| 5 |
 | 10 | US10 | Cerrar sesión | Como guía/turista, quiero poder cerrar sesión en la plataforma para proteger mi privacidad y seguridad cuando no esté utilizando activamente la plataforma web | 2 |
+| 11 | US11 | Buscar guía | **Como** turista, **quiero** poder buscar guías turísticos utilizando diferentes criterios como destino, idioma y especialización **para** encontrar el guía adecuado para mis necesidades de viaje| 5 |
+| 12 | US12 | Filtrar búsqueda de guías | **Como** turista, **quiero** poder aplicar filtros avanzados a mis búsquedas de guías turísticos, como la disponibilidad, las valoraciones y los precios, **para** refinar los resultados según mis preferencias | 8 |
+| 13 | US13 | Ver información personal del guía | **Como** turista, **quiero** poder ver la información detallada y el perfil completo de un guía turístico, incluyendo su experiencia, especialidades y valoraciones de otros turistas | 1 |
+| 14 | US14 | Administrar favoritos y listas de deseos de guías | **Como** turista, **quiero** poder guardar guías turísticos en una lista de favoritos **para** poder acceder rápidamente a ellos y planificar futuros viajes | 2 |
+| 15 | US15 | Contratar servicio del guía | **Como** turista, **quiero** poder contratar los servicios de un guía turístico directamente desde la plataforma, seleccionando el tour deseado y realizando el pago, **para** no perder tiempo | 3 |
 
 
 
