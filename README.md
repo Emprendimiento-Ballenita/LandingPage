@@ -2353,6 +2353,8 @@ estos pasos.
 
 1.  Ir a la sección "Settings" en GitHub
 
+![Imagen de settings](https://cdn.discordapp.com/attachments/1226580112670064641/1231844872726511616/image.png?ex=66274c70&is=6625faf0&hm=8fdfda630a699550076224baebb7fdbdd694ed7f8f9fa6d24d2a742a59bc0417&)
+
 2.  Ubicar la sección "Build and deployment" dentro de "Pages"
 
 3.  Seleccionar "Deploy from a branch"
