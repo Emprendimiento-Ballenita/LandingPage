@@ -38,7 +38,7 @@ Ciclo 2024-01 | Sección WS53
 |  |  |  | Capítulo 5.2 |
 
 ##Project Report Collaboration Insights
-![Project Collaboration Insights](https://discord.com/channels/1225805191694254202/1226580112670064641/1231965327894646916)
+![Project Collaboration Insights]([https://discord.com/channels/1225805191694254202/1226580112670064641/1231965327894646916](https://cdn.discordapp.com/attachments/1226580112670064641/1231965327680733305/image.png?ex=6638e01e&is=66266b1e&hm=3018aed481258da0afa77a33f62798a3e2cea0a729c50f84c33cb335eab09362&))
 
 ## STUDENT OUTCOME
 
