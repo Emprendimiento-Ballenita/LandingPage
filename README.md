@@ -2432,12 +2432,11 @@ implementarán en Gerkhin.
 Se ha implementado la primera versión del Landing Page, con partes
 fundamentales como inicio, servicios y contacto:
 
-[<u>https://emprendimiento-ballenita.github.io/LandingPage/</u>](https://emprendimiento-ballenita.github.io/LandingPage/)
+<https://emprendimiento-ballenita.github.io/LandingPage/>
 
-<img src="https://media.discordapp.net/attachments/1226580112670064641/1227828595573919825/27.png?ex=6629d37d&is=66175e7d&hm=1b52bbcb45cfbc1b8438f0ed2922f8cafbdcfbe12d3f389a0906455c65328ac5&=&format=webp&quality=lossless&width=723&height=597"
-style="width:5.82292in;height:4.63021in" />
+![Imagen de Landing](https://cdn.discordapp.com/attachments/1226580112670064641/1227828595573919825/27.png?ex=66330dfd&is=662098fd&hm=4093da6e9273ffb477af40dc8706ce43aa86726e0c2cc06cd337e95649223b47&)
 
-<img src="https://media.discordapp.net/attachments/1226580112670064641/1227828617871101952/28.png?ex=6629d382&is=66175e82&hm=5768d30536df3f009d99f357b2011577f64a17e5abf2850a0252bad1ae99dc5d&=&format=webp&quality=lossless&width=418&height=350" style="width:6in;height:4.66146in" />
+![Imagen de Landing2](https://cdn.discordapp.com/attachments/1226580112670064641/1227828617871101952/28.png?ex=66273082&is=6625df02&hm=a2f1923f1e17d3a45d32c50e8d6d97a3896269089d9190f9876b634e6b606d0a&)
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
 
@@ -2448,8 +2447,7 @@ web service en este sprint.
 
 El landing page ha sido desplegado con GitHub:
 
-<img src="https://media.discordapp.net/attachments/1226580112670064641/1227828642407518258/29.png?ex=6629d388&is=66175e88&hm=4c9f90b9486ebd4c7645f60b144cd092128942fbf15c348c19033b8687c9e01f&=&format=webp&quality=lossless"
-style="width:6.26772in;height:1.68056in" />
+![Imagen de despliegue](https://cdn.discordapp.com/attachments/1226580112670064641/1227828642407518258/29.png?ex=66273088&is=6625df08&hm=cdcd7d7cd90fabfdb3f8988b87e94c5fef2fedc84a3d4cf4482140e3c19935b8&)
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint
 
@@ -2457,10 +2455,9 @@ Dado que el primer sprint se centra en la documentación y el landing
 page, pocas personas se encargaron del desarrollo de la primera versión
 del landing page:
 
-<img src="https://media.discordapp.net/attachments/1226580112670064641/1227828661986656370/30.png?ex=6629d38c&is=66175e8c&hm=87403f16266c0be3d2f9ef6294b4b709ab30bd4ec8d8fc150fb88729fedf4902&=&format=webp&quality=lossless"
-style="width:6.26772in;height:2.47222in" />
+![Imagen de version](https://cdn.discordapp.com/attachments/1226580112670064641/1227828661986656370/30.png?ex=66330e0c&is=6620990c&hm=14264872c9c95df7b5bc4b9abb085c044f2842d5368d437f5ca14476a3f0732c&)
 
-<img src="https://media.discordapp.net/attachments/1226580112670064641/1227828675798630500/31.png?ex=6629d390&is=66175e90&hm=7fbe8db5e4f43b76ae3ab7707a01fe9e74c2d5d43540f6c6250b05213a245302&=&format=webp&quality=lossless&width=1111&height=597" style="width:6.26772in;height:3.375in" />
+![Imagen de version2](https://cdn.discordapp.com/attachments/1226580112670064641/1227828675798630500/31.png?ex=66330e10&is=66209910&hm=41561bc382adaf574e53dffb21abad2483993e94236271042f4f4d8ddd87f444&)
 
 ## Conclusiones:
 
@@ -2479,24 +2476,24 @@ Conclusiones TB1:
 
 ## Bibliografía:
 
-- Stevens, E. (2023, 29 octubre). Problem statement in UX: Definition and examples. *UX Design Institute*. [Link](https://www.uxdesigninstitute.com/blog/problem-statement-in-ux-examples/#:~:text=A%20problem%20statement%20is%20a,that%20this%20problem%20be%20solved)
+- Stevens, E. (2023, 29 octubre). Problem statement in UX: Definition and examples. *UX Design Institute*. <https://www.uxdesigninstitute.com/blog/problem-statement-in-ux-examples/#:~:text=A%20problem%20statement%20is%20a,that%20this%20problem%20be%20solved>
 
-- Vivanco, J. (2021, 10 diciembre). El modelo C4 de documentación para la Arquitectura de Software. *Medium*. [Link](https://medium.com/@javiervivanco/el-modelo-c4-de-documentaci%C3%B3n-para-la-arquitectura-de-software-424704528390)
+- Vivanco, J. (2021, 10 diciembre). El modelo C4 de documentación para la Arquitectura de Software. *Medium*. <https://medium.com/@javiervivanco/el-modelo-c4-de-documentaci%C3%B3n-para-la-arquitectura-de-software-424704528390>
 
-- Vilímková, O. (2015). Turismo vivencial – presentación de actividades y su impacto en la vida de algunas comunidades andinas en Perú. *Elohi*, *7*, 75-100. [Link](https://doi.org/10.4000/elohi.479)
+- Vilímková, O. (2015). Turismo vivencial – presentación de actividades y su impacto en la vida de algunas comunidades andinas en Perú. *Elohi*, *7*, 75-100. <https://doi.org/10.4000/elohi.479>
 
 ## Anexos:
 
-- Anexo 1: Enlace del Lean Ux Canvas: [Link](https://www.figma.com/file/cEkXa2WVXX7lYrXnML56ym/Lean-UX-Canvas?type=whiteboard&node-id=0%3A1&t=vBBLdI3dsFatb4bv-1)
+- Anexo 1: Enlace del Lean Ux Canvas: <https://www.figma.com/file/cEkXa2WVXX7lYrXnML56ym/Lean-UX-Canvas?type=whiteboard&node-id=0%3A1&t=vBBLdI3dsFatb4bv-1>
 
 - Anexo 2: Enlace de los Impact Mapping
-  - Segmento 1: [Link](https://miro.com/welcomeonboard/VkxTWTlGOGZ0MHFHVFNWbWhzYWJwWnhMdHY4ZlNVV3FXS1ZSZnZmam54aU81dTFvOTlzcDBVVzVWOVpBRFlFYXwzNDU4NzY0NTI0NTkxOTgzNjc0fDI=?share_link_id=977101722686)
-  - Segmento 2: [Link](https://miro.com/welcomeonboard/MFFrQ3NnWEpBZlU4aG1oY01iSGZIQ1hQblNHaVBvSEJLMVhmZ3RTTWJqNVJXRnVzM2lSbW5EYmpud3MwVVhDMnwzNDU4NzY0NTI0NTkxOTgzNjc0fDI=?share_link_id=643634161227)
+  - Segmento 1: <https://miro.com/welcomeonboard/VkxTWTlGOGZ0MHFHVFNWbWhzYWJwWnhMdHY4ZlNVV3FXS1ZSZnZmam54aU81dTFvOTlzcDBVVzVWOVpBRFlFYXwzNDU4NzY0NTI0NTkxOTgzNjc0fDI=?share_link_id=977101722686>
+  - Segmento 2: <https://miro.com/welcomeonboard/MFFrQ3NnWEpBZlU4aG1oY01iSGZIQ1hQblNHaVBvSEJLMVhmZ3RTTWJqNVJXRnVzM2lSbW5EYmpud3MwVVhDMnwzNDU4NzY0NTI0NTkxOTgzNjc0fDI=?share_link_id=643634161227>
 
-- Anexo 3: Landing Page Wireframe [Link](https://www.figma.com/file/pZbQY6wUszkbiX5JPzonuB/Open-Source?type=design&node-id=6-14&mode=design&t=FEZVYXKpIbxEu972-0)
+- Anexo 3: Landing Page Wireframe <https://www.figma.com/file/pZbQY6wUszkbiX5JPzonuB/Open-Source?type=design&node-id=6-14&mode=design&t=FEZVYXKpIbxEu972-0>
 
-- Anexo 4: Landing Page Mockup [Link](https://www.figma.com/file/pZbQY6wUszkbiX5JPzonuB/Open-Source?type=design&node-id=7-1062&mode=design&t=FEZVYXKpIbxEu972-0)
+- Anexo 4: Landing Page Mockup <https://www.figma.com/file/pZbQY6wUszkbiX5JPzonuB/Open-Source?type=design&node-id=7-1062&mode=design&t=FEZVYXKpIbxEu972-0>
 
-- Anexo 5: Landing Page desplegada [Link](https://emprendimiento-ballenita.github.io/LandingPage/)
+- Anexo 5: Landing Page desplegada <https://emprendimiento-ballenita.github.io/LandingPage/>
 
-- Anexo 6: Repositorio de Landing Page con el archivo md del reporte [Link](https://github.com/Emprendimiento-Ballenita/LandingPage)
+- Anexo 6: Repositorio de Landing Page con el archivo md del reporte <https://github.com/Emprendimiento-Ballenita/LandingPage>
