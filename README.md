@@ -927,10 +927,10 @@ Ciclo de Vida del Software: Etapas por las que pasa el desarrollo.
 
 | Epic/Story ID      | Titulo                | Descripcion                         | Criterios de Aceptacion                                     | Relacionado con (Epic ID)
 |--------------------|-----------------------|-------------------------------------|-------------------------------------------------------------|----------------------   |
-| US01               | Registrar turista     | **Como turista quiero poder           | ESCENARIO: Registro exitoso como turista                    |  01
-                                               registrarme en la plataforma para 
-                                               acceder a todas las funcionalidades   Dado que el turista desea registrarse en la plataforma web
-                                               y servicios disponibles**
+| US01               | Registrar turista     | **Como turista quiero poder         | ESCENARIO: Registro exitoso como turista                    |  01
+                                             | registrarme en la plataforma para   |
+                                             |  acceder a todas las funcionalidades| Dado que el turista desea registrarse en la plataforma web
+                                             |  y servicios disponibles**          |
                                                                                      Cuando el turista ingrese sus datos correctamente en la 
                                                                                      sección de registro para turistas
 
