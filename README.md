@@ -9,14 +9,14 @@
 ### Ciclo: 2023-02
 
 Tabla de contenidos
+
+## Registro de versiones 
 | Versión | Fecha      | Autor    | Descripción de modificación                                                                                           |
 |---------|------------|----------|-----------------------------------------------------------------------------------------------------------------------|
 | 1.0     | 10/04/2024 | Grupo 03 | - Creación del documento para la primera versión del informe.<br>- Implementación de Carátula, Contenido, Student Outcome.<br>- Apertura Capítulo 1: Introducción.<br>- Redacción Startup Profile: Descripción de la Startup, Perfiles de integrantes del equipo.<br>- Redacción Solution Profile: Antecedentes y problemática, Lean UX Process.<br>- Redacción Segmentos objetivo.<br>- Apertura Capítulo 2: Requirements Elicitation & Analysis.<br>- Redacción Competidores: Análisis competitivo, Estrategias y tácticas frente a competidores.<br>- Redacción Entrevistas: Diseño de entrevistas, Registro de entrevistas y Análisis de entrevistas.<br>- Redacción Needfinding: User Personas, User Task Matrix, User Journey Mapping, Empathy Mapping y As-is Scenario Mapping.<br>- Avance en la redacción de conclusiones.<br>- Incorporación de Bibliografía en base a las citas del documento de reporte. |
 | 2       |            | Grupo 03 |                                                                                                                       |
 | 3       |            | Grupo 03 |                                                                                                                       |
 | 4       |            | Grupo 03 |                                                                                                                       |
-
-## Registro de versiones 
 
 <table style="width:100%;">
 <colgroup>
@@ -632,7 +632,7 @@ competidores.
 
 **→Get Your Guide:**
 
-> <span class="mark">GetYourGuide es una plataforma en línea que ofrece
+> GetYourGuide es una plataforma en línea que ofrece
 > reservas de actividades turísticas y experiencias en todo el mundo.
 > Fundada en 2009, GetYourGuide conecta a viajeros con proveedores
 > locales de tours, excursiones, entradas a atracciones, actividades al
@@ -644,9 +644,9 @@ competidores.
 > herramienta popular para viajeros que desean explorar nuevos destinos
 > y descubrir experiencias únicas en todo el mundo.</span>
 
-**<span class="mark">→Tours By Locals:</span>**
+**Tours By Locals:</span>**
 
-> <span class="mark">ToursByLocals es una plataforma en línea que
+> ToursByLocals es una plataforma en línea que
 > conecta a viajeros con guías turísticos locales en destinos de todo el
 > mundo. Fundada en 2008, ToursByLocals ofrece una amplia gama de tours
 > personalizados y experiencias auténticas diseñadas y dirigidas por
@@ -660,9 +660,9 @@ competidores.
 > reserva flexibles y atención al cliente para garantizar una
 > experiencia de viaje sin problemas para los usuarios.</span>
 
-**<span class="mark">→Viator:</span>**
+**Viator:</span>**
 
-> <span class="mark">Viator –perteneciente al grupo Booking Holdings– es
+> Viator –perteneciente al grupo Booking Holdings– es
 > una empresa de reservas en línea de actividades turísticas,
 > excursiones y experiencias en destinos de todo el mundo. Fundada en
 > 1999, Viator se ha convertido en una de las principales plataformas
@@ -672,189 +672,28 @@ competidores.
 > excursiones de un día, paseos en barco, actividades al aire libre,
 > experiencias gastronómicas y mucho más.</span>
 >
-> <span class="mark">Viator conecta a viajeros con proveedores locales
+> Viator conecta a viajeros con proveedores locales
 > de actividades turísticas, garantizando una amplia selección de
 > opciones y una experiencia de reserva segura y conveniente. Los
 > usuarios pueden explorar las opciones disponibles en el sitio web,
 > leer reseñas y opiniones de otros viajeros, y reservar fácilmente las
 > actividades que deseen realizar durante su viaje.</span>
 
-<table>
-<colgroup>
-<col style="width: 16%" />
-<col style="width: 16%" />
-<col style="width: 16%" />
-<col style="width: 16%" />
-<col style="width: 16%" />
-<col style="width: 16%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td colspan="6">Competitive Analysis Landscape</td>
-</tr>
-<tr class="even">
-<td>¿Por qué llevar a cabo este análisis?</td>
-<td colspan="5">Realizamos este análisis para poder descubrir o
-identificar espacios de interés en un mercado específico –en nuestro
-caso, la búsqueda de guías turísticos en cualquier destino–, para
-realizar una toma de decisiones correcta respecto de las diferencias
-existentes entre las empresas, gracias al desarrollo de estrategias que
-beneficien a nuestro proyecto.</td>
-</tr>
-<tr class="odd">
-<td colspan="2"></td>
-<td><strong>Nombre empresa</strong></td>
-<td><p><strong>Get Your Guide</strong></p>
-<p><img src="https://media.discordapp.net/attachments/1226580112670064641/1227828214810939402/11.png?ex=6629d322&is=66175e22&hm=d95791e5790fbe66a968799c8a8b00de66c2a16ba4ac6047443d789b6021b023&=&format=webp&quality=lossless"
-style="width:0.75941in;height:0.66227in" /></p></td>
-<td><p><strong>Tours By Locals</strong></p>
-<p><img src="https://media.discordapp.net/attachments/1226580112670064641/1227828238177538048/12.png?ex=6629d327&is=66175e27&hm=c5a72382b2cc43368ee2d9ce90822737727e3d204a2679d78d9322d54f9d89a3&=&format=webp&quality=lossless"
-style="width:0.89583in;height:0.25in" /></p></td>
-<td><p><strong>Viator</strong></p>
-<p><img src="https://media.discordapp.net/attachments/1226580112670064641/1227828255445356584/13.png?ex=6629d32c&is=66175e2c&hm=9b19a712c6406176aacee997fb71d00778a3fb5830d31a9e712b257ad58f2a96&=&format=webp&quality=lossless"
-style="width:0.89583in;height:0.36111in" /></p></td>
-</tr>
-<tr class="even">
-<td rowspan="2"><strong>Perfil</strong></td>
-<td><strong>Overview</strong></td>
-<td>Empresa dedicada a conectar turistas con guías locales expertos, en
-todas las ciudades del Perú</td>
-<td>Empresa dedicada a ofrecer reservas de actividades turísticas en el
-mundo, incluyendo guías turísticos expertos</td>
-<td>Empresa dedicada a conectar turistas con guías locales expertos,
-reservando tours privados en distintas ciudades del mundo</td>
-<td>Empresa dedicada a ofrecer reservas de actividades turísticas en el
-mundo, incluyendo guías turísticos expertos</td>
-</tr>
-<tr class="odd">
-<td><p><strong>Ventaja Competitiva</strong></p>
-<p><strong>¿Qué valor ofrece a los clientes?</strong></p></td>
-<td>Centrados en la búsqueda de guías turísticos. Verificación de guías
-turísticos para evitar problemas.</td>
-<td>Mayor cantidad de usuarios que usan su plataforma</td>
-<td>Gran cantidad de personas que usan su producto, además de centrarse
-solo en guías turísticos</td>
-<td>Mayor cantidad de usuarios que usan su plataforma</td>
-</tr>
-<tr class="even">
-<td rowspan="2"><strong>Perfil de marketing</strong></td>
-<td><strong>Mercado Objetivo</strong></td>
-<td>Viajeros y guías turísticos</td>
-<td>Viajeros y empresas pertenecientes al rubro turístico</td>
-<td>Viajeros y guías turísticos</td>
-<td>Viajeros y empresas pertenecientes al rubro turístico</td>
-</tr>
-<tr class="odd">
-<td><strong>Estrategias de marketing</strong></td>
-<td>Marketing concentrado (Grupo específico), marketing digital</td>
-<td>Penetración de mercado, marketing digital</td>
-<td>Penetración de mercado, marketing digital</td>
-<td>Penetración de mercado, marketing digital</td>
-</tr>
-<tr class="even">
-<td rowspan="3"><strong>Perfil de producto</strong></td>
-<td><strong>Productos &amp; Servicios</strong></td>
-<td>Herramientas digitales</td>
-<td>Herramientas digitales</td>
-<td>Herramientas digitales</td>
-<td>Herramientas digitales</td>
-</tr>
-<tr class="odd">
-<td><strong>Precios &amp; Costos</strong></td>
-<td>Cobro periódico por uso y publicidad.</td>
-<td>Cobro por plan/paquete adquirido (según destino turístico)</td>
-<td>Cobro por guía contratado (tarifa propia).</td>
-<td>Cobro por plan/paquete adquirido (según destino turístico)</td>
-</tr>
-<tr class="even">
-<td><strong>Canales de distribución (Web y/o móvil)</strong></td>
-<td>Página web</td>
-<td>Página web</td>
-<td>Página web</td>
-<td>Página web</td>
-</tr>
-<tr class="odd">
-<td rowspan="4"><strong>Análisis SWOT</strong></td>
-<td><strong>Fortalezas</strong></td>
-<td><p>Facilidad de uso de la aplicación</p>
-<p>Función de registro de guías turísticos</p>
-<p>Verificación de guías turísticos</p>
-<p>Conexión directa entre viajeros y guías turísticos experimentados</p>
-<p>Uso de herramientas digitales adicionales para una mejor experiencia
-de usuario</p></td>
-<td><p>Amplia variedad de actividades turísticas</p>
-<p>Plataforma fácil de usar</p>
-<p>Fuerte presencia en el mercado turístico</p>
-<p>Reseñas y opiniones de clientes para la toma de decisiones de otros
-clientes</p></td>
-<td><p>Amplia variedad de actividades turísticas</p>
-<p>Conexión directa entre viajeros y guías turísticos experimentados</p>
-<p>Fomento del turismo sostenible y responsable</p>
-<p>Flexibilidad en la oferta de tours</p></td>
-<td><p>Alcance global gracias al grupo Booking Holdings</p>
-<p>Amplia selección de actividades turísticas</p>
-<p>Colaboración con proveedores locales</p>
-<p>Plataforma fácil de usar</p>
-<p>Opciones de reservas flexibles</p></td>
-</tr>
-<tr class="even">
-<td><strong>Debilidades</strong></td>
-<td><p>Empresa nueva</p>
-<p>Dependencia de la cantidad de usuarios</p>
-<p>Falta de colaboradores</p>
-<p>Competencia en el mercado</p></td>
-<td><p>Gran competencia en el mercado</p>
-<p>Posible dependencia de socios y proveedores</p>
-<p>Falta de especialización</p>
-<p>Falta de ofertas en ciudades medianas/pequeñas</p></td>
-<td><p>Limitaciones geográficas en comparación con otras plataformas</p>
-<p>Menor visibilidad en comparación con otras plataformas</p>
-<p>Dependencia de la reputación generada a los guías turísticos</p></td>
-<td><p>Falta de especialización</p>
-<p>Gran competencia en el mercado</p>
-<p>Posible saturación del mercado en destinos turísticos populares</p>
-<p>Posible dependencia de socios y proveedores</p></td>
-</tr>
-<tr class="odd">
-<td><strong>Oportunidades</strong></td>
-<td><p>Expansión al mercado peruano</p>
-<p>Puede sobresalir gracias al objetivo específico de conseguir guías
-turísticos</p>
-<p>Colaboraciones con empresas relacionadas al sector turismo</p></td>
-<td><p>Expansión al mercado peruano</p>
-<p>Desarrollo de alianzas estratégicas con empresas peruanas</p>
-<p>Integración de tecnologías emergentes</p></td>
-<td><p>Aprovechamiento de la creciente demanda de experiencias
-turísticas</p>
-<p>Colaboraciones con empresas relacionadas al sector turismo</p></td>
-<td><p>Expansión al mercado peruano</p>
-<p>Desarrollo de alianzas estratégicas con empresas peruanas</p>
-<p>Integración de tecnologías emergentes</p></td>
-</tr>
-<tr class="even">
-<td><strong>Amenazas</strong></td>
-<td><p>Cambios en la regulación gubernamental en el sector turismo</p>
-<p>Impacto negativo en el usuario ante problemas de seguridad o calidad
-del servicio</p>
-<p>Riesgos en la protección de datos</p></td>
-<td><p>Cambios en la regulación gubernamental en el sector turismo</p>
-<p>Impacto negativo en el usuario ante problemas de seguridad o calidad
-del servicio</p>
-<p>Competencia con otras plataformas de reservas turísticas</p>
-<p>Riesgos en la protección de datos</p></td>
-<td><p>Cambios en la regulación gubernamental en el sector turismo</p>
-<p>Competencia con otras plataformas de reservas turísticas
-tradicionales</p>
-<p>Cambios en los patrones de viaje y comportamiento del viajero por
-eventos externos</p></td>
-<td><p>Cambios en la regulación gubernamental en el sector turismo</p>
-<p>Impacto negativo en el usuario ante problemas de seguridad o calidad
-del servicio</p>
-<p>Competencia con otras plataformas de reservas turísticas</p>
-<p>Riesgos en la protección de datos</p></td>
-</tr>
-</tbody>
-</table>
+| Competitve Analysis Landscape |              |             |                        |                      |                    |
+|------------------------------|--------------|-------------|------------------------|----------------------|--------------------|
+|                              |              | **Nombre empresa**    | **Get Your Guide**    | **Tours By Locals** | **Viator**         |
+|                              |              |                    | ![Get Your Guide](https://media.discordapp.net/attachments/1226580112670064641/1227828214810939402/11.png?ex=6629d322&is=66175e22&hm=d95791e5790fbe66a968799c8a8b00de66c2a16ba4ac6047443d789b6021b023&=&format=webp&quality=lossless) | ![Tours By Locals](https://media.discordapp.net/attachments/1226580112670064641/1227828238177538048/12.png?ex=6629d327&is=66175e27&hm=c5a72382b2cc43368ee2d9ce90822737727e3d204a2679d78d9322d54f9d89a3&=&format=webp&quality=lossless) | ![Viator](https://media.discordapp.net/attachments/1226580112670064641/1227828255445356584/13.png?ex=6629d32c&is=66175e2c&hm=9b19a712c6406176aacee997fb71d00778a3fb5830d31a9e712b257ad58f2a96&=&format=webp&quality=lossless) |
+| **Perfil**                   | **Overview** | Empresa dedicada a conectar turistas con guías locales expertos, en todas las ciudades del Perú | Empresa dedicada a ofrecer reservas de actividades turísticas en el mundo, incluyendo guías turísticos expertos | Empresa dedicada a conectar turistas con guías locales expertos, reservando tours privados en distintas ciudades del mundo | Empresa dedicada a ofrecer reservas de actividades turísticas en el mundo, incluyendo guías turísticos expertos |
+|                              | **Ventaja Competitiva** | ¿Qué valor ofrece a los clientes? | Centrados en la búsqueda de guías turísticos. Verificación de guías turísticos para evitar problemas. | Mayor cantidad de usuarios que usan su plataforma | Gran cantidad de personas que usan su producto, además de centrarse solo en guías turísticos | Mayor cantidad de usuarios que usan su plataforma |
+| **Perfil de marketing**      | **Mercado Objetivo** | Viajeros y guías turísticos | Viajeros y empresas pertenecientes al rubro turístico | Viajeros y guías turísticos | Viajeros y empresas pertenecientes al rubro turístico |
+|                              | **Estrategias de marketing** | Marketing concentrado (Grupo específico), marketing digital | Penetración de mercado, marketing digital | Penetración de mercado, marketing digital | Penetración de mercado, marketing digital |
+| **Perfil de producto**       | **Productos & Servicios** | Herramientas digitales | Herramientas digitales | Herramientas digitales | Herramientas digitales |
+|                              | **Precios & Costos** | Cobro periódico por uso y publicidad. | Cobro por plan/paquete adquirido (según destino turístico) | Cobro por guía contratado (tarifa propia). | Cobro por plan/paquete adquirido (según destino turístico) |
+|                              | **Canales de distribución (Web y/o móvil)** | Página web | Página web | Página web | Página web |
+| **Análisis SWOT**           | **Fortalezas** | Facilidad de uso de la aplicación<br>Función de registro de guías turísticos<br>Verificación de guías turísticos<br>Conexión directa entre viajeros y guías turísticos experimentados<br>Uso de herramientas digitales adicionales para una mejor experiencia de usuario | Amplia variedad de actividades turísticas<br>Plataforma fácil de usar<br>Fuerte presencia en el mercado turístico<br>Reseñas y opiniones de clientes para la toma de decisiones de otros clientes | Amplia variedad de actividades turísticas<br>Conexión directa entre viajeros y guías turísticos experimentados<br>Fomento del turismo sostenible y responsable<br>Flexibilidad en la oferta de tours | Alcance global gracias al grupo Booking Holdings<br>Amplia selección de actividades turísticas<br>Colaboración con proveedores locales<br>Plataforma fácil de usar<br>Opciones de reservas flexibles |
+|                              | **Debilidades** | Empresa nueva<br>Dependencia de la cantidad de usuarios<br>Falta de colaboradores<br>Competencia en el mercado | Gran competencia en el mercado<br>Posible dependencia de socios y proveedores<br>Falta de especialización<br>Falta de ofertas en ciudades medianas/pequeñas | Limitaciones geográficas en comparación con otras plataformas<br>Menor visibilidad en comparación con otras plataformas<br>Dependencia de la reputación generada a los guías turísticos | Falta de especialización<br>Gran competencia en el mercado<br>Posible saturación del mercado en destinos turísticos populares<br>Posible dependencia de socios y proveedores |
+|                              | **Oportunidades** | Expansión al mercado peruano<br>Puede sobresalir gracias al objetivo específico de conseguir guías turísticos<br>Colaboraciones con empresas relacionadas al sector turismo | Expansión al mercado peruano<br>Desarrollo de alianzas estratégicas con empresas peruanas<br>Integración de tecnologías emergentes | Aprovechamiento de la creciente demanda de experiencias turísticas<br>Colaboraciones con empresas relacionadas al sector turismo | Expansión al mercado peruano<br>Desarrollo de alianzas estratégicas con empresas peruanas<br>Integración de tecnologías emergentes |
+|                              | **Amenazas** | Cambios en la regulación gubernamental en el sector turismo<br>Impacto negativo en el usuario ante problemas de seguridad o calidad del servicio<br>Riesgos en la protección de datos | Cambios en la regulación gubernamental en el sector turismo<br>Impacto negativo en el usuario ante problemas de seguridad o calidad del servicio<br>Competencia con otras plataformas de reservas turísticas<br>Riesgos en la protección de datos | Cambios en la regulación gubernamental en el sector turismo<br>Competencia con otras plataformas de reservas turísticas tradicionales<br>Cambios en los patrones de viaje y comportamiento del
 
 ### 2.1.2. Estrategias y Tácticas frente a competidores
 
