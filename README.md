@@ -962,129 +962,31 @@ Segmento 2 (Guía turístico):
 ![Segmento 2 (Guía turístico)](https://media.discordapp.net/attachments/1226580112670064641/1227828400505225358/19.png?ex=6629d34e&is=66175e4e&hm=51b1e6d56fc1d799776409f1a9a6d455801a6624620ea39fb52725782b3010c1&=&format=webp&quality=lossless&width=454&height=597)
 
 
-### 2.3.5. As-is Scenario Mapping. 
+### 2.3.5. As-is Scenario Mapping.
 
 - · Luis desea visitar un lugar turístico con un guía
 
-<table>
-<colgroup>
-<col style="width: 13%" />
-<col style="width: 27%" />
-<col style="width: 30%" />
-<col style="width: 28%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td><strong>Phases</strong></td>
-<td>Antes de contratar al guía</td>
-<td>Durante la contratación del guía</td>
-<td>Al terminar de contratar el guía</td>
-</tr>
-<tr class="even">
-<td><strong>Doing</strong></td>
-<td><p>[Luis revisa la cantidad de dinero que posee(físico o
-virtual)]</p>
-<p>[Luis va a una agencia de guías turísticos]</p></td>
-<td><p>[Va a varias agencias de guías]</p>
-<p>[Elige la agencia que cree conveniente]</p>
-<p>[Pregunta la información laboral de cada uno y que ofrece en sus
-servicios como guía]</p>
-<p>[Elige el guía turístico de su preferencia]</p></td>
-<td><p>[Paga con billetera digital o efectiva ]</p>
-<p>[Va al destino turístico con el guía ]</p></td>
-</tr>
-<tr class="odd">
-<td><strong>Thinking</strong></td>
-<td><p>[Tendré el dinero suficiente para contratar a un guía]</p>
-<p>[Las agencias de guías tendrán guías con suficiente experiencia
-laboral]</p></td>
-<td><p>[Hay gran cantidad de agencias, pero no salen los destinos
-turísticos que hacen guiado]</p>
-<p>[Tengo que preguntar a cada agencia buscando guías que lleven al
-destino turístico que quiero]</p>
-<p>[Los guías serán los más aptos para su trabajo]</p>
-<p>[Las agencias cuentan con gran cantidad de guías]</p></td>
-<td><p>[Podré pagar de manera digital]</p>
-<p>[El guía que me llevará al destino será una persona con
-experiencia]</p></td>
-</tr>
-<tr class="even">
-<td><strong>Feeling</strong></td>
-<td><p>[Siente preocupación al pensar que el guiado puede ser muy
-costoso]</p>
-<p>[Tiene flojera de ir a las agencias]</p></td>
-<td><p>[Preocupado por si habrá agencias que llevan al destino turístico
-que quiere]</p>
-<p>[Dubitativo porque no sabe si encontrará guías con amplia experiencia
-laboral]</p>
-<p>[Nervioso porque no sabe si se podrá pagar de forma digital]</p></td>
-<td><p>[Tranquilidad por haber contratado a un guía que lo llevará]</p>
-<p>[Insatisfecho con la visita turística porque no le dio reseñas del
-lugar antes de ir]</p></td>
-</tr>
-</tbody>
-</table>
+| Phases            | Antes de contratar al guía                                    | Durante la contratación del guía                                | Al terminar de contratar el guía                          |
+|-------------------|----------------------------------------------------------------|-----------------------------------------------------------------|----------------------------------------------------------|
+| Doing             | [Luis revisa la cantidad de dinero que posee(físico o virtual)] | [Luis va a una agencia de guías turísticos]                     | [Paga con billetera digital o efectiva ]                   |
+|                   | [Luis va a una agencia de guías turísticos]                     | [Va a varias agencias de guías]                                 | [Va al destino turístico con el guía ]                    |
+| Thinking          | [Tendré el dinero suficiente para contratar a un guía]          | [Hay gran cantidad de agencias, pero no salen los destinos turísticos que hacen guiado] | [Podré pagar de manera digital]                          |
+|                   | [Las agencias de guías tendrán guías con suficiente experiencia laboral] | [Tengo que preguntar a cada agencia buscando guías que lleven al destino turístico que quiero] | [El guía que me llevará al destino será una persona con experiencia] |
+| Feeling           | [Siente preocupación al pensar que el guiado puede ser muy costoso] | [Preocupado por si habrá agencias que llevan al destino turístico que quiere] | [Tranquilidad por haber contratado a un guía que lo llevará] |
+|                   | [Tiene flojera de ir a las agencias]                           | [Dubitativo porque no sabe si encontrará guías con amplia experiencia laboral] | [Insatisfecho con la visita turística porque no le dio reseñas del lugar antes de ir] |
 
 - · Frank desea hacerle guiado a un cliente
 
-<table>
-<colgroup>
-<col style="width: 13%" />
-<col style="width: 28%" />
-<col style="width: 26%" />
-<col style="width: 30%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td><strong>Phases</strong></td>
-<td>Antes de ser contratado como guía</td>
-<td>Durante su contratación como guía</td>
-<td>Al terminar su contratación como guía</td>
-</tr>
-<tr class="even">
-<td><strong>Doing</strong></td>
-<td><p>[Lleva sus reseñas de los lugares turísticos donde puede llevar
-personas]</p>
-<p>[Se dirige a la agencia donde trabaja]</p></td>
-<td><p>[Muestra sus reseñas de los destinos turísticos y su título de
-guía]</p>
-<p>[Ofrece sus servicios como guía]</p>
-<p>[Cobra dinero por el uso de sus servicios.]</p>
-<p>[Entrega reseñas del destino al cliente y procede a
-llevarlo]</p></td>
-<td><p>[Lleva a su cliente al destino turístico que desea]</p>
-<p>[Corrobora que su cliente disfrute de la guía turística y le da la
-tarjeta de la agencia para que vuelva otra vez]</p></td>
-</tr>
-<tr class="odd">
-<td><strong>Thinking</strong></td>
-<td><p>[Podré tener clientes el día de hoy]</p>
-<p>[Estaré vestido adecuadamente para ser un guía]</p></td>
-<td><p>[Alguien se acercará a ver mis reseñas del lugar turístico que
-puedo llevar]</p>
-<p>[Alguien me contratará]</p>
-<p>[Espero que el cliente se sienta satisfecho cuando lo lleve a visitar
-el lugar]</p></td>
-<td><p>[Ojalá haber cumplido sus expectativas como guía]</p>
-<p>[Espero que me recomiende con sus conocidos]</p></td>
-</tr>
-<tr class="even">
-<td><strong>Feeling</strong></td>
-<td><p>[Se siente angustiado porque no sabe si hoy tendrá clientes]</p>
-<p>[Siente temor de no resaltar entre sus compañeros guías]</p></td>
-<td><p>[Se siente desalentado porque quizás tarde más en conseguir un
-cliente de lo que esperaba]</p>
-<p>[Se siente aliviado al ver que un cliente solicita sus servicios]</p>
-<p>[Se siente feliz porque llegó a un acuerdo con el cliente]</p></td>
-<td><p>[Se siente aliviado al saber que si logro tener clientes en el
-día]</p>
-<p>[Se siente bien al poder dar sus servicios a un buen precio para los
-2]</p>
-<p>[Se siente optimista al esperar ser recomendado con los contactos del
-cliente]</p></td>
-</tr>
-</tbody>
-</table>
+| Phases            | Antes de ser contratado como guía                                | Durante su contratación como guía                                | Al terminar su contratación como guía                     |
+|-------------------|-------------------------------------------------------------------|------------------------------------------------------------------|---------------------------------------------------------|
+| Doing             | [Lleva sus reseñas de los lugares turísticos donde puede llevar personas] | [Muestra sus reseñas de los destinos turísticos y su título de guía] | [Lleva a su cliente al destino turístico que desea]     |
+|                   | [Se dirige a la agencia donde trabaja]                           | [Ofrece sus servicios como guía]                                | [Corrobora que su cliente disfrute de la guía turística y le da la tarjeta de la agencia para que vuelva otra vez] |
+| Thinking          | [Podré tener clientes el día de hoy]                             | [Alguien se acercará a ver mis reseñas del lugar turístico que puedo llevar] | [Ojalá haber cumplido sus expectativas como guía]       |
+|                   | [Estaré vestido adecuadamente para ser un guía]                   | [Alguien me contratará]                                          | [Espero que me recomiende con sus conocidos]           |
+| Feeling           | [Se siente angustiado porque no sabe si hoy tendrá clientes]     | [Se siente desalentado porque quizás tarde más en conseguir un cliente de lo que esperaba] | [Se siente aliviado al saber que si logro tener clientes en el día] |
+|                   | [Siente temor de no resaltar entre sus compañeros guías]         | [Se siente aliviado al ver que un cliente solicita sus servicios] | [Se siente bien al poder dar sus servicios a un buen precio para los 2] |
+|                   |                                                                   | [Se siente feliz porque llegó a un acuerdo con el cliente]       | [Se siente optimista al esperar ser recomendado con los contactos del cliente] |
+
 
 ## 2.4. Ubiquitous Language.
 
