@@ -37,6 +37,9 @@ Ciclo 2024-01 | Sección WS53
 |  |  | Gomez Hurtado, Miguel Angel | Capítulo 5.1 |
 |  |  |  | Capítulo 5.2 |
 
+##Project Report Collaboration Insights
+![Project Collaboration Insights](https://discord.com/channels/1225805191694254202/1226580112670064641/1231965327894646916)
+
 ## STUDENT OUTCOME
 
 
@@ -45,7 +48,6 @@ Ciclo 2024-01 | Sección WS53
 | Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería | **Cantoral Sedamano, Alexander Alberto** <br> TB1: Realización de entrevistas y organización del equipo para la entrega. <br> **Paitan Pumacahua, Max Anthony** <br> TB1: Realización de entrevista y comunicación constante con los integrantes del grupo. <br> **De la Cruz Villareal, Carlos Alejandro** <br> TB1: Realización de entrevistas y reuniones para acordar las responsabilidades de cada integrante. <br> **Acuña Tomas, Diego Rolin** <br> TB1: Identificar segmentos objetivos, y grabar las entrevistas. Por último, reunirnos para repartir partes. <br> **Miguel Angel Gomez Hurtado** <br> TB1: Realización de los LeanUx, creación de los diagramas 4C (DDD) <br> <br> Es fundamental que se realicen en conjunto los puntos establecidos en el documento del final statement, así mismo el cumplimiento de tareas en las reuniones | TB1: En conclusión, en este primer entregable hemos iniciado con nuestra investigación para apoyar a las comunidades rurales y los guías locales a poder contactar con potenciales clientes como pueden ser los turistas. A su vez, ya tenemos el primer prototipo de nuestra landing page, como también hemos iniciado con las descripciones de funcionalidades de nuestra aplicación web. |
 | Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto de ingeniería | **Cantoral Sedamano, Alexander Alberto** <br> TB1: Realización de la Landing Page, aporte a los capítulos 1,2,4 y 5. <br> **Paitan Pumacahua, Max Anthony** <br> TB1: Realización de los segmentos objetivo, competidores, estrategias y tácticas frente a competidores, user stories, wireframes y mockups del Landing Page, así como el mismo landing page y Services &  Applications Implementation. <br> **De la Cruz Villareal, Carlos Alejandro** <br> TB1: Realización de los Lean Ux hypothesis statements y Lean Ux canvas, as-is scenary map y to.be scenary map, impact map y product backlog. <br> **Acuña Tomas, Diego Rolin** <br> TB1: Realización de los Lean Ux, hypothesis. <br> **Miguel Angel Gomez Hurtado** <br> TB1: Realización de los Lean Ux <br> <br> Es fundamental que se realicen en conjunto los puntos establecidos en el documento del final statement, así mismo el cumplimiento de tareas en las reuniones | TB1: En conclusión, para este entregable terminamos de realizar toda la documentación necesaria respecto del problema planteado a resolver, indagando en las soluciones posibles con la recabación de información a través de los Lean Ux, Competidores, User Stories, entre otros; estos nos llevarán al desarrollo del aplicativo web que será muy útil frente a las necesidades específicas de nuestros clientes. |
 
-# CONTENIDO
 # TABLA DE CONTENIDOS
 
 # CAPÍTULO I: Introducción
@@ -942,31 +944,6 @@ Ciclo de Vida del Software: Etapas por las que pasa el desarrollo.
 | US13 | Ver información personal del guía | **Como** turista, **quiero** poder ver la información detallada y el perfil completo de un guía turístico, incluyendo su experiencia, especialidades y valoraciones de otros turistas | **ESCENARIO**: Ver información básica del guía turístico. **Dado que** el turista ha realizado una búsqueda de guías turísticos. **Cuando** el turista quiera ver la información del guía turístico de su interés. **Y** haga clic en “ver perfil de guía”. **Entonces** se le mostrará el perfil del guía turístico con sus datos básicos, como nombre, edad, experiencia como guía, entre otros | 04 |
 | US14 | Administrar lista de favoritos de guías | **Como** turista, **quiero** poder guardar guías turísticos en una lista de favoritos **para** poder acceder rápidamente a ellos y planificar futuros viajes | **ESCENARIO**: Seleccionar un guía turístico como favorito. **Dado que** el turista ha realizado una búsqueda de guías turísticos. **Cuando** el turista quiera seleccionar a un guía turístico como favorito. **Y** haga clic en el ícono de corazón. | Entonces se agregará al guía turístico a su lista de favoritos | 04 |
 | US15 | Contratar servicio del guía | **Como** turista, **quiero** poder contratar los servicios de un guía turístico directamente desde la plataforma, seleccionando el tour deseado y realizando el pago, **para** no perder tiempo | **ESCENARIO**: Seleccionar guía por el tour. **Dado que** el turista ha elegido al guía. **Cuando** el turista de clic en “Seleccionar guía”. | **Entonces** se le mandará a la siguiente parte de la sección “contratar”, donde se encuentra el pago | 04 |
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
- 
-
-
-
-
-
-                                                 
-                                                 
- 
 
 
 ## 3.3. Impact Mapping. 
