@@ -1319,6 +1319,24 @@ del landing page:
 
 ![Imagen de version2](https://cdn.discordapp.com/attachments/1226580112670064641/1227828675798630500/31.png?ex=66330e10&is=66209910&hm=41561bc382adaf574e53dffb21abad2483993e94236271042f4f4d8ddd87f444&)
 
+### 5.2.2. Sprit 2
+
+#### 5.2.2.1. Sprint Planning 2
+
+#### 5.2.2.2. Sprint Backlog 2
+
+#### 5.2.2.3. Development Evidence for Sprint Review
+
+#### 5.2.2.4. Testing Suite Evidence for Sprint Review
+
+#### 5.2.2.5. Execution Evidence for Sprint Review
+
+#### 5.2.2.6. Services Documentation Evidence for Sprint Review
+
+#### 5.2.2.7. Software Deployment Evidence for Sprint Review
+
+#### 5.2.2.8. Team Collaboration Insights during Sprint
+
 ## Conclusiones:
 
 Conclusiones TB1:
@@ -1333,6 +1351,8 @@ Conclusiones TB1:
 - Reconocer de manera correcta los segmentos y el uso del método lean ux
   ayudó para que se elaboré un correcto reporte para la futura
   aplicación.
+
+Conclusiones TP:
 
 ## Bibliografía:
 
