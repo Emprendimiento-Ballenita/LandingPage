@@ -1348,7 +1348,7 @@ del landing page:
 
 ![Imagen de version2](https://cdn.discordapp.com/attachments/1226580112670064641/1227828675798630500/31.png?ex=66330e10&is=66209910&hm=41561bc382adaf574e53dffb21abad2483993e94236271042f4f4d8ddd87f444&)
 
-### 5.2.2. Sprit 2
+### 5.2.2. Sprint 2
 
 #### 5.2.2.1. Sprint Planning 2
 
