@@ -1145,14 +1145,95 @@ En esta sección se detallan los sistemas de navegación que los usuarios emplea
 
 ## 4.4. Web Applications UX/UI Design. 
 ### 4.4.1. Web Applications Wireframes. 
-Aún están en desarrollo, ya que el grupo ha priorizado la documentación en general, así como el desarrollo del landing page.
-### 4.4.2. Web Applications Wireflow Diagrams. 
-Aún están en desarrollo, ya que el grupo ha priorizado la documentación en general, así como el desarrollo del landing page.
-### 4.4.3. Web Applications Mock-ups. 
-Aún están en desarrollo, ya que el grupo ha priorizado la documentación en general, así como el desarrollo del landing page.
-### 4.4.4. Web Applications User Flow Diagrams. 
-Aún están en desarrollo, ya que el grupo ha priorizado la documentación en general, así como el desarrollo del landing page.
 
+![Inicio Pagina](https://cdn.discordapp.com/attachments/1226580112670064641/1234540524459790407/image42.png?ex=66311af5&is=662fc975&hm=896195358faec00789a5abd21d9a3700335d770f7cc8056feb9ffdd8db862989&)
+
+![Registrarse](https://cdn.discordapp.com/attachments/1226580112670064641/1234541216155303996/image1.png?ex=66311b9a&is=662fca1a&hm=8b5b8e66a70976fd1f7456bf31065e0a939b877322c567797fe619bbf4b47dc4&)
+
+![Registrarse](https://cdn.discordapp.com/attachments/1226580112670064641/1234541316818472970/image13.png?ex=66311bb2&is=662fca32&hm=46a8a2c64476549e724f6792cfb82a52054ea774a0a6bd575a3a755054d35704&)
+
+![Pantalla de Turista](https://cdn.discordapp.com/attachments/1226580112670064641/1234541412272570409/image36.png?ex=66311bc9&is=662fca49&hm=b14f5ca473606b674511b1667a1ad7c2ce8095a6562391d0b8261bebc34bb43c&)
+
+![Pantalla de Guia turistico](https://cdn.discordapp.com/attachments/1226580112670064641/1234541507386802257/image4.png?ex=66311be0&is=662fca60&hm=fa862473d6a552aad08869fbaf682d9a570d117318a31dcca5bf21f0d1f31f1e&)
+
+### 4.4.2. Web Applications Wireflow Diagrams. 
+
+![Wireflow Diagram](https://cdn.discordapp.com/attachments/1226580112670064641/1234541842733994106/image19.png?ex=66311c2f&is=662fcaaf&hm=ce6e7901822def769862efc598b80b03492a98d93a6c017a47f28883193427fb&)
+
+![Wireflow Diagram](https://cdn.discordapp.com/attachments/1226580112670064641/1234541924187242607/image38.png?ex=66311c43&is=662fcac3&hm=808f06134705e17944b180e95c49353b1078d5006343bc43e3c46047f07698fe&)
+
+![Wireflow Diagram](https://cdn.discordapp.com/attachments/1226580112670064641/1234541992449409104/image21.png?ex=66311c53&is=662fcad3&hm=fd0113ca54d9caaa0ec90cc9f1e81017551b4e515abf521c25960e5c33f1d328&)
+
+### 4.4.3. Web Applications Mock-ups. 
+
+Inicio de la página web:
+Primero se visualiza la presentación de la página web
+![Inicio](https://cdn.discordapp.com/attachments/1226580112670064641/1234542392636346503/image18.png?ex=66311cb3&is=662fcb33&hm=9d841c1c38c2d3d31e20d81a86c8e56e8ab42e4f8298598891ca25946f630431&)
+
+Registro de sesión:
+Tal como su nombre dice Aquí se inicia sesión o se registra la sesión en
+el caso de no tener cuenta.
+![Registro de sesión](https://cdn.discordapp.com/attachments/1226580112670064641/1234542608466968626/image64.png?ex=66311ce6&is=662fcb66&hm=68eaf04595284bb61abf3b3617d4a50bb10a374d653f06ce8081f345fd6007a2&)
+
+Registro de Usuario:
+Aquí se decide si se registra como turista o como guia turistico
+![Registro de Usuario](https://cdn.discordapp.com/attachments/1226580112670064641/1234542801711005817/image11.png?ex=66311d14&is=662fcb94&hm=3f6289d5314f0bc9c1572b2dbf198d7b36ff2e52120b790783959477d95c79ad&)
+
+Elige el Plan:
+Aquí se selecciona el plan turístico o el plan guia turistico
+![Elige el Plan](https://cdn.discordapp.com/attachments/1226580112670064641/1234542939795882094/image17.png?ex=66311d35&is=662fcbb5&hm=a2febebf37d1bb10232ad4d8b85dd49f0e5efede5c7f6b343d8667cbec33f284&)
+
+Selección de viajes:
+Aquí se selecciona el turista selecciona que viaje va a tomar dando
+prioridad a lo más popular del momento
+![Selección de viajes](https://cdn.discordapp.com/attachments/1226580112670064641/1234543093672443964/image26.png?ex=66311d5a&is=662fcbda&hm=14f9033d14e2201cbebf335b7562d9adddb00dc108fe74b400bf27e5594b0cd7&)
+
+Una vez seleccionado el viaje se escoge al guia turistico
+![Selección de viajes](https://cdn.discordapp.com/attachments/1226580112670064641/1234543277886275685/image14.png?ex=66311d86&is=662fcc06&hm=176ddd62e80874b9bffe0bf165224795252928f6e1a39fa2f07d046e8b2537f7&)
+
+Después se selecciona una fecha y hora en la cual se quiera realizar el
+viaje
+![Selección de viajes](https://cdn.discordapp.com/attachments/1226580112670064641/1234543427132199032/image2.png?ex=66311da9&is=662fcc29&hm=65b05e99915f86010c5e962d689df3d81ff17c6602c0aa065b644f0a02afd782&)
+
+Confirmación de que se a añadido el viaje
+![Selección de viajes](https://cdn.discordapp.com/attachments/1226580112670064641/1234543582229299313/image6.png?ex=66311dce&is=662fcc4e&hm=9d0403fac5e53997edd72a9212c18a34f47e6d1b92cd5f1e6c038b9ad2d8ab5e&)
+
+En la parte de finanzas se visualiza el costo del viaje
+![Selección de viajes](https://cdn.discordapp.com/attachments/1226580112670064641/1234543711967252601/image10.png?ex=66311ded&is=662fcc6d&hm=f96162830af25ae3db926ff07acc13b4f009f08508041b1c9fdf8756e37d6eb8&)
+
+En la parte del chat se puede visualizar el chat que se tiene con el
+guia turistico
+![Selección de viajes](https://cdn.discordapp.com/attachments/1226580112670064641/1234543838916509767/image20.png?ex=66311e0b&is=662fcc8b&hm=f6079353d6dc3ab442ae2686403dad584aeb5332d81a0075048c507e001891b9&)
+
+En cuenta se visualizará la cuenta del usuario donde también podrá
+editarla
+![Selección de viajes](https://cdn.discordapp.com/attachments/1226580112670064641/1234543968109461594/image56.png?ex=66311e2a&is=662fccaa&hm=f76ad8dddc06eabc57bcdb9732f977d27cf108eabd0c7efae08750e440eba360&)
+
+![Selección de viajes](https://cdn.discordapp.com/attachments/1226580112670064641/1234544051701682226/image66.png?ex=66311e3e&is=662fccbe&hm=912abb184152306bd81bf600b3a2bcbac2a557293cf53d5dc18a88d5ce680be7&)
+
+### 4.4.4. Web Applications User Flow Diagrams. 
+A continuación, nos complace presentar los diagramas de flujo de usuario
+para nuestras aplicaciones web. Estos diagramas representan una
+visualización detallada y estructurada de los pasos que los usuarios
+seguirán al interactuar con nuestra plataforma en línea.
+
+![User Flow Diagrams](https://cdn.discordapp.com/attachments/1226580112670064641/1234544272083259473/image12.png?ex=66311e73&is=662fccf3&hm=0f9af783da4fb01582c5f84586f3b1320f9c6b035e5a1a674626980f7d099b5e&)
+
+![User Flow Diagrams](https://cdn.discordapp.com/attachments/1226580112670064641/1234544603714293790/image31.png?ex=66311ec2&is=662fcd42&hm=6a90e2079c375d40024ee987767a573d475dc98a2f411653dfe9429121bc9311&)
+
+![User Flow Diagrams](https://cdn.discordapp.com/attachments/1226580112670064641/1234544748052742245/image3.png?ex=66311ee4&is=662fcd64&hm=260da220f86fb9e25f4a78037458163e252ad6f68f53ea2d7e0fbf2587146e3b&)
+
+![User Flow Diagrams](https://cdn.discordapp.com/attachments/1226580112670064641/1234544820056359043/image48.png?ex=66311ef5&is=662fcd75&hm=96343d2b15be7138f4ed56fff5d4451fdd46eb43a61316d44fe0319e4f1644ed&)
+
+![User Flow Diagrams](https://cdn.discordapp.com/attachments/1226580112670064641/1234544887295115334/image7.png?ex=66311f05&is=662fcd85&hm=5a54d9e33e6ba4992b6b5829a55566601596bfd0eea797c5e1e2371084cc5e82&)
+
+![User Flow Diagrams](https://cdn.discordapp.com/attachments/1226580112670064641/1234545020955262996/image22.png?ex=66311f25&is=662fcda5&hm=59bb0d5f72e92f1a21b8456e2d14fb495a6495814b62b4970d7cd4667e1b6447&)
+
+![User Flow Diagrams](https://cdn.discordapp.com/attachments/1226580112670064641/1234545109400424518/image47.png?ex=66311f3a&is=662fcdba&hm=952b3fc2352bd8e704e289b52f39b31e812a7849ae61c2f09595dd93a1074e42&)
+
+![User Flow Diagrams](https://cdn.discordapp.com/attachments/1226580112670064641/1234545172000276573/image15.png?ex=66311f49&is=662fcdc9&hm=df29c9011b60214fea1c0d0a39558c2e68e4b1977f6b69488aed59795708dc8a&)
+
+![User Flow Diagrams](https://cdn.discordapp.com/attachments/1226580112670064641/1234545232339665086/image16.png?ex=66311f58&is=662fcdd8&hm=db72c1b93c4402e9b01c20ea55d63bbe6ac69c1c3662e5a1e59613b67892676d&)
 
 ## 4.5. Web Applications Prototyping. 
 ## 4.6. Domain-Driven Software Architecture.
