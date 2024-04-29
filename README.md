@@ -690,6 +690,7 @@ Segmento 1(Clientes):
 
 Entrevista \#1:
 Inicio: 0:00 - Final: 4:33
+
 La entrevista con Franco Ernesto De La Cruz, estudiante de la carrera de
 ingeniería de sistemas, nos dice que el turismo satisface su curiosidad
 por explorar el mundo y sus culturas. Aunque Franco Ernesto De La Cruz
@@ -704,6 +705,7 @@ la forma más confiable y segura, sin embargo, nunca se preguntó si
 tenían licencia o no. En resumen, la entrevista señala los pocos medios
 confiables que existen para contratar los servicios de un guía
 turístico.
+
 Entrevista \#2:
 Inicio: 4:33 - Final: 7:34 
 La entrevista con Lizbeth Olivera resalta la importancia del turismo
@@ -780,8 +782,67 @@ información de ellos con respecto a los lugares turísticos, puesto que
 muchas veces les ha dado mal de altura, vómitos, náuseas, etc.
 
 ### 2.2.3. Análisis de entrevistas.
+Entrevista #1:
 
+Entrevistado: Franco Ernesto De La Cruz
+Inicio: 0:00 - Final: 4:33
+Características Objetivas:
+Estudiante de ingeniería de sistemas.
+Viaja pocas veces al año.
+Utiliza principalmente sitios web de hoteles y centros turísticos para obtener información.
+Características Subjetivas:
+Experimenta una fuerte curiosidad por explorar el mundo y sus culturas.
+Considera esencial contratar guías turísticos para obtener una experiencia enriquecedora.
+Influencias: Experiencias previas de viaje.
+Tecnología: Utiliza principalmente el navegador Google Chrome para acceder a sitios web de hoteles y centros turísticos desde su smartphone.
+Canales de interacción: Sitios web de hoteles y centros turísticos.
+Browser: Google Chrome.
+Dispositivos: Smartphone.
+Entrevista #2:
 
+Entrevistado: Lizbeth Olivera
+Inicio: 4:33 - Final: 7:34
+Características Objetivas:
+Estudiante universitaria.
+Viaja regularmente a destinos locales.
+Características Subjetivas:
+Valora el turismo como una oportunidad para descubrir nuevos lugares y culturas.
+Prefiere obtener recomendaciones de guías turísticos a través de personas locales.
+Influencias: Experiencias negativas con guías turísticos.
+Tecnología: Utiliza principalmente el navegador Safari en su iPhone para acceder a información sobre destinos turísticos.
+Canales de interacción: Recomendaciones de personas locales.
+Browser: Safari.
+Dispositivos: iPhone.
+Entrevista #3:
+
+Entrevistado: Javier Orellana
+Inicio: 7:34 - Final: 13:14
+Características Objetivas:
+Ingeniero de software.
+Viaja dos o tres veces al año, tanto nacional como internacionalmente.
+Características Subjetivas:
+Considera vital la contratación de guías turísticos para comprender la historia y la cultura local.
+Prioriza guías con profundo conocimiento cultural y lingüístico.
+Influencias: Experiencia positiva con un guía en Nueva York.
+Tecnología: Utiliza principalmente el navegador Firefox en su laptop para acceder a información sobre destinos turísticos.
+Canales de interacción: Búsqueda en línea.
+Browser: Firefox.
+Dispositivos: Laptop.
+Entrevista #4:
+
+Entrevistado: Genaro Jeanpier Ledesma Pumacahua
+Inicio: 13:14 - Final: 17:28
+Características Objetivas:
+Estudiante de ingeniería civil.
+Disfruta de viajar en su tiempo libre, especialmente a ciudades nuevas o con hermosos paisajes.
+Características Subjetivas:
+Prefiere obtener guías turísticos en persona, consultando a varios antes de decidirse.
+Considera importante la seguridad al contratar un guía turístico.
+Influencias: Experiencias previas de viaje y seguridad personal.
+Tecnología: Utiliza principalmente el navegador Edge en su tablet para acceder a información sobre destinos turísticos.
+Canales de interacción: Obtención de guías en persona.
+Browser: Edge.
+Dispositivos: Tablet.
 
 ## 2.3. Needfinding. 
 
