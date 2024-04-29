@@ -104,6 +104,7 @@ TB2: Para esta entrega se continuó con la colaboración mediante el repositorio
                                 <li>TB1:
                                     <ul>
                                         <li>Participación en reuniones de equipo.</li>
+                                        <li>Interacción con stakeholders.</li>
                                     </ul>
                                 </li>
                                 <li>TP:
