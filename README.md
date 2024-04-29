@@ -1112,6 +1112,8 @@ Ciclo de Vida del Software: Etapas por las que pasa el desarrollo.
 
 - Frank desea hacerle guiado a un cliente
 
+![To-Be Scenario Mapping-guía](https://media.discordapp.net/attachments/1226580112670064641/1234507303953236008/image.png?ex=6630fc05&is=662faa85&hm=a6167357c4a803cfe88e56afd74d7b369031101e4bf243ea4cd01b0c6e1438b9&=&format=webp&quality=lossless&width=1017&height=701)
+
 | Phases            | Antes de ser contratado como guía                                   | Durante su contratación como guía                              | Al terminar su contratación como guía                         |
 |-------------------|----------------------------------------------------------------|-----------------------------------------------------------------|----------------------------------------------------------|
 | Doing             | [Abre la aplicación y se registra como guía turístico] | [Establece los lugares turísticos a donde puede llevar a sus clientes]                    | [Verifica el dinero que obtuvo por la visita turística]                |
