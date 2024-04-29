@@ -28,17 +28,46 @@ Ciclo 2024-01 | Sección WS53
 <br>
 
 ## REGISTRO DE VERSIONES DEL INFORME
-| Versión | Fecha | Autor | Descripcion y modificación |
-| ------- | ----- | ----- | -------------------------- |
-| 1.0 | 30/03/2023 | Cantoral Sedamano, Alexander Alberto | Capítulo 1 |
-|  |  | Paitan Pumacahua, Max Anthony | Capítulo 2 |
-|  |  | Acuña Tomas, Diego Rolin | Capítulo 3 |
-|  |  | De la Cruz Villareal, Carlos Alejandro | Capítulo 4 |
-|  |  | Gomez Hurtado, Miguel Angel | Capítulo 5.1 |
-|  |  |  | Capítulo 5.2 |
-
+<table border="1">
+  <tr>
+    <th>Version</th>
+    <th>Fecha</th>
+    <th>Autor</th>
+    <th>Descripción y Modificación</th>
+  </tr>
+  <tr>
+    <td>TB1</td>
+    <td>30/03/2024</td>
+    <td>Cantoral Sedamano, Alexander Alberto <br>
+        Paitan Pumacahua, Max Anthony <br>
+        Acuña Tomas, Diego Rolin <br>
+        Acuña Tomas, Diego Rolin <br>
+        De la Cruz Villareal, Carlos Alejandro <br>
+        Gomez Hurtado, Miguel Angel</td>
+    <td>Elaboración del capítulo 1, 2, 3 y 4. <br>
+        Avance del capítulo 5</td>
+  </tr>
+  <tr>
+    <td>TP</td>
+    <td>29/04/2024</td>
+    <td>Cantoral Sedamano, Alexander Alberto <br>
+        Paitan Pumacahua, Max Anthony <br>
+        Acuña Tomas, Diego Rolin <br>
+        Acuña Tomas, Diego Rolin <br>
+        De la Cruz Villareal, Carlos Alejandro <br>
+        Gomez Hurtado, Miguel Angel</td>
+    <td>Segundo avance del capítulo 5 y <br>
+        elaboración fraccionaria de la aplicación web</td>
+  </tr>
+</table>
 ##Project Report Collaboration Insights
+TB1: Para esta entrega se elaboro un archivo drive borrador compartido y un repositorio en github para el avance del informe y landing page
+
+![Project Collab] (https://cdn.discordapp.com/attachments/1226580112670064641/1234376358277419140/image.png?ex=66308211&is=662f3091&hm=135030dee8d1fbe5ece6a8d248db259847e3dd41d98a1b815297a4945edfaa32&)
+
 ![Project Collaboration Insights](https://media.discordapp.net/attachments/1226580112670064641/1231965327680733305/image.png?ex=6638e01e&is=66266b1e&hm=3018aed481258da0afa77a33f62798a3e2cea0a729c50f84c33cb335eab09362&=&format=webp&quality=lossless&width=1060&height=702)
+
+TB2: Para esta entrega se continuó con la colaboración mediante el repositorio en github
 
 ## STUDENT OUTCOME
 
