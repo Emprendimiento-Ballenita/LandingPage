@@ -854,7 +854,7 @@ Segmento 1 (Turista):
 
 Segmento 2 (Guía turístico):
 
-![Segmento 2 (Guía turístico)](https://media.discordapp.net/attachments/1226580112670064641/1227828297891578007/15.png?ex=6629d336&is=66175e36&hm=33e782335db31f4f089545840fc0463544facf4fb1b8f4543f3421695ef72f47&=&format=webp&quality=lossless&width=418&height=597)
+![Segmento 2 (Guía turístico)](https://cdn.discordapp.com/attachments/1226580112670064641/1234540346759708775/Aldo_Pastrana.png?ex=66311acb&is=662fc94b&hm=3f335efbea4c18f4d0c6138fa748287635d42b157a8871336de0cb5b5c5a0bab&)
 
 ### 2.3.2. User Task Matrix. 
 
