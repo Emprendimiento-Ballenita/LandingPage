@@ -71,75 +71,206 @@ TB2: Para esta entrega se continuó con la colaboración mediante el repositorio
 
 ## STUDENT OUTCOME
 
-<!DOCTYPE html>
-<html lang="es">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Acciones en Proyectos de Ingeniería</title>
-</head>
-<body>
-    <h2>Criterio Específico</h2>
-    <h3>Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería.</h3>
-    <h4>Cantoral Sedamano, Alexander Alberto:</h4>
-    <ul>
-        <li>TB1:
-            <ul>
-                <li>Participación en reuniones de equipo.</li>
-                <li>Interacción con stakeholders.</li>
-            </ul>
-        </li>
-        <li>TP:
-            <ul>
-                <li>Participación en reuniones de equipo.</li>
-            </ul>
-        </li>
-    </ul>
-    <!-- Más entradas de individuos con acciones realizadas -->
-
-    <h4>Conclusiones</h4>
-    <ul>
-        <li>TB1:
-            <p>En conclusión, en este primer entregable hemos iniciado con nuestra investigación para apoyar a las comunidades rurales y los guías locales a poder contactar con potenciales clientes como pueden ser los turistas. A su vez, ya tenemos el primer prototipo de nuestra landing page, como a su vez hemos iniciado con las descripción de funcionalidades de nuestra aplicación web.</p>
-        </li>
-        <li>TP:
-            <p>En resumen, para este entregable nos hemos concentrado más en el desarrollo del prototipo de la primera versión de la aplicación web.</p>
-        </li>
-    </ul>
-
-    <h2>Criterio Específico</h2>
-    <h3>Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería.</h3>
-    <h4>Cantoral Sedamano, Alexander Alberto:</h4>
-    <ul>
-        <li>TB1:
-            <ul>
-                <li>Elaboración de informes.</li>
-                <li>Elaboración de documentación técnica.</li>
-                <li>Desarrollo de la LP.</li>
-            </ul>
-        </li>
-        <li>TP:
-            <ul>
-                <li>Elaboración de informes.</li>
-                <li>Elaboración de documentación técnica.</li>
-            </ul>
-        </li>
-    </ul>
-    <!-- Más entradas de individuos con acciones realizadas -->
-
-    <h4>Conclusiones</h4>
-    <ul>
-        <li>TB1:
-            <p>En conclusión, la documentación técnica está casi completa, el informe casi completo para esta entrega y el código de la Landing Page funcional y corriendo en cualquier momento del día.</p>
-        </li>
-        <li>TP:
-            <p>En conclusión, se logró un avance en cuestión a lo faltante de la anterior entrega y a su vez con lo que se debe entregar en esta.</p>
-        </li>
-    </ul>
-</body>
-</html>
-
-
+<table>
+        <thead>
+            <tr>
+                <th>Criterio Específico</th>
+                <th>Acciones realizadas</th>
+                <th>Conclusiones</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería.</td>
+                <td>
+                    <ul>
+                        <li>Cantoral Sedamano, Alexander Alberto:
+                            <ul>
+                                <li>TB1:
+                                    <ul>
+                                        <li>Participación en reuniones de equipo.</li>
+                                        <li>Interacción con stakeholders.</li>
+                                    </ul>
+                                </li>
+                                <li>TP:
+                                    <ul>
+                                        <li>Participación en reuniones de equipo.</li>
+                                    </ul>
+                                </li>
+                            </ul>
+                        </li>
+                        <li>Paitan Pumacahua, Max Anthony:
+                            <ul>
+                                <li>TB1:
+                                    <ul>
+                                        <li>Participación en reuniones de equipo.</li>
+                                        <li>Interacción con stakeholders.</li>
+                                    </ul>
+                                </li>
+                                <li>TP:
+                                    <ul>
+                                        <li>Participación en reuniones de equipo.</li>
+                                    </ul>
+                                </li>
+                            </ul>
+                        </li>
+                        <li>Acuña Tomas, Diego Rolin:
+                            <ul>
+                                <li>TB1:
+                                    <ul>
+                                        <li>Participación en reuniones de equipo.</li>
+                                    </ul>
+                                </li>
+                                <li>TP:
+                                    <ul>
+                                        <li>Participación en reuniones de equipo.</li>
+                                    </ul>
+                                </li>
+                            </ul>
+                        </li>
+                        <li>De La Cruz Villarreal, Carlos Alejandro:
+                            <ul>
+                                <li>TB1:
+                                    <ul>
+                                        <li>Participación en reuniones de equipo.</li>
+                                        <li>Interacción con stakeholders.</li>
+                                    </ul>
+                                </li>
+                                <li>TP:
+                                    <ul>
+                                        <li>Participación en reuniones de equipo.</li>
+                                    </ul>
+                                </li>
+                            </ul>
+                        </li>
+                        <li>Miguel Angel Gomez Hurtado:
+                            <ul>
+                                <li>TB1:
+                                    <ul>
+                                        <li>Participación en reuniones de equipo.</li>
+                                    </ul>
+                                </li>
+                                <li>TP:
+                                    <ul>
+                                        <li>Participación en reuniones de equipo.</li>
+                                    </ul>
+                                </li>
+                            </ul>
+                        </li>
+                    </ul>
+                </td>
+                <td>
+                    <ul>
+                        <li>TB1:
+                            <p>En conclusión, en este primer entregable hemos iniciado con nuestra investigación para apoyar a las comunidades rurales y los guías locales a poder contactar con potenciales clientes como pueden ser los turistas. A su vez, ya tenemos el primer prototipo de nuestra landing page, como a su vez hemos iniciado con las descripción de funcionalidades de nuestra aplicación web.</p>
+                        </li>
+                        <li>TP:
+                            <p>En resumen, para este entregable nos hemos concentrado más en el desarrollo del prototipo de la primera versión de la aplicación web.</p>
+                        </li>
+                    </ul>
+                </td>
+            </tr>
+            <tr>
+                <td>Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería.</td>
+                <td>
+                    <ul>
+                        <li>Cantoral Sedamano, Alexander Alberto:
+                            <ul>
+                                <li>TB1:
+                                    <ul>
+                                        <li>Elaboración de informes.</li>
+                                        <li>Elaboración de documentación técnica.</li>
+                                        <li>Desarrollo de la LP.</li>
+                                    </ul>
+                                </li>
+                                <li>TP:
+                                    <ul>
+                                        <li>Elaboración de informes.</li>
+                                        <li>Elaboración de documentación técnica.</li>
+                                    </ul>
+                                </li>
+                            </ul>
+                        </li>
+                        <li>Paitan Pumacahua, Max Anthony:
+                            <ul>
+                                <li>TB1:
+                                    <ul>
+                                        <li>Elaboración de informes.</li>
+                                        <li>Elaboración de documentación técnica.</li>
+                                    </ul>
+                                </li>
+                                <li>TP:
+                                    <ul>
+                                        <li>Elaboración de informes.</li>
+                                        <li>Elaboración de documentación técnica.</li>
+                                    </ul>
+                                </li>
+                            </ul>
+                        </li>
+                        <li>Acuña Tomas, Diego Rolin:
+                            <ul>
+                                <li>TB1:
+                                    <ul>
+                                        <li>Elaboración de informes.</li>
+                                        <li>Elaboración de documentación técnica.</li>
+                                    </ul>
+                                </li>
+                                <li>TP:
+                                    <ul>
+                                        <li>Elaboración de informes.</li>
+                                        <li>Elaboración de documentación técnica.</li>
+                                    </ul>
+                                </li>
+                            </ul>
+                        </li>
+                        <li>De La Cruz Villarreal, Carlos Alejandro:
+                            <ul>
+                                <li>TB1:
+                                    <ul>
+                                        <li>Elaboración de informes.</li>
+                                        <li>Elaboración de documentación técnica.</li>
+                                    </ul>
+                                </li>
+                                <li>TP:
+                                    <ul>
+                                        <li>Elaboración de informes.</li>
+                                        <li>Elaboración de documentación técnica.</li>
+                                    </ul>
+                                </li>
+                            </ul>
+                        </li>
+                        <li>Miguel Angel Gomez Hurtado:
+                            <ul>
+                                <li>TB1:
+                                    <ul>
+                                        <li>Elaboración de informes.</li>
+                                        <li>Elaboración de documentación técnica.</li>
+                                    </ul>
+                                </li>
+                                <li>TP:
+                                    <ul>
+                                        <li>Elaboración de informes.</li>
+                                        <li>Elaboración de documentación técnica.</li>
+                                    </ul>
+                                </li>
+                            </ul>
+                        </li>
+                    </ul>
+                </td>
+                <td>
+                    <ul>
+                        <li>TB1:
+                            <p>En conclusión, la documentación técnica está casi completa, el informe casi completo para esta entrega y el código de la Landing Page funcional y corriendo en cualquier momento del día.</p>
+                        </li>
+                        <li>TP:
+                            <p>En conclusión, se logró un avance en cuestión a lo faltante de la anterior entrega y a su vez con lo que se debe entregar en esta.</p>
+                        </li>
+                    </ul>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+    
 # TABLA DE CONTENIDOS
 
 # CAPÍTULO I: Introducción
