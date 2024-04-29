@@ -1130,7 +1130,7 @@ Aún están en desarrollo, ya que el grupo ha priorizado la documentación en ge
 
 ## 4.7. Software Object-Oriented Design. 
 ### 4.7.1. Class Diagrams.
-Aún están en desarrollo, ya que el grupo ha priorizado la documentación en general, así como el desarrollo del landing page. 
+![Class Diagram](https://cdn.discordapp.com/attachments/1226580112670064641/1234488908935598080/segunda_version.drawio_1.png?ex=6630eae3&is=662f9963&hm=ad83c0c4e8b5924baa97aa889e0c67791d8e86c82ef6349d5d907bf41b9234d2&)
 
 ### 4.7.2. Class Dictionary. 
 Aún están en desarrollo, ya que el grupo ha priorizado la documentación en general, así como el desarrollo del landing page.
