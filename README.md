@@ -1099,6 +1099,8 @@ Ciclo de Vida del Software: Etapas por las que pasa el desarrollo.
 
 - Luis desea visitar un lugar turístico con un guía
 
+![To-Be Scenario Mapping-turista](https://media.discordapp.net/attachments/1226580112670064641/1234506941389078668/image.png?ex=6630fbae&is=662faa2e&hm=9b16ee40b191d9c32b3bb7393e0e6d06ef902f651a6c470fea3360246f9b05a0&=&format=webp&quality=lossless&width=1012&height=701)
+
 | Phases            | Antes de contratar al guía                                    | Durante la contratación del guía                                | Al terminar de contratar el guía                          |
 |-------------------|----------------------------------------------------------------|-----------------------------------------------------------------|----------------------------------------------------------|
 | Doing             | [Luis revisa la cantidad de dinero que posee en su tarjeta] | [Busca el lugar al que desea ir]                    | [Espera la respuesta del guía]                 |
