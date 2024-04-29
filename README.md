@@ -1307,7 +1307,7 @@ web service en este sprint.
 
 El landing page ha sido desplegado con GitHub:
 
-![Imagen de despliegue](https://cdn.discordapp.com/attachments/1226580112670064641/1227828642407518258/29.png?ex=66273088&is=6625df08&hm=cdcd7d7cd90fabfdb3f8988b87e94c5fef2fedc84a3d4cf4482140e3c19935b8&)
+![Imagen de despliegue]([https://cdn.discordapp.com/attachments/1226580112670064641/1227828642407518258/29.png?ex=66273088&is=6625df08&hm=cdcd7d7cd90fabfdb3f8988b87e94c5fef2fedc84a3d4cf4482140e3c19935b8&](https://media.discordapp.net/attachments/1226580112670064641/1231846744355115058/image.png?ex=662fdfee&is=662e8e6e&hm=72b1bcf5b345273c9776aaf07a8fb617554b58a43620366ed78c890fbb9e4661&=&format=webp&quality=lossless&width=986&height=240))
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint
 
