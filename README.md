@@ -71,11 +71,74 @@ TB2: Para esta entrega se continuó con la colaboración mediante el repositorio
 
 ## STUDENT OUTCOME
 
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Acciones en Proyectos de Ingeniería</title>
+</head>
+<body>
+    <h2>Criterio Específico</h2>
+    <h3>Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería.</h3>
+    <h4>Cantoral Sedamano, Alexander Alberto:</h4>
+    <ul>
+        <li>TB1:
+            <ul>
+                <li>Participación en reuniones de equipo.</li>
+                <li>Interacción con stakeholders.</li>
+            </ul>
+        </li>
+        <li>TP:
+            <ul>
+                <li>Participación en reuniones de equipo.</li>
+            </ul>
+        </li>
+    </ul>
+    <!-- Más entradas de individuos con acciones realizadas -->
 
-| Criterio Específico | Acciones Realizadas | Conclusiones |
-| --- | --- | --- |
-| Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería | **Cantoral Sedamano, Alexander Alberto** <br> TB1: Realización de entrevistas y organización del equipo para la entrega. <br> **Paitan Pumacahua, Max Anthony** <br> TB1: Realización de entrevista y comunicación constante con los integrantes del grupo. <br> **De la Cruz Villareal, Carlos Alejandro** <br> TB1: Realización de entrevistas y reuniones para acordar las responsabilidades de cada integrante. <br> **Acuña Tomas, Diego Rolin** <br> TB1: Identificar segmentos objetivos, y grabar las entrevistas. Por último, reunirnos para repartir partes. <br> **Miguel Angel Gomez Hurtado** <br> TB1: Realización de los LeanUx, creación de los diagramas 4C (DDD) <br> <br> Es fundamental que se realicen en conjunto los puntos establecidos en el documento del final statement, así mismo el cumplimiento de tareas en las reuniones | TB1: En conclusión, en este primer entregable hemos iniciado con nuestra investigación para apoyar a las comunidades rurales y los guías locales a poder contactar con potenciales clientes como pueden ser los turistas. A su vez, ya tenemos el primer prototipo de nuestra landing page, como también hemos iniciado con las descripciones de funcionalidades de nuestra aplicación web. |
-| Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto de ingeniería | **Cantoral Sedamano, Alexander Alberto** <br> TB1: Realización de la Landing Page, aporte a los capítulos 1,2,4 y 5. <br> **Paitan Pumacahua, Max Anthony** <br> TB1: Realización de los segmentos objetivo, competidores, estrategias y tácticas frente a competidores, user stories, wireframes y mockups del Landing Page, así como el mismo landing page y Services &  Applications Implementation. <br> **De la Cruz Villareal, Carlos Alejandro** <br> TB1: Realización de los Lean Ux hypothesis statements y Lean Ux canvas, as-is scenary map y to.be scenary map, impact map y product backlog. <br> **Acuña Tomas, Diego Rolin** <br> TB1: Realización de los Lean Ux, hypothesis. <br> **Miguel Angel Gomez Hurtado** <br> TB1: Realización de los Lean Ux <br> <br> Es fundamental que se realicen en conjunto los puntos establecidos en el documento del final statement, así mismo el cumplimiento de tareas en las reuniones | TB1: En conclusión, para este entregable terminamos de realizar toda la documentación necesaria respecto del problema planteado a resolver, indagando en las soluciones posibles con la recabación de información a través de los Lean Ux, Competidores, User Stories, entre otros; estos nos llevarán al desarrollo del aplicativo web que será muy útil frente a las necesidades específicas de nuestros clientes. |
+    <h4>Conclusiones</h4>
+    <ul>
+        <li>TB1:
+            <p>En conclusión, en este primer entregable hemos iniciado con nuestra investigación para apoyar a las comunidades rurales y los guías locales a poder contactar con potenciales clientes como pueden ser los turistas. A su vez, ya tenemos el primer prototipo de nuestra landing page, como a su vez hemos iniciado con las descripción de funcionalidades de nuestra aplicación web.</p>
+        </li>
+        <li>TP:
+            <p>En resumen, para este entregable nos hemos concentrado más en el desarrollo del prototipo de la primera versión de la aplicación web.</p>
+        </li>
+    </ul>
+
+    <h2>Criterio Específico</h2>
+    <h3>Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería.</h3>
+    <h4>Cantoral Sedamano, Alexander Alberto:</h4>
+    <ul>
+        <li>TB1:
+            <ul>
+                <li>Elaboración de informes.</li>
+                <li>Elaboración de documentación técnica.</li>
+                <li>Desarrollo de la LP.</li>
+            </ul>
+        </li>
+        <li>TP:
+            <ul>
+                <li>Elaboración de informes.</li>
+                <li>Elaboración de documentación técnica.</li>
+            </ul>
+        </li>
+    </ul>
+    <!-- Más entradas de individuos con acciones realizadas -->
+
+    <h4>Conclusiones</h4>
+    <ul>
+        <li>TB1:
+            <p>En conclusión, la documentación técnica está casi completa, el informe casi completo para esta entrega y el código de la Landing Page funcional y corriendo en cualquier momento del día.</p>
+        </li>
+        <li>TP:
+            <p>En conclusión, se logró un avance en cuestión a lo faltante de la anterior entrega y a su vez con lo que se debe entregar en esta.</p>
+        </li>
+    </ul>
+</body>
+</html>
+
 
 # TABLA DE CONTENIDOS
 
