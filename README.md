@@ -1101,27 +1101,10 @@ Ciclo de Vida del Software: Etapas por las que pasa el desarrollo.
 
 ![To-Be Scenario Mapping-turista](https://media.discordapp.net/attachments/1226580112670064641/1234506941389078668/image.png?ex=6630fbae&is=662faa2e&hm=9b16ee40b191d9c32b3bb7393e0e6d06ef902f651a6c470fea3360246f9b05a0&=&format=webp&quality=lossless&width=1012&height=701)
 
-| Phases            | Antes de contratar al guía                                    | Durante la contratación del guía                                | Al terminar de contratar el guía                          |
-|-------------------|----------------------------------------------------------------|-----------------------------------------------------------------|----------------------------------------------------------|
-| Doing             | [Luis revisa la cantidad de dinero que posee en su tarjeta] | [Busca el lugar al que desea ir]                    | [Espera la respuesta del guía]                 |
-|                   | [Luis abre la aplicación para buscar la lista de guías]             | [Visualiza la lista de guías que pueden llevarlo al lugar que quiere]                                 | [Recibe la respuesta de aceptación del guía]                    |
-| Thinking          | [Ojalá el precio del guiado no sea tan alto]          | [Hay varios guías que me pueden llevar al destino turístico que quiero]| [Ojalá cuando baje del terminal el guía esté esperándome y no se haya retrasado]                          |
-|                   | [Piensa en cuán seguro es contratar un guía] | [Los precios del guiado no son tan elevados como pensé] | [La visita al lugar fue muy buena, volveré otra vez para repetirlo] |
-| Feeling           | [Siente preocupación al pensar que el guiado puede ser muy costoso] | [Gratamente sorprendido al ver que hay muchos guías que pueden llevarlo al destino turístico] | [Preocupación de cuánto tardará en responder el guía] |
-|                   | [No está seguro de cómo funciona la aplicación ya que es nueva]                           | [Feliz porque el precio del guiado no es tan alto como pensaba] | [Fascinado por la rápida respuesta del guía] |
-
 - Frank desea hacerle guiado a un cliente
 
 ![To-Be Scenario Mapping-guía](https://media.discordapp.net/attachments/1226580112670064641/1234507303953236008/image.png?ex=6630fc05&is=662faa85&hm=a6167357c4a803cfe88e56afd74d7b369031101e4bf243ea4cd01b0c6e1438b9&=&format=webp&quality=lossless&width=1017&height=701)
 
-| Phases            | Antes de ser contratado como guía                                   | Durante su contratación como guía                              | Al terminar su contratación como guía                         |
-|-------------------|----------------------------------------------------------------|-----------------------------------------------------------------|----------------------------------------------------------|
-| Doing             | [Abre la aplicación y se registra como guía turístico] | [Establece los lugares turísticos a donde puede llevar a sus clientes]                    | [Verifica el dinero que obtuvo por la visita turística]                |
-|                   | [Ingresa sus datos como personas y como guía en la aplicación]            | [Fija un precio regular para sus servicios como guía turístico]                                 | [Revisa la evaluación del cliente sobre su servicio como guíal]                    |
-| Thinking          | [Podré tener clientes lo más antes posible ]          | [Ojalá alguien vea mi información personal y laboral en la aplicación]| [Ojalá haber cumplido sus expectativas como guia]                         |
-|                   | [Espero que mi cliente no sea una persona problemática ] | [El dinero por mis servicios ojalá sea bueno para los 2] | [Espero que me califique con un buen puntaje en la aplicación] |
-| Feeling           | [Se siente angustiado porque todavía no consigue clientes] | [Se siente desalentado porque quizás tarde más en conseguir un cliente de lo que esperaba] | [Se siente aliviado al saber que tuvo su primer cliente] |
-|                   | [Siente temor debido a que es nuevo en la aplicación]                           | [Se siente aliviado al ver que un cliente solicita sus servicios] | [Se siente bien al poder dar sus servicios a un buen precio] |
 ## 3.2. User Stories. 
 
 |                                                             |                                                              |                                             |
@@ -1605,3 +1588,5 @@ Conclusiones TP:
 - Anexo 5: Landing Page desplegada <https://emprendimiento-ballenita.github.io/LandingPage/>
 
 - Anexo 6: Repositorio de Landing Page con el archivo md del reporte <https://github.com/Emprendimiento-Ballenita/LandingPage>
+
+- Anexo 7: Enlace a los Scenario Mapping <https://miro.com/app/board/uXjVMgbWJ2U=/>
