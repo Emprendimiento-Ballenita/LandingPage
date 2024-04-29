@@ -840,7 +840,7 @@ Segmento 2 (Guía turístico):
 ### 2.3.3. User Journey Mapping. 
 Segmento 1 (Turista):
 
-![Segmento 1 (Turista)](https://media.discordapp.net/attachments/1226580112670064641/1227828322348830770/16.png?ex=6629d33b&is=66175e3b&hm=a7f15e3ff123e62d8680bf9276341a759fd7d5d15db9633f4a8fd6a34a1b392d&=&format=webp&quality=lossless&width=530&height=350)
+![Segmento 1 (Turista)](https://cdn.discordapp.com/attachments/1226580112670064641/1227828322348830770/16.png?ex=66306abb&is=662f193b&hm=74b848f31b14c596cbafc52468220d25defa8d6a94cdd10cf9e8347b135aced9&)
 
 Segmento 2 (Guía turístico):
 
