@@ -694,44 +694,9 @@ medio, ya conocen todos los detalles de tus recorridos?
 | Entrevista #1     | **Nombre del entrevistado:** Aldo Pastrana Leon<br>**Link del video evidenciando la entrevista :** [https://www.youtube.com/watch?v=Zw5uVPyu938](https://www.youtube.com/watch?v=Zw5uVPyu938)<br>**Edad:** 22<br>**Ciudad:** Canta<br>**Profesión:** Estudiante de Guía oficial del turismo |
 | Entrevista #2     | **Nombre del entrevistado:**<br>**Link del video evidenciando la entrevista :**                                                                               |
 
-
-### 2.2.3. Análisis de entrevistas.
-
 Segmento 1(Clientes):
 
 Entrevista \#1:
-
-La entrevista con Javier Orellana, un ingeniero de software destaca la
-relevancia del turismo para desconectarse del trabajo y explorar nuevas
-culturas. Orellana viaja dos o tres veces al año, visitando destinos
-tanto nacionales como internacionales. Destaca la importancia de
-contratar guías turísticos para comprender la historia y la cultura
-local, aunque reconoce haber prescindido de ellos en ocasiones. Prioriza
-que los guías sean nativos del lugar o tengan un profundo conocimiento
-cultural y lingüístico. Aunque no siempre se verifica si tienen
-licencias, destaca una experiencia positiva en la que un guía recomendó
-un excelente restaurante durante su viaje a Nueva York. En resumen, la
-entrevista subraya la necesidad de contratar guías turísticos para
-enriquecer la experiencia de viaje y explorar nuevos destinos de manera
-significativa.
-
-Entrevista \#2:
-
-La entrevista con Lizbeth Olivera resalta la importancia del turismo
-para descubrir nuevos lugares y culturas. Olivera, una estudiante
-universitaria, viaja regularmente a destinos locales. Aunque no ha
-utilizado sitios web o aplicaciones de viajes con frecuencia, reconoce
-la importancia de contratar guías turísticos para algunas experiencias.
-Sin embargo, ha tenido experiencias negativas en las que no se mostraron
-todos los lugares prometidos durante el recorrido. Cuando busca
-contratar un guía turístico, prefiere preguntar a personas locales para
-obtener recomendaciones confiables. Aunque no siempre verifica si los
-guías tienen licencia, prioriza la seguridad y la calidad del servicio.
-En resumen, la entrevista destaca la necesidad de mejorar la calidad y
-la transparencia de los servicios turísticos para una experiencia más
-satisfactoria.
-
-Entrevista \#3:
 
 La entrevista con Franco Ernesto De La Cruz, estudiante de la carrera de
 ingeniería de sistemas, nos dice que el turismo satisface su curiosidad
@@ -747,6 +712,39 @@ la forma más confiable y segura, sin embargo, nunca se preguntó si
 tenían licencia o no. En resumen, la entrevista señala los pocos medios
 confiables que existen para contratar los servicios de un guía
 turístico.
+Entrevista \#2:
+
+La entrevista con Javier Orellana, un ingeniero de software destaca la
+relevancia del turismo para desconectarse del trabajo y explorar nuevas
+culturas. Orellana viaja dos o tres veces al año, visitando destinos
+tanto nacionales como internacionales. Destaca la importancia de
+contratar guías turísticos para comprender la historia y la cultura
+local, aunque reconoce haber prescindido de ellos en ocasiones. Prioriza
+que los guías sean nativos del lugar o tengan un profundo conocimiento
+cultural y lingüístico. Aunque no siempre se verifica si tienen
+licencias, destaca una experiencia positiva en la que un guía recomendó
+un excelente restaurante durante su viaje a Nueva York. En resumen, la
+entrevista subraya la necesidad de contratar guías turísticos para
+enriquecer la experiencia de viaje y explorar nuevos destinos de manera
+significativa.
+
+Entrevista \#3:
+
+La entrevista con Lizbeth Olivera resalta la importancia del turismo
+para descubrir nuevos lugares y culturas. Olivera, una estudiante
+universitaria, viaja regularmente a destinos locales. Aunque no ha
+utilizado sitios web o aplicaciones de viajes con frecuencia, reconoce
+la importancia de contratar guías turísticos para algunas experiencias.
+Sin embargo, ha tenido experiencias negativas en las que no se mostraron
+todos los lugares prometidos durante el recorrido. Cuando busca
+contratar un guía turístico, prefiere preguntar a personas locales para
+obtener recomendaciones confiables. Aunque no siempre verifica si los
+guías tienen licencia, prioriza la seguridad y la calidad del servicio.
+En resumen, la entrevista destaca la necesidad de mejorar la calidad y
+la transparencia de los servicios turísticos para una experiencia más
+satisfactoria.
+
+
 
 Entrevista \#4:
 
@@ -789,6 +787,10 @@ masivo comparado a años anteriores. Finalmente nos cuenta que los
 problemas más frecuentes que ha tenido con sus clientes ha sido la poca
 información de ellos con respecto a los lugares turísticos, puesto que
 muchas veces les ha dado mal de altura, vómitos, náuseas, etc.
+
+### 2.2.3. Análisis de entrevistas.
+
+
 
 ## 2.3. Needfinding. 
 
