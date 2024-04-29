@@ -1170,7 +1170,7 @@ Aún están en desarrollo, ya que el grupo ha priorizado la documentación en ge
 ## 4.7. Software Object-Oriented Design. 
 ### 4.7.1. Class Diagrams.
 
-![Class Diagram](https://cdn.discordapp.com/attachments/1226580112670064641/1234535579044155503/image.png?ex=6631165a&is=662fc4da&hm=89f4a6265babaa4efbcc67f0a0b7d1753618e6c12721603467f8ed39c7ba9971&)
+![Class Diagram](https://cdn.discordapp.com/attachments/1226580112670064641/1234537371387822080/image.png?ex=66311805&is=662fc685&hm=9bcc15f4c6602c7bccfb7fbee0117fac5b579153e3906caf456adbe5dad26884&)
 
 ### 4.7.2. Class Dictionary. 
 Aún están en desarrollo, ya que el grupo ha priorizado la documentación en general, así como el desarrollo del landing page.
@@ -1449,3 +1449,5 @@ Conclusiones TP:
 - Anexo 6: Repositorio de Landing Page con el archivo md del reporte <https://github.com/Emprendimiento-Ballenita/LandingPage>
 
 - Anexo 7: Enlace a los Scenario Mapping <https://miro.com/app/board/uXjVMgbWJ2U=/>
+
+- Anexo 8: Enlace Class Diagram <https://lucid.app/lucidchart/48f42b15-c7af-49cc-b929-2107cd6ceb02/edit?invitationId=inv_c65ac2b0-5736-408c-9177-9cd9f3ad41b5&page=0_0#>
