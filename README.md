@@ -850,7 +850,7 @@ Dispositivos: Tablet.
 
 Segmento 1 (Turista):
 
-![Segmento 1 (Turista)](https://media.discordapp.net/attachments/1226580112670064641/1227828275490066473/14.png?ex=6629d330&is=66175e30&hm=c148d38d48214410c553f6bab2110245a91f25548a3807408727d84540e0b93d&=&format=webp&quality=lossless&width=385&height=597)
+![Segmento 1 (Turista)](https://cdn.discordapp.com/attachments/1226580112670064641/1234534268722610176/Carlos_Rodriguez_1.png?ex=66311522&is=662fc3a2&hm=cc11c57a3a0ac31e47a72b659247d62bb85600be8254b26cfca8d9bb835c41ae&)
 
 Segmento 2 (Guía turístico):
 
