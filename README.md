@@ -682,22 +682,14 @@ además de guía?
 medio, ya conocen todos los detalles de tus recorridos?
 
 ### 2.2.2. Registro de entrevistas.
-| Cliente o Turista | Descripción                                                                                                                                                            |
-|-------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Entrevista #1     | **Nombre del entrevistado:** Lizbeth Olivera Álvarez<br>**Link del video evidenciando la entrevista :** [Link de la entrevista](https://drive.google.com/file/d/1nTkm4sO2U1nq2i-vFnWVnu-L5zuo4nmJ/view?usp=drive_link)<br>**Edad:** 25 años<br>**Ciudad:** Lima<br>**Profesión:** Estudiante de Ciencias de la computación |
-| Entrevista #2     | **Nombre del entrevistado:** Javier Francisco Orellana Pérez<br>**Link del video evidenciando la entrevista :** [Link de la entrevista](https://drive.google.com/file/d/1LXyRAs1fXEObiug3tRdK0ZP2e2DeZGW5/view?usp=drive_link)<br>**Edad:** 21 años<br>**Ciudad:** Lima<br>**Profesión:** Ingeniero de Software             |
-| Entrevista #3     | **Nombre del entrevistado:** Franco Ernesto De La Cruz Delgado<br>**Link del video evidenciando la entrevista :** [Link de la Entrevista](https://drive.google.com/file/d/1w3EgYezBSTRnM6X2BL9EHVpnZeylz7co/view?usp=sharing)<br>**Edad:** 21 años<br>**Ciudad:** Lima<br>**Profesión:** Estudiante de Ingeniería de sistemas |
-| Entrevista #4     | **Nombre del entrevistado:** Genaro Jeanpier Ledesma Pumacahua<br>**Link del video evidenciando la entrevista :** [Link de la entrevista](https://youtu.be/XJjxEI7jeQY)<br>**Edad:** 21 años<br>**Ciudad:** Lima<br>**Profesión:** Estudiante de Ingeniería Civil                      |
+  
+![Link entrevistas](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20181b152_upc_edu_pe/Eb3zjsgRPFVFgWVmUzIKGr8BUQlXtWvNmc0fAnuMtnLfIg?e=GPikGC)
 
-| Guía turístico    | Descripción                                                                                      |
-|-------------------|--------------------------------------------------------------------------------------------------|
-| Entrevista #1     | **Nombre del entrevistado:** Aldo Pastrana Leon<br>**Link del video evidenciando la entrevista :** [https://www.youtube.com/watch?v=Zw5uVPyu938](https://www.youtube.com/watch?v=Zw5uVPyu938)<br>**Edad:** 22<br>**Ciudad:** Canta<br>**Profesión:** Estudiante de Guía oficial del turismo |
-| Entrevista #2     | **Nombre del entrevistado:**<br>**Link del video evidenciando la entrevista :**                                                                               |
-
+###### Resumenes de entrevistas:
 Segmento 1(Clientes):
 
 Entrevista \#1:
-
+Inicio: 0:00 - Final: 4:33
 La entrevista con Franco Ernesto De La Cruz, estudiante de la carrera de
 ingeniería de sistemas, nos dice que el turismo satisface su curiosidad
 por explorar el mundo y sus culturas. Aunque Franco Ernesto De La Cruz
@@ -713,23 +705,7 @@ tenían licencia o no. En resumen, la entrevista señala los pocos medios
 confiables que existen para contratar los servicios de un guía
 turístico.
 Entrevista \#2:
-
-La entrevista con Javier Orellana, un ingeniero de software destaca la
-relevancia del turismo para desconectarse del trabajo y explorar nuevas
-culturas. Orellana viaja dos o tres veces al año, visitando destinos
-tanto nacionales como internacionales. Destaca la importancia de
-contratar guías turísticos para comprender la historia y la cultura
-local, aunque reconoce haber prescindido de ellos en ocasiones. Prioriza
-que los guías sean nativos del lugar o tengan un profundo conocimiento
-cultural y lingüístico. Aunque no siempre se verifica si tienen
-licencias, destaca una experiencia positiva en la que un guía recomendó
-un excelente restaurante durante su viaje a Nueva York. En resumen, la
-entrevista subraya la necesidad de contratar guías turísticos para
-enriquecer la experiencia de viaje y explorar nuevos destinos de manera
-significativa.
-
-Entrevista \#3:
-
+Inicio: 4:33 - Final: 7:34 
 La entrevista con Lizbeth Olivera resalta la importancia del turismo
 para descubrir nuevos lugares y culturas. Olivera, una estudiante
 universitaria, viaja regularmente a destinos locales. Aunque no ha
@@ -744,10 +720,25 @@ En resumen, la entrevista destaca la necesidad de mejorar la calidad y
 la transparencia de los servicios turísticos para una experiencia más
 satisfactoria.
 
+Entrevista \#3:
+Inicio: 7:34 - Final: 13:14
+La entrevista con Javier Orellana, un ingeniero de software destaca la
+relevancia del turismo para desconectarse del trabajo y explorar nuevas
+culturas. Orellana viaja dos o tres veces al año, visitando destinos
+tanto nacionales como internacionales. Destaca la importancia de
+contratar guías turísticos para comprender la historia y la cultura
+local, aunque reconoce haber prescindido de ellos en ocasiones. Prioriza
+que los guías sean nativos del lugar o tengan un profundo conocimiento
+cultural y lingüístico. Aunque no siempre se verifica si tienen
+licencias, destaca una experiencia positiva en la que un guía recomendó
+un excelente restaurante durante su viaje a Nueva York. En resumen, la
+entrevista subraya la necesidad de contratar guías turísticos para
+enriquecer la experiencia de viaje y explorar nuevos destinos de manera
+significativa.
 
 
 Entrevista \#4:
-
+Inicio: 13:14 - Final: 17:28
 La entrevista con Genaro Jeanpier Ledesma Pumacahua, estudiante de la
 carrera de Ingeniería Civil, fue muy fructífera para la obtención de
 datos que beneficiarán a nuestro proyecto. El entrevistado nos menciona
@@ -772,7 +763,7 @@ licencia, salvo en lugares muy visitados, como Cuzco.
 Segmento 2(Guías):
 
 Entrevista#1
-
+Inicio: 17:28 - Final: 24:27
 La entrevista con Aldo Pastrana Leon, estudiante de la carrera Guía del
 turismo, fue muy provechosa para poder tener información sobre guías
 para nuestro proyecto. El entrevistado nos menciona que tiene la
